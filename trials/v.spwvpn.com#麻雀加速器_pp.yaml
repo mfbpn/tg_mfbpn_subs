@@ -53,7 +53,7 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v.spwvpn.com#麻雀加速器/All.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/v.spwvpn.com#麻雀加速器/All.yaml
     interval: 180
     path: trials_providers/v.spwvpn.com#麻雀加速器/All.yaml
     health-check:

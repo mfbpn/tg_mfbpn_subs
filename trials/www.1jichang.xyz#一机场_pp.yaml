@@ -117,7 +117,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.1jichang.xyz#一机场/HK.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.1jichang.xyz#一机场/HK.yaml
     interval: 180
     path: trials_providers/www.1jichang.xyz#一机场/HK.yaml
     health-check:
@@ -126,7 +126,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.1jichang.xyz#一机场/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.1jichang.xyz#一机场/SG.yaml
     interval: 180
     path: trials_providers/www.1jichang.xyz#一机场/SG.yaml
     health-check:
@@ -135,7 +135,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.1jichang.xyz#一机场/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.1jichang.xyz#一机场/JP.yaml
     interval: 180
     path: trials_providers/www.1jichang.xyz#一机场/JP.yaml
     health-check:
@@ -144,7 +144,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.1jichang.xyz#一机场/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.1jichang.xyz#一机场/US.yaml
     interval: 180
     path: trials_providers/www.1jichang.xyz#一机场/US.yaml
     health-check:
@@ -153,7 +153,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.1jichang.xyz#一机场/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.1jichang.xyz#一机场/p_All_Other.yaml
     interval: 180
     path: trials_providers/www.1jichang.xyz#一机场/p_All_Other.yaml
     health-check:
