@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：28 天 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 【公告】调整协议加密功能，可能出现波动，请更新订阅 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}

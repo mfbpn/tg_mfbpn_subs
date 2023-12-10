@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc153 - 永动机, server: zfkr1.30803080.xyz, port: 20210, type: vmess, uuid: b8dfba22-f288-4cf8-b838-864a0146d198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc198 - 永动机, server: zfkr1.30803080.xyz, port: 20211, type: vmess, uuid: b8dfba22-f288-4cf8-b838-864a0146d198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇺🇸 白银vip｜中转 -> 美国｜vvSoc199 - 永动机, server: zfkr1.30803080.xyz, port: 20212, type: vmess, uuid: b8dfba22-f288-4cf8-b838-864a0146d198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
