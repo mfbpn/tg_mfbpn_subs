@@ -53,7 +53,7 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/aa.dabai.in/All.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/aa.dabai.in/All.yaml
     interval: 180
     path: trials_providers/aa.dabai.in/All.yaml
     health-check:

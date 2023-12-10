@@ -104,7 +104,7 @@ proxy-groups:
 proxy-providers:
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/pigvip.xyz/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/pigvip.xyz/SG.yaml
     interval: 180
     path: trials_providers/pigvip.xyz/SG.yaml
     health-check:
@@ -113,7 +113,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/pigvip.xyz/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/pigvip.xyz/JP.yaml
     interval: 180
     path: trials_providers/pigvip.xyz/JP.yaml
     health-check:
@@ -122,7 +122,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/pigvip.xyz/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/pigvip.xyz/US.yaml
     interval: 180
     path: trials_providers/pigvip.xyz/US.yaml
     health-check:
@@ -131,7 +131,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/pigvip.xyz/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/pigvip.xyz/Other.yaml
     interval: 180
     path: trials_providers/pigvip.xyz/Other.yaml
     health-check:

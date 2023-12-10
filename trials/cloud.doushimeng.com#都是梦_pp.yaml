@@ -119,7 +119,7 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.doushimeng.com#都是梦/TW.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.doushimeng.com#都是梦/TW.yaml
     interval: 180
     path: trials_providers/cloud.doushimeng.com#都是梦/TW.yaml
     health-check:
@@ -128,7 +128,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.doushimeng.com#都是梦/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.doushimeng.com#都是梦/SG.yaml
     interval: 180
     path: trials_providers/cloud.doushimeng.com#都是梦/SG.yaml
     health-check:
@@ -137,7 +137,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.doushimeng.com#都是梦/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.doushimeng.com#都是梦/JP.yaml
     interval: 180
     path: trials_providers/cloud.doushimeng.com#都是梦/JP.yaml
     health-check:
@@ -146,7 +146,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.doushimeng.com#都是梦/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.doushimeng.com#都是梦/US.yaml
     interval: 180
     path: trials_providers/cloud.doushimeng.com#都是梦/US.yaml
     health-check:
@@ -155,7 +155,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.doushimeng.com#都是梦/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.doushimeng.com#都是梦/Other.yaml
     interval: 180
     path: trials_providers/cloud.doushimeng.com#都是梦/Other.yaml
     health-check:

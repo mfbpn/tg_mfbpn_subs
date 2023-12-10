@@ -147,7 +147,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/HK.yaml
     interval: 180
     path: trials_providers/HK.yaml
     health-check:
@@ -156,7 +156,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/TW.yaml
     interval: 180
     path: trials_providers/TW.yaml
     health-check:
@@ -165,7 +165,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/SG.yaml
     interval: 180
     path: trials_providers/SG.yaml
     health-check:
@@ -174,7 +174,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/JP.yaml
     interval: 180
     path: trials_providers/JP.yaml
     health-check:
@@ -183,7 +183,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/US.yaml
     interval: 180
     path: trials_providers/US.yaml
     health-check:
@@ -192,7 +192,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/p_All_Other.yaml
     interval: 180
     path: trials_providers/p_All_Other.yaml
     health-check:
@@ -201,7 +201,7 @@ proxy-providers:
       interval: 30
   p_All_CN:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/p_All_CN.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/p_All_CN.yaml
     interval: 180
     path: trials_providers/p_All_CN.yaml
     health-check:

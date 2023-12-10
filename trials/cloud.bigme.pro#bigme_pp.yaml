@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/HK.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/HK.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/TW.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/TW.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/SG.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/JP.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/US.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.bigme.pro#bigme/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/cloud.bigme.pro#bigme/Other.yaml
     interval: 180
     path: trials_providers/cloud.bigme.pro#bigme/Other.yaml
     health-check:

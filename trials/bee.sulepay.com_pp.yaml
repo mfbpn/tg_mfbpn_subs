@@ -91,7 +91,7 @@ proxy-groups:
 proxy-providers:
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/bee.sulepay.com/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/bee.sulepay.com/SG.yaml
     interval: 180
     path: trials_providers/bee.sulepay.com/SG.yaml
     health-check:
@@ -100,7 +100,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/bee.sulepay.com/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/bee.sulepay.com/JP.yaml
     interval: 180
     path: trials_providers/bee.sulepay.com/JP.yaml
     health-check:
@@ -109,7 +109,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/bee.sulepay.com/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/bee.sulepay.com/US.yaml
     interval: 180
     path: trials_providers/bee.sulepay.com/US.yaml
     health-check:

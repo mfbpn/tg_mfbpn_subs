@@ -117,7 +117,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.qlgq.top/HK.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.qlgq.top/HK.yaml
     interval: 180
     path: trials_providers/www.qlgq.top/HK.yaml
     health-check:
@@ -126,7 +126,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.qlgq.top/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.qlgq.top/SG.yaml
     interval: 180
     path: trials_providers/www.qlgq.top/SG.yaml
     health-check:
@@ -135,7 +135,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.qlgq.top/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.qlgq.top/JP.yaml
     interval: 180
     path: trials_providers/www.qlgq.top/JP.yaml
     health-check:
@@ -144,7 +144,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.qlgq.top/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.qlgq.top/US.yaml
     interval: 180
     path: trials_providers/www.qlgq.top/US.yaml
     health-check:
@@ -153,7 +153,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.qlgq.top/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.qlgq.top/Other.yaml
     interval: 180
     path: trials_providers/www.qlgq.top/Other.yaml
     health-check:
