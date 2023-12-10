@@ -78,7 +78,7 @@ proxy-groups:
 proxy-providers:
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.kuaidog001.top/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.kuaidog001.top/US.yaml
     interval: 180
     path: trials_providers/www.kuaidog001.top/US.yaml
     health-check:
@@ -87,7 +87,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.kuaidog001.top/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/www.kuaidog001.top/p_All_Other.yaml
     interval: 180
     path: trials_providers/www.kuaidog001.top/p_All_Other.yaml
     health-check:
