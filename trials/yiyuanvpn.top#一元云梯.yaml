@@ -11,10 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -26,6 +28,9 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰 香港1 - 一元云梯
   - 🇭🇰 香港2 - 一元云梯
+  - 🇭🇰 香港3-IPV6测试-不定时添加更多优质节点 - 一元云梯
+  - 🇸🇬 新加坡1 - 一元云梯
+  - 🇸🇬 新加坡2 - 一元云梯
   - 🇺🇸 美国1 - 一元云梯
   - 🇺🇸 美国2 - 一元云梯
   - 【主页】yiyuanvpn.top - 一元云梯
@@ -62,7 +67,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -79,12 +86,21 @@ proxy-groups:
   proxies: &id002
   - 🇭🇰 香港1 - 一元云梯
   - 🇭🇰 香港2 - 一元云梯
+  - 🇭🇰 香港3-IPV6测试-不定时添加更多优质节点 - 一元云梯
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡1 - 一元云梯
+  - 🇸🇬 新加坡2 - 一元云梯
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
+  proxies: &id004
   - 🇺🇸 美国1 - 一元云梯
   - 🇺🇸 美国2 - 一元云梯
 - name: 🎏 ‍其他
@@ -92,7 +108,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id004
+  proxies: &id005
   - 【主页】yiyuanvpn.top - 一元云梯
   - 【介绍】每月一元遨游海外网络 - 一元云梯
   - 🇰🇷 韩国1 - 一元云梯
@@ -106,24 +122,30 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id005
 proxies:
-- {name: 【主页】yiyuanvpn.top - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 【介绍】每月一元遨游海外网络 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 🇭🇰 香港1 - 一元云梯, server: yyjc-hk-ipv6-1.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 🇭🇰 香港2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 🇺🇸 美国1 - 一元云梯, server: yyjc-us1.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
-- {name: 🇺🇸 美国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
-- {name: 🇰🇷 韩国1 - 一元云梯, server: yyjc-kr1.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
-- {name: 🇰🇷 韩国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
-- {name: 🇰🇷 韩国3-优化中国移动网络 - 一元云梯, server: zz-cmi.shaniugpt.top, port: 20047, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
-- {name: 🇬🇧 英国1 - 一元云梯, server: yyjc-uk1.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-uk1, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
-- {name: 🇬🇧 英国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 12108a85-b442-4197-bec0-9bed9b7345e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-uk1, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
+- {name: 【主页】yiyuanvpn.top - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 【介绍】每月一元遨游海外网络 - 一元云梯, server: yiyuanvpn.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 🇭🇰 香港1 - 一元云梯, server: yyjc-hk-ipv6-1.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 🇭🇰 香港2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 🇭🇰 香港3-IPV6测试-不定时添加更多优质节点 - 一元云梯, server: sslevel.shaniugpt.top, port: 45229, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 🇺🇸 美国1 - 一元云梯, server: yyjc-us1.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
+- {name: 🇺🇸 美国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
+- {name: 🇰🇷 韩国1 - 一元云梯, server: yyjc-kr1.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
+- {name: 🇰🇷 韩国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
+- {name: 🇰🇷 韩国3-优化中国移动网络 - 一元云梯, server: zz-cmi.shaniugpt.top, port: 20047, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
+- {name: 🇸🇬 新加坡1 - 一元云梯, server: yyjc-sg1.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
+- {name: 🇸🇬 新加坡2 - 一元云梯, server: cfcdn.996699.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
+- {name: 🇬🇧 英国1 - 一元云梯, server: yyjc-uk1.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-uk1, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
+- {name: 🇬🇧 英国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 91267003-ef28-48e9-9d73-9f9baac91902, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-uk1, headers: {Host: yyjc-uk1.shaniugpt.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
