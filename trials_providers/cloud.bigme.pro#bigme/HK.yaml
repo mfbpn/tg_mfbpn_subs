@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: b3cfa80f-08a5-482a-8577-e6b4920e761b, udp: true}
-- {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: b3cfa80f-08a5-482a-8577-e6b4920e761b, udp: true}
-- {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: b3cfa80f-08a5-482a-8577-e6b4920e761b, udp: true}
-- {name: '🇭🇰 香港04 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: b3cfa80f-08a5-482a-8577-e6b4920e761b, udp: true}
+- {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: 22678a92-6cb3-45a0-80da-e6ebe738ac81, udp: true}
+- {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: 22678a92-6cb3-45a0-80da-e6ebe738ac81, udp: true}
+- {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: 22678a92-6cb3-45a0-80da-e6ebe738ac81, udp: true}
+- {name: '🇭🇰 香港04 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: 22678a92-6cb3-45a0-80da-e6ebe738ac81, udp: true}
