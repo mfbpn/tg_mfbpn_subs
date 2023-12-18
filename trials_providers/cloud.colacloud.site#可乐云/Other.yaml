@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, udp: true}
-- {name: 🇰🇷 KR韩国 B - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-krr.colacloud.site}}, udp: true}
-- {name: 🇧🇷 BR巴西 A - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bxss.colacloud.site}}, udp: true}
-- {name: 🇳🇱 NL荷兰 A - 可乐云, server: cp2.colacloud.site, port: 2086, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nlss.colacloud.site}}, udp: true}
+- {name: 🇰🇷 KR韩国 B - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-krrs.colacloud.site}}, udp: true}
+- {name: 🇧🇷 BR巴西 A - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bxsss.colacloud.site}}, udp: true}
+- {name: 🇳🇱 NL荷兰 A - 可乐云, server: cp2.colacloud.site, port: 2086, type: vmess, uuid: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nlsss.colacloud.site}}, udp: true}
 - {name: 🇦🇺 AU墨尔本 A - 可乐云, server: au.colacloud.site, port: 20262, type: ss, cipher: chacha20-ietf-poly1305, password: 905fde14-8356-43cd-9f95-4ddcfdfcefe2, udp: true}
