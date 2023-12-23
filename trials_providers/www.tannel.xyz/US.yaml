@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇲 美国丨洛杉矶 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: f54f42a9-02bb-3b72-82d9-55267438a798, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国丨洛杉矶 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: a62eee58-1c0e-314f-8dd3-e33046617472, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

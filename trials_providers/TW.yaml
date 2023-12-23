@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 9c9c7d97-1dd8-3ea6-8525-789eb372cc1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 9c9c7d97-1dd8-3ea6-8525-789eb372cc1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 60539c4f-6ea1-32ae-9bdb-3a094a37f068, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 60539c4f-6ea1-32ae-9bdb-3a094a37f068, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(TCP) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 5643, type: vmess, uuid: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, udp: true}
@@ -14,7 +14,7 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(SS) - 麻雀加速器 Sparrow, server: ty12.twty.dynu.net, port: 4303, type: ss, cipher: chacha20-ietf-poly1305, password: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, udp: true}
 - {name: 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 6899, type: vmess, uuid: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 6122, type: vmess, uuid: 05f1e2ad-1d21-449b-9bbb-97a8b4662934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f54f42a9-02bb-3b72-82d9-55267438a798, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: a62eee58-1c0e-314f-8dd3-e33046617472, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 17154d75-5dcb-48e0-9a40-ae18063d862e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-twww2.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 17154d75-5dcb-48e0-9a40-ae18063d862e, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: 27386900-59e4-45a4-a556-4ed8bab2330a, udp: true}
