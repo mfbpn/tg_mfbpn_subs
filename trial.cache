@@ -8,7 +8,7 @@ sub_info  37.42M  100G  2024-01-11 09:43:06+08:00  (剩余 99.96G 17 days, 22:54
 sub_url  https://site.bzqjc.top/api/v1/client/subscribe?token=fab051ebfd9230483c24c7d8fdd45a6b
 time  2023-12-12 09:43:07.572471+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
+更新旧订阅失败  (https://yiyuanvpn.top/api/v1/client/subscribe?token=fab051ebfd9230483c24c7d8fdd45a6b): 521 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>yiyuanvpn.top | 521: Web server is down</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Web server is down</span>\n <span class="code-label">Error code 521</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=yiyuanvpn.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2023-12-24 04:50:16 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=yiyuanvpn.top" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Los Angeles</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=yiyuanvpn.top" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">yiyuanvpn.top</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server is not returning a connection. As a result, the web page is not displaying.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>\n <p><span>Contact your hosting provider letting them know your web server is not responding.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171916-Error-521">Additional troubleshooting information</a>.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">83a638f129475263</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.172.28.129</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=yiyuanvpn.top" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
 
 [v.spwvpn.com#麻雀加速器]
 banned_domains  liteprompter.com
@@ -16,7 +16,7 @@ buy  pass
 email  dahnyyj137@yzm.de
 name  麻雀加速器 Sparrow
 node_n  11
-sub_info  1.401G  1000G  2024-02-11 10:48:31+08:00  (剩余 998.6G 48 days, 22:59:58.820578)
+sub_info  1.401G  1000G  2024-02-11 10:48:31+08:00  (剩余 998.6G 48 days, 22:00:13.614543)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=96bb5f33f5fee6c1abefc64f446a3613
 time  2023-12-10 22:48:32.840708+08:00
 type  v2board
@@ -28,7 +28,7 @@ email  nhhyurbb132@gmail.com
 last_checkin  2023-12-24 11:53:19.414894+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.11G  2023-12-24 13:53:19+08:00  (剩余 10.11G 1:59:53.397164)
+sub_info  0B  10.11G  2023-12-24 13:53:19+08:00  (剩余 10.11G 1:05:05.254838)
 sub_url  https://gocdn.xiguasuyun.com/link/pB7xrufavBDiXq09?sub=3
 time  2023-12-24 11:53:23.659777+08:00
 type  sspanel
@@ -50,11 +50,11 @@ type  v2board
 [www.grey51.life#小巫云]
 api_host  bl.grey51.life
 buy  pass
-email  vtlfmefhc156@gmail.com
+email  pthxfsg385@gmail.com
 name  小巫云 ☁️
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://lion01.top/api/v1/client/subscribe?token=040d4d3e511b661a04cd1d219d0c712d
-time  2023-12-24 11:50:29.082627+08:00
+sub_url  https://lion01.top/api/v1/client/subscribe?token=c6c389fb0ae50873ecb9764a95e0a891
+time  2023-12-24 12:48:18.876166+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -73,7 +73,7 @@ buy  pass
 email  zwgtkdi751@gmail.com
 name  都是梦
 node_n  19
-sub_info  102.8M  10G  2023-12-25 21:47:33+08:00  (剩余 9.9G 1 day, 9:59:04.732385)
+sub_info  102.8M  10G  2023-12-25 21:47:33+08:00  (剩余 9.9G 1 day, 8:59:16.031998)
 sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=5046d002407e11d4e7085db7c5efad63
 time  2023-12-22 21:48:38.358014+08:00
 type  v2board
@@ -83,19 +83,19 @@ buy  pass
 email  zufaczb527@gmail.com
 name  永动机
 node_n  15
-sub_info  3.467G  30G  2023-12-23 16:48:36+08:00  (剩余 26.53G -1 day, 5:00:02.891755)
+sub_info  3.467G  30G  2023-12-23 16:48:36+08:00  (剩余 26.53G -1 day, 4:00:14.482555)
 sub_url  https://yongdong.xyz/api/v1/client/subscribe?token=f5b9b76808d85a63b34e4fd1550e299b
 time  2023-12-18 16:48:37.273191+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  发送邮箱验证码失败(eemofqjpk986@grr.la): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(szvndzvx104@disbox.net): {'message': '验证码有误'}
 
 [cloud.colacloud.site#可乐云]
 buy  pass
 email  fglzpyzwq954@gmail.com
 name  可乐云
 node_n  13
-sub_info  2.03G  50G  2023-12-25 22:24:50+08:00  (剩余 47.97G 1 day, 10:36:19.793363)
+sub_info  2.035G  50G  2023-12-25 22:24:50+08:00  (剩余 47.97G 1 day, 9:36:34.213778)
 sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=aa3fa34763b65d0a09afa35ed5673fba
 time  2023-12-10 22:24:51.404793+08:00
 type  v2board
@@ -104,24 +104,24 @@ type  v2board
 buy  pass
 email  dkuuyggys669@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2023-12-24 19:48:26+08:00  (剩余 100G 7:55:11.428675)
+sub_info  0B  100G  2023-12-24 19:48:26+08:00  (剩余 100G 6:55:35.668810)
 sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=01764c0987c6a1c4907035cde4818b29
 time  2023-12-23 19:48:34.049351+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
 
 [cloud.bigme.pro#bigme]
-banned_domains  missac.cc  139.telemail.tk  spam4.me  longshan.bond  localjobsnearme.com  tmpbox.net  coolxyz.top  guerrillamail.org  guerrillamail.com  tmpmail.org
+banned_domains  missac.cc  139.telemail.tk  spam4.me  longshan.bond  localjobsnearme.com  tmpbox.net  coolxyz.top  guerrillamail.org  guerrillamail.com  tmpmail.org  xxxhi.cc
 buy  pass
 email  dfdwpuj144@gmail.com
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 node_n  18
-sub_info  98.82M  45G  2023-12-23 21:48:34+08:00  (剩余 44.9G -1 day, 9:58:48.450315)
+sub_info  98.82M  45G  2023-12-23 21:48:34+08:00  (剩余 44.9G -1 day, 8:57:09.788682)
 sub_url  https://sub.bigme.online:7788/api/v1/client/subscribe?token=5d284eea09b619e22829339b69fc410d
 time  2023-12-22 21:48:34.944770+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱验证码超时(vhuqyaqvz199@tmpmail.org)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xxecgub296@xxxhi.cc)
 
 [pigvip.xyz]
 buy  pass
@@ -138,7 +138,7 @@ type  v2board
 email  xgtmhdhzd333@gmail.com
 name  快狗云
 node_n  20
-sub_info  714.9M  100G  2024-01-10 22:25:02+08:00  (剩余 99.3G 17 days, 10:36:34.048925)
+sub_info  714.9M  100G  2024-01-10 22:25:02+08:00  (剩余 99.3G 17 days, 9:36:45.910165)
 sub_url  https://www.kuaidog001.top/api/v1/client/subscribe?token=84a2b6ef6586c7e349a5deebf645a3ba
 time  2023-12-10 22:24:51.454463+08:00
 type  v2board
@@ -149,7 +149,7 @@ type  v2board
 email  dkibbtds378@gmail.com
 name  番茄云
 node_n  25
-sub_info  160.1M  10G  2023-12-24 22:48:35+08:00  (剩余 9.844G 11:00:04.538929)
+sub_info  341.5M  10G  2023-12-24 22:48:35+08:00  (剩余 9.666G 10:00:20.101518)
 sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=743b32b9330efb3f5249a2915d5a548d
 time  2023-12-23 22:48:36.587643+08:00
 type  v2board
@@ -161,7 +161,7 @@ email  jkdwjto998@gmail.com
 last_checkin  2023-12-24 00:48:06.957560+08:00
 name  Tannel中继网络服务
 node_n  6
-sub_info  0B  20.08G  2023-12-24 21:48:29+08:00  (剩余 20.08G 10:00:00.136070)
+sub_info  0B  20.08G  2023-12-24 21:48:29+08:00  (剩余 20.08G 9:00:11.891279)
 sub_url  https://dy.tannel.xyz/link/QVe3bhoLysYeGPFS?sub=3
 time  2023-12-23 21:48:31.406407+08:00
 type  sspanel
@@ -173,7 +173,7 @@ email  tlstiepz264@jkb.tmmad.com
 last_checkin  2023-12-24 00:48:06.958584+08:00
 name  墙了个墙
 node_n  28
-sub_info  635.1M  888.1G  2023-12-24 21:48:32+08:00  (剩余 887.4G 10:00:02.927268)
+sub_info  708.6M  888.1G  2023-12-24 21:48:32+08:00  (剩余 887.4G 9:00:16.768188)
 sub_url  https://www.qlgq.top/link/b5066e88b0d748d2?clash=1#墙了个墙
 time  2023-12-23 21:48:34.180953+08:00
 type  sspanel
@@ -185,7 +185,7 @@ email  xmpieka363@linshiyou.com
 last_checkin  2023-12-24 00:48:06.959732+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  31.2M  29.41G  2024-01-09 22:25:08+08:00  (剩余 29.38G 16 days, 10:36:33.540833)
+sub_info  31.41M  29.41G  2024-01-09 22:25:08+08:00  (剩余 29.38G 16 days, 9:36:48.855888)
 sub_url  https://bee.sulepay.com/link/ArkZHYFsRGLev7RB?clash=1
 time  2023-12-10 22:25:11.515025+08:00
 type  sspanel
@@ -195,7 +195,7 @@ email  pktnwaqn337@gmail.com
 last_checkin  2023-12-24 00:48:06.960957+08:00
 name  大白
 node_n  8
-sub_info  64.29G  999.7G  2024-01-09 22:24:47+08:00  (剩余 935.4G 16 days, 10:36:19.398682)
+sub_info  65.12G  999.7G  2024-01-09 22:24:47+08:00  (剩余 934.6G 16 days, 9:36:33.520490)
 sub_url  https://aa.dabai.in/link/SVJS9qLu19iuUr8N?sub=3
 time  2023-12-10 22:24:52.070056+08:00
 type  sspanel
@@ -207,7 +207,7 @@ invite_code  2Hpq  9999
 last_checkin  2023-12-24 00:48:06.962083+08:00
 name  飞翔吧
 node_n  41
-sub_info  592.2K  10.15G  2023-12-24 23:48:41+08:00  (剩余 10.14G 12:00:12.917160)
+sub_info  592.2K  10.15G  2023-12-24 23:48:41+08:00  (剩余 10.14G 11:00:23.330553)
 sub_url  https://855nide855.top/link/LpQ1WKzxKQw2EzBl?sub=3
 time  2023-12-23 23:48:45.659544+08:00
 type  sspanel
@@ -217,7 +217,7 @@ email  nbgpbjrn472@gmail.com
 last_checkin  2023-12-24 00:48:06.963239+08:00
 name  海豚云
 node_n  11
-sub_info  938.1M  109G  2024-01-09 22:24:51+08:00  (剩余 108G 16 days, 10:36:22.526145)
+sub_info  1.074G  109G  2024-01-09 22:24:51+08:00  (剩余 107.9G 16 days, 9:36:31.839243)
 sub_url  https://s.haituncloud.vip/link/6UJGXN8VTicbi0pJ?sub=3
 time  2023-12-10 22:24:57.170750+08:00
 type  sspanel
@@ -229,7 +229,7 @@ email  lzhpmbhr166@gmail.com
 last_checkin  2023-12-24 00:48:06.964556+08:00
 name  MG Network
 node_n  11
-sub_info  20.67M  6.767G  2023-12-24 21:48:32+08:00  (剩余 6.746G 10:00:04.740423)
+sub_info  20.67M  6.767G  2023-12-24 21:48:32+08:00  (剩余 6.746G 9:00:14.914902)
 sub_url  https://www.mgnet.sbs/link/ofgh8Y0MSZe9Y9QS?sub=3
 time  2023-12-22 21:48:34.361032+08:00
 type  sspanel
@@ -240,7 +240,7 @@ buy  pass
 email  hcelapbzl442@gmail.com
 name  小白云
 node_n  39
-sub_info  80.26M  5G  2023-12-24 13:48:26+08:00  (剩余 4.922G 1:59:56.892636)
+sub_info  81.58M  5G  2023-12-24 13:48:26+08:00  (剩余 4.92G 1:00:11.950732)
 sub_url  https://sub.cooc.cloud/api/v1/client/subscribe?token=4ad5d95fc73519636af9b8bdae70e70b
 time  2023-12-22 13:48:26.783441+08:00
 type  v2board
