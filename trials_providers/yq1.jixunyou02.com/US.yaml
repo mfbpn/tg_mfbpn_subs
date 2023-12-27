@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 3204bb48-06d6-4bb3-b3e8-270b4033901d, udp: true}
+- {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 5f63db25-dd82-4bc2-90db-c56389e77c29, udp: true}
