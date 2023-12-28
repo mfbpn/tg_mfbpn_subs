@@ -9,19 +9,9 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻 ‍指定
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  tolerance: 100
-  use: &id001
-  - US
-  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -38,16 +28,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -56,40 +42,20 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id002
-  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id003
-  - p_All_Other
-- name: 👆🏻 ‍指定
-  type: select
-  use: *id001
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id002
+  use: &id001
+  - Other
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id003
+  use: *id001
 proxy-providers:
-  US:
+  Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/yq1.jixunyou02.com/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/yq1.jixunyou02.com/Other.yaml
     interval: 180
-    path: trials_providers/yq1.jixunyou02.com/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/yq1.jixunyou02.com/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/yq1.jixunyou02.com/p_All_Other.yaml
+    path: trials_providers/yq1.jixunyou02.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

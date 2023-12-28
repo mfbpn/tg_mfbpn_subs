@@ -9,21 +9,9 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻 ‍指定
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 公益免费 🇺🇸 美国 - Gegeth极迅游
-  - 公益免费 🇳🇱荷兰 - Gegeth极迅游
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,16 +28,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -58,32 +42,20 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id002
-  - 公益免费 🇺🇸 美国 - Gegeth极迅游
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id003
-  - 公益免费 🇳🇱荷兰 - Gegeth极迅游
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id002
+  proxies: &id001
+  - 距离下次重置剩余：2 天 - Gegeth极迅游
+  - 官网:www.gegeth.com - Gegeth极迅游
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id003
+  proxies: *id001
 proxies:
-- {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 840d592d-bb08-4b3f-85df-3602b525d7ac, udp: true}
-- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 840d592d-bb08-4b3f-85df-3602b525d7ac, udp: true}
+- {name: 距离下次重置剩余：2 天 - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 840d592d-bb08-4b3f-85df-3602b525d7ac, udp: true}
+- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 840d592d-bb08-4b3f-85df-3602b525d7ac, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
