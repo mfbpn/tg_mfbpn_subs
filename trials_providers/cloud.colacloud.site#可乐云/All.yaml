@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
-- {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
+- {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 51311, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 20552, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 20562, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
 - {name: 🇺🇸 US美国 C - 可乐云, server: cp1.colacloud.site, port: 80, type: vmess, uuid: 884a03cd-5eea-422f-99cc-3950c7c7b836, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-us.colacloud.free.hr}}, udp: true}

@@ -7,8 +7,8 @@ proxies:
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: 695c0db5-19dd-399e-b3cb-41c318f18579, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 公益免费 🇯🇵日本 - Gegeth极迅游, server: ap-northeast-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 840d592d-bb08-4b3f-85df-3602b525d7ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/45?ed=2048', headers: {Host: jpli.edge.233.tw}}, udp: true}
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
-- {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
+- {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 51311, type: ss, cipher: chacha20-ietf-poly1305, password: 884a03cd-5eea-422f-99cc-3950c7c7b836, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 97fc8957-9cc1-4d2f-aa61-925877988b1f, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 25ee7622-cb43-44d3-b94e-e2be4e28090d, udp: true}
 - {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
