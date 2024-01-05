@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：25 天 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 890a13d9-0332-423b-a64d-47c3578c2944, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
-- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 890a13d9-0332-423b-a64d-47c3578c2944, udp: true}
+- {name: ℹ 距离下次重置剩余：25 天 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 88b93803-ea98-453d-b3a3-5d282ac71bec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
+- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 88b93803-ea98-453d-b3a3-5d282ac71bec, udp: true}
