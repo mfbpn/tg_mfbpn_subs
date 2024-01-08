@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ 距离下次重置剩余：2 天 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b3432c6d-f14d-44ba-99e1-89076cc7612d, udp: true}
