@@ -7,7 +7,7 @@ proxies:
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: b4e95ba6-544a-4d2f-acb2-e39c6019aa80, udp: true}
 - {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: cdc09e51-8cc0-4d0c-a5d4-3bb34c8b19a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 563431c9-258e-46ed-ab20-c40ddb42b6a7, udp: true}
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 6471b441-b24a-400d-a864-8f1f67f4175b, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 13089db9-efc7-4671-a4c4-1134034801a7, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: ca1c9118-0934-3781-a9d4-ef0e0ea44c95, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
