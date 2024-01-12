@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: fa3d9c54-d1a3-3003-ae5d-5723b9da51bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: fa3d9c54-d1a3-3003-ae5d-5723b9da51bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: ad497c14-9960-338f-a18e-6ca2df473c41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: ad497c14-9960-338f-a18e-6ca2df473c41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: f3dd45d9-4580-3450-8709-3d247275b376, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
