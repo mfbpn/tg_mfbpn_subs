@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：2 天 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: cd27b30d-4f0e-4cfb-8ef9-b6cf61d4066c, udp: true}
+- {name: ℹ 距离下次重置剩余：2 天 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 3fa58bf3-5088-4d04-9b2d-f04e5aac5f77, udp: true}
