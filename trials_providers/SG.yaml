@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 32585da7-a503-3f58-9ec4-59bdb9216b3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 32585da7-a503-3f58-9ec4-59bdb9216b3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 1a59c0f6-4b4a-32a9-9dac-804229b0df26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 1a59c0f6-4b4a-32a9-9dac-804229b0df26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 8408314c-785b-4cd4-88f2-1688d23a64c6, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: c1956a0c-b844-49d7-abfd-485dd0b52374, udp: true}
@@ -33,8 +33,8 @@ proxies:
 - {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 4f03d391-55d4-44ce-984a-05751bbcffb9, udp: true}
 - {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 4f03d391-55d4-44ce-984a-05751bbcffb9, udp: true}
 - {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg03.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 4f03d391-55d4-44ce-984a-05751bbcffb9, udp: true}
-- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 87778acd-9d97-3e1e-998c-b6d6e08e758a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 87778acd-9d97-3e1e-998c-b6d6e08e758a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 8f22074f-4300-316b-b94a-27d559e5c856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 8f22074f-4300-316b-b94a-27d559e5c856, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
 - {name: 🇸🇬 新加坡 / 华东｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
 - {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
