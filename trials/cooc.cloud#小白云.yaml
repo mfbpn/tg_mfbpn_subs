@@ -228,44 +228,44 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 美国 / 华东｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 美国 / 华南｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 美国 / 备用｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 家宽 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 家宽 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇸🇬 新加坡 / 华东｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇭🇰 海外用户｜HK - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
-- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: fbe51b9d-7607-4aef-9b81-81104889ea7b, udp: true}
+- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 美国 / 华东｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 美国 / 华南｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 美国 / 备用｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 家宽 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 家宽 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇸🇬 新加坡 / 华东｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇭🇰 海外用户｜HK - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
+- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 0870162a-4245-4926-b677-afbf6b3e2e86, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1987,8 +1987,10 @@ rules:
 - DOMAIN-SUFFIX,bigfunapp.cn,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.com,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.net,📺 ‍B站
+- DOMAIN-SUFFIX,bilibili.co,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.com,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.net,📺 ‍B站
+- DOMAIN-SUFFIX,biliintl.co,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.cn,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.com,📺 ‍B站
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
@@ -2688,6 +2690,7 @@ rules:
 - DOMAIN-SUFFIX,caijinglengyan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calameo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calebelston.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,calendarz.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,calibre-ebook.com,✈️ ‍起飞
@@ -2940,6 +2943,7 @@ rules:
 - DOMAIN-SUFFIX,comefromchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,comic-mega.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,commandarms.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,comments.app,✈️ ‍起飞
 - DOMAIN-SUFFIX,commentshk.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,communistcrimes.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,communitychoicecu.com,✈️ ‍起飞
@@ -3670,6 +3674,7 @@ rules:
 - DOMAIN-SUFFIX,geekheart.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,gekikame.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gelbooru.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,generated.photos,✈️ ‍起飞
 - DOMAIN-SUFFIX,genius.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geocities.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geph.io,✈️ ‍起飞
@@ -3790,9 +3795,9 @@ rules:
 - DOMAIN-SUFFIX,grammaly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,grandtrial.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,grangorz.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,graph.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,graphql.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,gravatar.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,greasespot.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-firewall.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-roc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,greatfire.org,✈️ ‍起飞
@@ -4051,6 +4056,8 @@ rules:
 - DOMAIN-SUFFIX,hudatoriq.web.id,✈️ ‍起飞
 - DOMAIN-SUFFIX,hudson.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,huffingtonpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huffpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huggingface.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhaitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhamhire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhangfei.com,✈️ ‍起飞
@@ -5065,6 +5072,7 @@ rules:
 - DOMAIN-SUFFIX,oauth.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,observechina.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,obutu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,obyte.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocaspro.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,occupytiananmen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocreampies.com,✈️ ‍起飞
@@ -5373,6 +5381,7 @@ rules:
 - DOMAIN-SUFFIX,pshvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphon3.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphontoday.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,pstatic.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,pt.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,ptt.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,pttgame.com,✈️ ‍起飞
@@ -5423,6 +5432,7 @@ rules:
 - DOMAIN-SUFFIX,questvisual.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,quiz.directory,✈️ ‍起飞
 - DOMAIN-SUFFIX,quora.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quoracdn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quran.com,✈️ ‍起飞
@@ -6094,6 +6104,7 @@ rules:
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,throughnightsfire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,thumbzilla.com,✈️ ‍起飞
@@ -6655,6 +6666,7 @@ rules:
 - DOMAIN-SUFFIX,wav.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,waveprotocol.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,waymo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,wd.bible,✈️ ‍起飞
 - DOMAIN-SUFFIX,wdf5.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearehairy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearn.com,✈️ ‍起飞
@@ -6760,12 +6772,12 @@ rules:
 - DOMAIN-SUFFIX,witopia.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wizcrafts.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wjbk.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,wmflabs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wo.tc,✈️ ‍起飞
 - DOMAIN-SUFFIX,woeser.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,woesermiddle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wokar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wolfax.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wombo.ai,✈️ ‍起飞
@@ -6910,6 +6922,7 @@ rules:
 - DOMAIN-SUFFIX,yam.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yande.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,yandex.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,yandex.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,yanghengjun.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yangjianli.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yayabay.com,✈️ ‍起飞
