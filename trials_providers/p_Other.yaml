@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：1 天 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 1a352c2f-5fb4-4959-8037-6bf475fcfe99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
-- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 1a352c2f-5fb4-4959-8037-6bf475fcfe99, udp: true}
+- {name: ℹ 距离下次重置剩余：1 天 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 730422d1-031e-4b0d-a617-cce8d4c2de02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
+- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 730422d1-031e-4b0d-a617-cce8d4c2de02, udp: true}
 - {name: 官网  https://luonan.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 本站专用订阅转换地址：https://zh.7t7t.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 節點無法使用，更新訂閲 - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
