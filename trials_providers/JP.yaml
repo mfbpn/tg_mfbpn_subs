@@ -16,8 +16,8 @@ proxies:
 - {name: 🇯🇵 日本08-1.3x - 小巫云 ☁️, server: gdc.white51.top, port: 17353, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇯🇵 日本11-1.3x - 小巫云 ☁️, server: xx.white51.top, port: 44437, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: ffb2c5c6-5b11-34b6-838a-f65c3dafebd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 3255b703-8a1e-3ada-8f07-51d1e5085030, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 3255b703-8a1e-3ada-8f07-51d1e5085030, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 61f85659-0637-3fd7-b8f0-64429b9fe893, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 61f85659-0637-3fd7-b8f0-64429b9fe893, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
@@ -49,4 +49,4 @@ proxies:
 - {name: '🇯🇵 日本03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp03.bigmeyear.org, port: 30250, type: ss, cipher: aes-128-gcm, password: aa991c9a-ca45-4b1d-a6b5-e8c4437b4405, udp: true}
 - {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: a300feba-baab-43bd-93e6-db2f84d0515f, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 75b33ed6-d42e-4299-b21b-8c8f510a6922, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 8655afe5-d34d-439d-b751-84ce54dc05c5, udp: true}

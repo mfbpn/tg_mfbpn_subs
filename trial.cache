@@ -9,6 +9,7 @@ sub_info  11.26M  1G  2024-02-04 04:48:26+08:00  (剩余 1013M 6:00:18.461462)
 sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=0b3ef01ca6296d9bb294fd939ddbecf6
 time  2024-02-03 16:48:27.658457+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [v.spwvpn.com#麻雀加速器]
 banned_domains  liteprompter.com
@@ -16,7 +17,7 @@ buy  pass
 email  pufqiqvd276@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  2.304G  1000G  2024-03-18 09:50:28+08:00  (剩余 997.7G 43 days, 11:02:23.171361)
+sub_info  2.308G  1000G  2024-03-18 09:50:28+08:00  (剩余 997.7G 43 days, 10:02:25.096138)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=c9435bb4defe879fcad3b6965af92bb2
 time  2024-01-26 07:50:28.959717+08:00
 type  v2board
@@ -24,13 +25,13 @@ type  v2board
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  dabrfhcy97@gmail.com
-last_checkin  2024-02-03 21:48:13.042868+08:00
+email  sfyniutse867@gmail.com
+last_checkin  2024-02-03 23:48:03.438220+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-02-03 23:48:12+08:00  (剩余 10.11G 1:00:00.544526)
-sub_url  https://a.dx035.top/link/BgZVoE7YaaKsSU0U?sub=3
-time  2024-02-03 21:48:22.264138+08:00
+sub_info  0B  10.11G  2024-02-04 01:48:03+08:00  (剩余 10.11G 1:59:45.965812)
+sub_url  https://a.dx035.top/link/6sxVdWanbAOYZNwa?sub=3
+time  2024-02-03 23:48:14.892431+08:00
 type  sspanel
 
 [www.1jichang.xyz#一机场]
@@ -47,16 +48,16 @@ type  v2board
 
 [www.jjyhk.com#鸡鸡云]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ncllcqp82@spam4.me): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ymvxqcj71@qabq.com): {'message': '验证码有误'}
 
 [www.grey51.life#小巫云]
 api_host  bl.grey51.life
 buy  pass
-email  qltidotv195@gmail.com
+email  lbovequ434@gmail.com
 name  小巫云 ☁️
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://birthage.top/api/v1/client/subscribe?token=a2ba7c3a848c78f7d82068772bcc9ede
-time  2024-02-03 22:48:04.884678+08:00
+sub_url  https://birthage.top/api/v1/client/subscribe?token=eada8c5592a99778e6304bbc2522db8a
+time  2024-02-03 23:48:06.340486+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -64,7 +65,7 @@ type  v2board
 email  xvftncpi505@gmail.com
 name  Gegeth极迅游
 node_n  3
-sub_info  47.28M  100G  2024-02-04 04:49:06+08:00  (剩余 99.95G 6:00:56.557842)
+sub_info  47.28M  100G  2024-02-04 04:49:06+08:00  (剩余 99.95G 5:01:03.612799)
 sub_url  https://moee.lnaspiring.com/Moe233-Subs/geg/api/v1/client/subscribe?token=10f7e0e4936edee04529a3725458de65
 time  2024-02-03 16:49:08.140480+08:00
 type  v2board
@@ -74,7 +75,7 @@ buy  pass
 email  ywovvetw639@gmail.com
 name  都是梦
 node_n  4
-sub_info  23.67M  10G  2024-02-05 21:47:00+08:00  (剩余 9.977G 1 day, 22:58:56.062056)
+sub_info  58.88M  10G  2024-02-05 21:47:00+08:00  (剩余 9.942G 1 day, 21:58:51.128315)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=7e9211bc07559edb59caeeaf1b99dde8
 time  2024-02-02 21:48:24.868848+08:00
 type  v2board
@@ -96,7 +97,7 @@ buy  pass
 email  dkafjfj428@gmail.com
 name  可乐云
 node_n  4
-sub_info  147.7M  10G  2024-02-05 21:48:57+08:00  (剩余 9.856G 1 day, 23:00:45.753627)
+sub_info  147.7M  10G  2024-02-05 21:48:57+08:00  (剩余 9.856G 1 day, 22:00:53.958638)
 sub_url  https://cloud.colacloud.site/api/v1/client/subscribe?token=f2b31dad0ed1c6249a10ea791ebf0216
 time  2024-02-02 21:48:57.864771+08:00
 type  v2board
@@ -105,11 +106,11 @@ type  v2board
 buy  pass
 email  jvfxcoxyg588@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-02-04 19:54:19+08:00  (剩余 100G 21:00:10.891620)
+sub_info  0B  100G  2024-02-04 19:54:19+08:00  (剩余 100G 19:58:22.662056)
 sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=c286f79a7189e38e25dff514ff439ecc
 time  2024-02-03 19:54:42.943881+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
 [cloud.bigme.pro#bigme]
 banned_domains  missac.cc  139.telemail.tk  spam4.me  longshan.bond  localjobsnearme.com  tmpbox.net  coolxyz.top  guerrillamail.org  guerrillamail.com  tmpmail.org  xxxhi.cc  wfes.site  jkb.tmmad.com  moakt.co  psnator.com  disbox.net  linshiyou.com  sharklasers.com  logodesignex.com  wxiaobao.cyou  bareed.ws  qabq.com  nqmo.com  teml.net  xdanae.com  yzm.de  deomail.top  guerrillamail.de  oxuzn.icu  jkd.tmmad.com  liteprompter.com  nm.pe  moakt.cc  disbox.org  end.tw  tmail.ws  bccto.cc  lyx13.xyz  snapmail.cc  lista.cc  mail.wvwvw.tech  tmpnator.live  moakt.ws  mydefipet.live  adxp.haihantnc.xyz  tmails.net  trx365.org  guerrillamail.net  maladi.top  tmpeml.com  uuf.me  grr.la  smartnator.com  tmpmail.net  dijingka.com  guerrillamail.biz  fc2023888.com  youxiang.dev  lifebeyondservice.com  h11gggujjj.bond  guerrillamailblock.com  mail.shouyou789.com  www.nm.pe  wj32.haihantnc.xyz  wj1.haihantnc.xyz  lplso.tmmad.com  965.tmmad.com
@@ -117,7 +118,7 @@ buy  pass
 email  wbzilxn713@gmail.com
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 node_n  18
-sub_info  232.9M  45G  2024-02-04 12:48:11+08:00  (剩余 44.77G 13:59:55.586106)
+sub_info  485.6M  45G  2024-02-04 12:48:11+08:00  (剩余 44.53G 12:59:26.811038)
 sub_url  https://sub.bigme.online:25565/api/v1/client/subscribe?token=3457e21f91b16b406704df54066257ac
 time  2024-02-03 12:48:12.387470+08:00
 type  v2board
@@ -156,18 +157,18 @@ type  v2board
 更新旧订阅失败  (https://lonan2.luonan.me/api/v1/client/subscribe?token=0ace614a989f3c69ea90b1e90dfecbdd): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
 
 [cloud.fanqiecloud.top]
-email  qjjfttvku144@gmail.com
+email  fftondimc110@gmail.com
 name  番茄云
 node_n  27
-sub_info  621.4M  10G  2024-02-03 23:48:27+08:00  (剩余 9.393G 1:00:22.039204)
-sub_url  https://cloud3.fanqiecloud.top/api/v1/client/subscribe?token=0955de7186f5da44d5c2991716677c19
-time  2024-02-02 23:48:29.186378+08:00
+sub_info  0B  10G  2024-02-04 23:48:06+08:00  (剩余 10G 23:59:54.930811)
+sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=edaa232b453375dce112dbfcfd9b9901
+time  2024-02-03 23:48:07.598701+08:00
 type  v2board
 
 [www.tannel.xyz]
 auto_invite  F
 buy  pass
-email  jbxkgtxsp486@gmail.com
+email  tijhpncr666@gmail.com
 last_checkin  0
 name  Tannel中继网络服务
 node_n  4
@@ -188,7 +189,7 @@ email  icxytrj784@uuf.me
 last_checkin  2024-02-03 00:48:11.761214+08:00
 name  墙了个墙
 node_n  28
-sub_info  16.46G  888.1G  2024-02-06 13:50:32+08:00  (剩余 871.6G 2 days, 15:02:26.895377)
+sub_info  16.56G  888.1G  2024-02-06 13:50:32+08:00  (剩余 871.5G 2 days, 14:02:29.354959)
 sub_url  https://www.qlgq.top/link/3c3041ed39681f9e?clash=1#墙了个墙
 time  2024-01-30 13:50:34.745963+08:00
 type  sspanel
@@ -200,7 +201,7 @@ email  wdpdyphq462@guerrillamail.de
 last_checkin  2024-02-03 00:48:11.762069+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  6.959G  26.06G  2024-02-24 15:50:57+08:00  (剩余 19.1G 20 days, 17:02:43.096264)
+sub_info  6.964G  26.06G  2024-02-24 15:50:57+08:00  (剩余 19.09G 20 days, 16:02:31.817528)
 sub_url  https://bee.sulepay.com/link/5ROq2HyVhvo4OBLU?clash=1
 time  2024-01-25 15:51:01.561878+08:00
 type  sspanel
@@ -210,7 +211,7 @@ email  hbznucwsy871@gmail.com
 last_checkin  2024-02-03 00:48:11.763403+08:00
 name  大白
 node_n  8
-sub_info  34.8G  999.6G  2024-02-22 10:48:22+08:00  (剩余 964.8G 18 days, 12:00:18.152863)
+sub_info  34.8G  999.6G  2024-02-22 10:48:22+08:00  (剩余 964.8G 18 days, 11:00:19.692312)
 sub_url  https://aa.dabai.in/link/DIRd1TuZlfh0g8Od?sub=3
 time  2024-01-23 10:48:23.470969+08:00
 type  sspanel
@@ -222,7 +223,7 @@ invite_code  Zwcg  10000
 last_checkin  2024-02-03 19:48:22.996829+08:00
 name  飞翔吧
 node_n  48
-sub_info  282.8M  10.1G  2024-02-04 19:48:21+08:00  (剩余 9.827G 21:00:17.630913)
+sub_info  317.3M  10.1G  2024-02-04 19:48:21+08:00  (剩余 9.794G 19:58:17.663693)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/tiBLUfQ8hWCVsw9Q?sub=3
 time  2024-02-03 19:48:24.361943+08:00
 type  sspanel
@@ -232,7 +233,7 @@ email  vzrnuwz710@gmail.com
 last_checkin  2024-02-03 00:48:11.765620+08:00
 name  海豚云
 node_n  11
-sub_info  36.26G  106.9G  2024-02-22 17:48:20+08:00  (剩余 70.62G 18 days, 19:00:17.653859)
+sub_info  36.26G  106.9G  2024-02-22 17:48:20+08:00  (剩余 70.61G 18 days, 18:00:16.895217)
 sub_url  https://s.haituncloud.vip/link/KYrw3apg78RlxSbX?sub=3
 time  2024-01-23 17:48:24.263862+08:00
 type  sspanel
@@ -244,7 +245,7 @@ email  rxaqaolz32@gmail.com
 last_checkin  2024-02-03 00:48:11.766980+08:00
 name  MG Network
 node_n  11
-sub_info  1.257G  6.507G  2024-02-04 17:48:15+08:00  (剩余 5.249G 19:00:12.980864)
+sub_info  2.351G  6.507G  2024-02-04 17:48:15+08:00  (剩余 4.156G 18:00:12.878803)
 sub_url  https://www.mgnet.sbs/link/E10zaMBC7xbFz3kW?sub=3
 time  2024-02-02 16:48:16.559480+08:00
 type  sspanel
@@ -255,9 +256,9 @@ buy  pass
 email  nyrroybfw773@h11gggujjj.bond
 name  小白云
 node_n  38
-sub_info  291.5M  5G  2024-02-01 10:07:46+08:00  (剩余 4.715G -3 days, 11:19:32.221803)
+sub_info  291.5M  5G  2024-02-01 10:07:46+08:00  (剩余 4.715G -3 days, 10:18:57.283437)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=9265c5f8a4b056747fb56d03fa3b8b7f
 time  2024-01-30 10:07:46.727459+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 www.emailnator.com 账户失败(hryayqcyi183@femailtor.com): 500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>Server Error</title>\n\n<link rel="preconnect" href="https://fonts.gstatic.com">\n<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">\n<style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n<style>\n body {\n font-family: \'Nunito\', sans-serif;\n }\n </style>\n</head>\n<body class="antialiased">\n<div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n<div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n<div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n<div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n500 </div>\n<div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\nServer Error </div>\n</div>\n</div>\n</div>\n</body>\n</html>\n'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 www.emailnator.com 账户失败(mjzuvbzo813@femailtor.com): 500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>Server Error</title>\n\n<link rel="preconnect" href="https://fonts.gstatic.com">\n<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">\n<style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n<style>\n body {\n font-family: \'Nunito\', sans-serif;\n }\n </style>\n</head>\n<body class="antialiased">\n<div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n<div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n<div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n<div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n500 </div>\n<div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\nServer Error </div>\n</div>\n</div>\n</div>\n</body>\n</html>\n'
