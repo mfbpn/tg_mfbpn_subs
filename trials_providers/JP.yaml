@@ -16,8 +16,8 @@ proxies:
 - {name: 🇯🇵 日本08-1.3x - 小巫云 ☁️, server: gdc.white51.top, port: 17353, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇯🇵 日本11-1.3x - 小巫云 ☁️, server: xx.white51.top, port: 44437, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: ffb2c5c6-5b11-34b6-838a-f65c3dafebd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 318def38-b3ad-381f-a4ab-edac7072ac41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 318def38-b3ad-381f-a4ab-edac7072ac41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 3255b703-8a1e-3ada-8f07-51d1e5085030, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 3255b703-8a1e-3ada-8f07-51d1e5085030, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: c4f5cf8c-3194-3039-9d23-2f539dd3c6aa, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
