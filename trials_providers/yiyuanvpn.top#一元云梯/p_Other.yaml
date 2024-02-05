@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 网址：m07.yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 6928470b-4491-4fb3-aedc-a7b1bf5dc517, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 6928470b-4491-4fb3-aedc-a7b1bf5dc517, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 6928470b-4491-4fb3-aedc-a7b1bf5dc517, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 6928470b-4491-4fb3-aedc-a7b1bf5dc517, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 网址：m07.yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: b14041c0-81c8-4726-ab52-365c6c108baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: b14041c0-81c8-4726-ab52-365c6c108baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: b14041c0-81c8-4726-ab52-365c6c108baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: b14041c0-81c8-4726-ab52-365c6c108baa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
