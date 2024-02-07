@@ -12,12 +12,10 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -28,7 +26,6 @@ proxy-groups:
   proxies: &id001
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇯🇵 JP日本 A - 可乐云
-  - 🇺🇸 US美国 A - 可乐云
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 🛩️ ‍墙内
   type: select
@@ -51,9 +48,7 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -82,19 +77,12 @@ proxy-groups:
   tolerance: 100
   proxies: &id003
   - 🇯🇵 JP日本 A - 可乐云
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id004
-  - 🇺🇸 US美国 A - 可乐云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id005
+  proxies: &id004
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 👆🏻 ‍指定
   type: select
@@ -105,15 +93,11 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: b04061d3-61d2-413e-bf81-8efefdae3374, udp: true}
-- {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 20552, type: ss, cipher: chacha20-ietf-poly1305, password: b04061d3-61d2-413e-bf81-8efefdae3374, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: b04061d3-61d2-413e-bf81-8efefdae3374, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: b04061d3-61d2-413e-bf81-8efefdae3374, udp: true}
 rules:
