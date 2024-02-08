@@ -4,8 +4,8 @@ proxies:
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 8997be93-06bc-4879-b744-c589a44e6d67, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 3cf6a281-e4a3-38bf-b5b1-dc8481ddf1ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 3cf6a281-e4a3-38bf-b5b1-dc8481ddf1ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: f953118f-029d-3179-bac0-2ab0ba5ef78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: f953118f-029d-3179-bac0-2ab0ba5ef78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 3bdc49ef-9ef7-402d-adf9-958b9a41fc5d, udp: true}
 - {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 3bdc49ef-9ef7-402d-adf9-958b9a41fc5d, udp: true}
 - {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 3bdc49ef-9ef7-402d-adf9-958b9a41fc5d, udp: true}
@@ -48,5 +48,5 @@ proxies:
 - {name: '🇯🇵 日本01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp01.bigmeyear.org, port: 30236, type: ss, cipher: aes-128-gcm, password: 931694db-36ef-4cf8-acc3-6445c6814483, udp: true}
 - {name: '🇯🇵 日本02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp02.bigmeyear.org, port: 30237, type: ss, cipher: aes-128-gcm, password: 931694db-36ef-4cf8-acc3-6445c6814483, udp: true}
 - {name: '🇯🇵 日本03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp03.bigmeyear.org, port: 30250, type: ss, cipher: aes-128-gcm, password: 931694db-36ef-4cf8-acc3-6445c6814483, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 6a498cd3-a4e3-4ee4-9ba1-108eb01201c4, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 0a705f62-8bd6-4566-b411-ad1d00abf318, udp: true}
 - {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19819:jV4w5d, obfs-param: b35cd19819.microsoft.com, udp: true}
