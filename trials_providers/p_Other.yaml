@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 85ffd8d3-9bd8-4c11-8619-75d299a2f730, udp: true}
+- {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b51c1ab9-156c-4094-8607-4d5f3de38c0c, udp: true}
 - {name: 官网  https://luonan.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 本站专用订阅转换地址：https://zh.7t7t.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 節點無法使用，更新訂閲 - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
