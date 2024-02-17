@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 1a74de34-d699-48b6-a5ef-c4d9e2e059c8, udp: true}
+- {name: 🇸🇬 Singapore 2 - 番茄云, server: sg2.fanqiecloud.top, port: 20063, type: ss, cipher: chacha20-ietf-poly1305, password: 1a74de34-d699-48b6-a5ef-c4d9e2e059c8, udp: true}
