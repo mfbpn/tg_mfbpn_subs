@@ -10,11 +10,9 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -24,7 +22,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇸🇬 SG新加坡 A - 可乐云
   - 🇯🇵 JP日本 A - 可乐云
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 🛩️ ‍墙内
@@ -50,10 +47,8 @@ proxy-groups:
   proxies:
   - 🎏 ‍其他
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -63,42 +58,31 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇸🇬 SG新加坡 A - 可乐云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id003
+  proxies: &id002
   - 🇯🇵 JP日本 A - 可乐云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id004
+  proxies: &id003
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id004
+  proxies: *id003
 proxies:
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 54c34fd7-4946-4023-9a54-d44cdac186b5, udp: true}
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 54c34fd7-4946-4023-9a54-d44cdac186b5, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 54c34fd7-4946-4023-9a54-d44cdac186b5, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
