@@ -74,7 +74,7 @@ proxy-groups:
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
-- name: 🤖 ‍OpenAI+Bing
+- name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
@@ -188,24 +188,24 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇭🇰 香港04 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg03.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇯🇵 日本01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp01.bigmeyear.org, port: 30236, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇯🇵 日本02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp02.bigmeyear.org, port: 30237, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇯🇵 日本03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp03.bigmeyear.org, port: 30250, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us01.bigmeyear.org, port: 30238, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇺🇸 美国02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us02.bigmeyear.org, port: 30240, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇺🇸 美国03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us03.bigmeyear.org, port: 30241, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇩🇪 德国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare01.bigmeyear.org, port: 20702, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
-- {name: '🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare02.bigmeyear.org, port: 20703, type: ss, cipher: aes-128-gcm, password: 222c4146-29db-4497-b4ef-a64307ab63ec, udp: true}
+- {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇭🇰 香港04 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg03.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇯🇵 日本01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp01.bigmeyear.org, port: 30236, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇯🇵 日本02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp02.bigmeyear.org, port: 30237, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇯🇵 日本03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: jp03.bigmeyear.org, port: 30250, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us01.bigmeyear.org, port: 30238, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇺🇸 美国02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us02.bigmeyear.org, port: 30240, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇺🇸 美国03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us03.bigmeyear.org, port: 30241, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇩🇪 德国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare01.bigmeyear.org, port: 20702, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
+- {name: '🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare02.bigmeyear.org, port: 20703, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -259,6 +259,10 @@ rules:
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
@@ -1940,10 +1944,14 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
-- DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
