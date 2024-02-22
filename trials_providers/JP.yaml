@@ -12,9 +12,9 @@ proxies:
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 91604f9d-c321-32bc-b42e-f286a2d13262, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 40443, type: trojan, password: 91604f9d-c321-32bc-b42e-f286a2d13262, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 50443, type: trojan, password: 91604f9d-c321-32bc-b42e-f286a2d13262, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 51aec622-3726-423c-8baf-db1687088b19, udp: true}
-- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 51aec622-3726-423c-8baf-db1687088b19, udp: true}
-- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 51aec622-3726-423c-8baf-db1687088b19, udp: true}
+- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
+- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
+- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 54c34fd7-4946-4023-9a54-d44cdac186b5, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: f7f7b6ef-f6b1-3f8a-a5da-1f69a09e00b6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: f7f7b6ef-f6b1-3f8a-a5da-1f69a09e00b6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
