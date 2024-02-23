@@ -15,7 +15,7 @@ proxies:
 - {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
 - {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
 - {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: ee4afde3-7f40-4644-be95-855c64a8d505, udp: true}
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 54c34fd7-4946-4023-9a54-d44cdac186b5, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 44349ccb-028e-4f77-8684-c282e5a915de, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: f7f7b6ef-f6b1-3f8a-a5da-1f69a09e00b6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: f7f7b6ef-f6b1-3f8a-a5da-1f69a09e00b6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: ffb2c5c6-5b11-34b6-838a-f65c3dafebd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -47,5 +47,5 @@ proxies:
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 23744886-ae6d-3bc1-95f7-c6a8b080b274, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 23744886-ae6d-3bc1-95f7-c6a8b080b274, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19956:YzHGEj, obfs-param: 761c319956.microsoft.com, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: d7b9c75a-143e-3a9d-b5b1-988d8fc12154, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: d7b9c75a-143e-3a9d-b5b1-988d8fc12154, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 4b2b0d9a-c87b-379b-b1a9-264c41539a06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 4b2b0d9a-c87b-379b-b1a9-264c41539a06, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
