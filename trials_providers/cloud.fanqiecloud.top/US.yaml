@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 America - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 5b980bef-e63c-46c0-8946-9d5e9b9cac1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-usa.fanqiecloud.free.hr}}, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us.fanqiecloud.top, port: 28252, type: ss, cipher: chacha20-ietf-poly1305, password: 5b980bef-e63c-46c0-8946-9d5e9b9cac1f, udp: true}
-- {name: 🇺🇸 America 3|V6 - 番茄云, server: us3.fanqiecloud.top, port: 40060, type: ss, cipher: chacha20-ietf-poly1305, password: 5b980bef-e63c-46c0-8946-9d5e9b9cac1f, udp: true}
-- {name: 🇺🇸 America 4 - 番茄云, server: us2.fanqiecloud.top, port: 23553, type: ss, cipher: chacha20-ietf-poly1305, password: 5b980bef-e63c-46c0-8946-9d5e9b9cac1f, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 3a6d565a-8291-4a51-a9af-0ad14d57dce5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-usa.fanqiecloud.free.hr}}, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us.fanqiecloud.top, port: 28252, type: ss, cipher: chacha20-ietf-poly1305, password: 3a6d565a-8291-4a51-a9af-0ad14d57dce5, udp: true}
+- {name: 🇺🇸 America 3|V6 - 番茄云, server: us3.fanqiecloud.top, port: 40060, type: ss, cipher: chacha20-ietf-poly1305, password: 3a6d565a-8291-4a51-a9af-0ad14d57dce5, udp: true}
+- {name: 🇺🇸 America 4 - 番茄云, server: us2.fanqiecloud.top, port: 23553, type: ss, cipher: chacha20-ietf-poly1305, password: 3a6d565a-8291-4a51-a9af-0ad14d57dce5, udp: true}
