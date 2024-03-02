@@ -38,7 +38,7 @@ proxy-groups:
   - 🇹🇼 Taiwan - 番茄云
   - 🇸🇬 Singapore - 番茄云
   - 🇯🇵 Japan - 番茄云
-  - 🇺🇸 America V6 - 番茄云
+  - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 America 3 - 番茄云
   - 🇰🇷 South Korea - 番茄云
@@ -151,7 +151,7 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 America V6 - 番茄云
+  - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
   - 🇺🇸 America 3 - 番茄云
 - name: 🎏 ‍其他
@@ -203,7 +203,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸 America V6 - 番茄云, server: us3.fanqiecloud.top, port: 40060, type: ss, cipher: chacha20-ietf-poly1305, password: f999be5a-de53-44f7-9d98-0ad7d3b04722, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: dl5.fanqiecloud.top, port: 2086, type: vmess, uuid: f999be5a-de53-44f7-9d98-0ad7d3b04722, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-us3.fanqiecloud.top}}, udp: true}
 - {name: 🇺🇸 America 2 - 番茄云, server: us.fanqiecloud.top, port: 28252, type: ss, cipher: chacha20-ietf-poly1305, password: f999be5a-de53-44f7-9d98-0ad7d3b04722, udp: true}
 - {name: 🇺🇸 America 3 - 番茄云, server: us2.fanqiecloud.top, port: 23553, type: ss, cipher: chacha20-ietf-poly1305, password: f999be5a-de53-44f7-9d98-0ad7d3b04722, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 51652, type: ss, cipher: chacha20-ietf-poly1305, password: f999be5a-de53-44f7-9d98-0ad7d3b04722, udp: true}
