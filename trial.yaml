@@ -59,7 +59,6 @@ proxy-groups:
   - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 香港 / HK｜A - 小白云
   - 🇭🇰 香港 / HK｜B - 小白云
-  - 🇭🇰 海外用户｜HK - 小白云
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -110,7 +109,6 @@ proxy-groups:
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
   - 🇹🇼 台湾 / TW｜A - 小白云
   - 🇹🇼 台湾 / TW｜B - 小白云
-  - 🇹🇼 TW｜Overseas users - 小白云
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -142,7 +140,6 @@ proxy-groups:
   - 🇸🇬 新加坡 105 - 墙了个墙
   - 🇸🇬 新加坡 / SG｜A - 小白云
   - 🇸🇬 新加坡 / SG｜B - 小白云
-  - 🇸🇬 SG｜Overseas users - 小白云
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 [vip①]新加坡1 - MG Network
   - 🇸🇬 [vip①]新加坡2 - MG Network
@@ -182,7 +179,6 @@ proxy-groups:
   - 🇯🇵 日本 105 - 墙了个墙
   - 🇯🇵 日本 / JP｜A - 小白云
   - 🇯🇵 日本 / JP｜B - 小白云
-  - 🇯🇵 JP｜Overseas users - 小白云
   - 🇯🇵 JP日本 A - 可乐云
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
@@ -235,7 +231,6 @@ proxy-groups:
   - 🇺🇸 美国 / US｜A - 小白云
   - 🇺🇸 美国 / US｜B - 小白云
   - 🇺🇸 美国 / US | BIZ - 小白云
-  - 🇺🇸 US｜Overseas users - 小白云
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国2 - MG Network
   - 🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -295,7 +290,6 @@ proxy-groups:
   - 🇩🇪 德国 法兰克福104 - 墙了个墙
   - 🇩🇪 德国 法兰克福105 - 墙了个墙
   - ℹ️ 官网:cooc.wiki - 小白云
-  - 🇰🇷 韩国 / 华南｜KR - 小白云
   - 🇰🇷 韩国 / KR｜BIZ - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
@@ -307,12 +301,6 @@ proxy-groups:
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
   - 🇫🇷 法国 / 华南 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
-  - 🇰🇷 KR｜Overseas users - 小白云
-  - 🇻🇳 VN｜Overseas users - 小白云
-  - MAS｜Overseas users - 小白云
-  - 🇬🇧 UK｜Overseas users - 小白云
-  - GER｜Overseas users - 小白云
-  - 🇫🇷 FR｜Overseas users - 小白云
   - 🇰🇷 KR韩国 A - 可乐云
   - 🇩🇪 [vip①]德国1 - MG Network
   - 🇩🇪 [vip①]德国2 - MG Network
@@ -465,7 +453,6 @@ proxy-groups:
   - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 香港 / HK｜A - 小白云
   - 🇭🇰 香港 / HK｜B - 小白云
-  - 🇭🇰 海外用户｜HK - 小白云
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -522,7 +509,6 @@ proxy-groups:
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
   - 🇹🇼 台湾 / TW｜A - 小白云
   - 🇹🇼 台湾 / TW｜B - 小白云
-  - 🇹🇼 TW｜Overseas users - 小白云
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -577,7 +563,6 @@ proxy-groups:
   - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 香港 / HK｜A - 小白云
   - 🇭🇰 香港 / HK｜B - 小白云
-  - 🇭🇰 海外用户｜HK - 小白云
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -628,7 +613,6 @@ proxy-groups:
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
   - 🇹🇼 台湾 / TW｜A - 小白云
   - 🇹🇼 台湾 / TW｜B - 小白云
-  - 🇹🇼 TW｜Overseas users - 小白云
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -666,7 +650,6 @@ proxy-groups:
   - 🇸🇬 新加坡 105 - 墙了个墙
   - 🇸🇬 新加坡 / SG｜A - 小白云
   - 🇸🇬 新加坡 / SG｜B - 小白云
-  - 🇸🇬 SG｜Overseas users - 小白云
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 [vip①]新加坡1 - MG Network
   - 🇸🇬 [vip①]新加坡2 - MG Network
@@ -712,7 +695,6 @@ proxy-groups:
   - 🇯🇵 日本 105 - 墙了个墙
   - 🇯🇵 日本 / JP｜A - 小白云
   - 🇯🇵 日本 / JP｜B - 小白云
-  - 🇯🇵 JP｜Overseas users - 小白云
   - 🇯🇵 JP日本 A - 可乐云
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
@@ -771,7 +753,6 @@ proxy-groups:
   - 🇺🇸 美国 / US｜A - 小白云
   - 🇺🇸 美国 / US｜B - 小白云
   - 🇺🇸 美国 / US | BIZ - 小白云
-  - 🇺🇸 US｜Overseas users - 小白云
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国2 - MG Network
   - 🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
@@ -837,7 +818,6 @@ proxy-groups:
   - 🇩🇪 德国 法兰克福104 - 墙了个墙
   - 🇩🇪 德国 法兰克福105 - 墙了个墙
   - ℹ️ 官网:cooc.wiki - 小白云
-  - 🇰🇷 韩国 / 华南｜KR - 小白云
   - 🇰🇷 韩国 / KR｜BIZ - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
@@ -849,12 +829,6 @@ proxy-groups:
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
   - 🇫🇷 法国 / 华南 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
-  - 🇰🇷 KR｜Overseas users - 小白云
-  - 🇻🇳 VN｜Overseas users - 小白云
-  - MAS｜Overseas users - 小白云
-  - 🇬🇧 UK｜Overseas users - 小白云
-  - GER｜Overseas users - 小白云
-  - 🇫🇷 FR｜Overseas users - 小白云
   - 🇰🇷 KR韩国 A - 可乐云
   - 🇩🇪 [vip①]德国1 - MG Network
   - 🇩🇪 [vip①]德国2 - MG Network
@@ -960,8 +934,8 @@ proxies:
 - {name: 🇹🇼 TW-板桥2-4(Trojan) - 麻雀加速器 Sparrow, server: b24.ntbq.dynu.net, port: 3271, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: b24.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-1(Trojan) - 麻雀加速器 Sparrow, server: ty11t.twty.dynu.net, port: 13761, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: ty11t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: c11.twtc.dynu.net, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: TRTC1}, udp: true}
-- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 13911, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: c12.twtc.dynu.net, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: TRTC2}, udp: true}
+- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 13911, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: c12.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 USA-德州-1(Trojan) - 麻雀加速器 Sparrow, server: us1.n305.dynu.net, port: 16389, type: trojan, password: a2db6566-32c7-4e6e-89d7-b258ff55959f, sni: us1.n305.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 公益免费 🇯🇵日本 - Gegeth极迅游, server: ap-northeast-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 2347f978-ca56-4db9-9998-acc61b8b4d8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/45?ed=2048', headers: {Host: jpli.edge.233.tw}}, udp: true}
 - {name: 公益免费 🇺🇸美国 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 2347f978-ca56-4db9-9998-acc61b8b4d8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
@@ -992,13 +966,13 @@ proxies:
 - {name: 🇺🇸 US Salt Lake   1.0 - LONAN, server: us.lonan.can.1145114.me, port: 443, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vdus.1145114.me, network: ws, ws-opts: {path: /lonan, headers: {Host: vdus.1145114.me}}, udp: true}
 - {name: 🇺🇸 US  1.0 - LONAN, server: lonan.v6hk.qkhbyf.tech, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: uswqq.qkhbyf.tech}}, udp: true}
 - {name: 🇭🇰 香港|【免费领1TB流量】前往-注册|公益 - 大白, server: 101.89.219.103, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 101.89.219.103, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 101.91.226.84, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 101.89.154.94, port: 26068, type: vmess, uuid: 60239b5d-e94e-3ca2-ad75-d64a899e0000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: 098db65d-94cb-35d2-86cc-aba40d907819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: 098db65d-94cb-35d2-86cc-aba40d907819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13004, type: vmess, uuid: 098db65d-94cb-35d2-86cc-aba40d907819, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
@@ -1043,20 +1017,16 @@ proxies:
 - {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq1.pw, port: 30443, type: trojan, password: 1575753a-60f7-3339-8867-d581e422dd38, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇯🇵 日本 / JP｜A - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇯🇵 日本 / JP｜B - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇭🇰 香港 / HK｜A - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇭🇰 香港 / HK｜B - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇭🇰 海外用户｜HK - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇹🇼 台湾 / TW｜A - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇹🇼 台湾 / TW｜B - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇺🇸 美国 / US｜A - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇺🇸 美国 / US｜B - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇸🇬 新加坡 / SG｜A - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇸🇬 新加坡 / SG｜B - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇺🇸 美国 / US | BIZ - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇰🇷 韩国 / KR｜BIZ - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
@@ -1068,14 +1038,6 @@ proxies:
 - {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
-- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 9b15192a-0d8a-4514-94f8-6bed3d072c17, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 0cbf281a-0276-44b5-bd27-93ca48e04940, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: 0cbf281a-0276-44b5-bd27-93ca48e04940, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 0cbf281a-0276-44b5-bd27-93ca48e04940, udp: true}
