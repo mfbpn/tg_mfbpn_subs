@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: ffb0b444-0052-45f3-bbf4-60a7c1dbf8dd, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: ffb95f87-7426-4342-ac44-2396d506b70f, udp: true}
 - {name: 官网  https://luonan.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 国内可访问官網 lonan3.luonan.me - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 本站专用订阅转换地址：https://zh.7t7t.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
