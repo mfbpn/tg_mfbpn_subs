@@ -21,8 +21,8 @@ proxies:
 - {name: 🇹🇼 台湾A | 抖音ip 01 | 1x - 小巫云 ☁️, server: gda.white51.top, port: 45779, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾B | 抖音ip 02 | 1x - 小巫云 ☁️, server: gdb.white51.top, port: 17455, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾C | 抖音ip 03 | 1x - 小巫云 ☁️, server: gdc.white51.top, port: 49239, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 8d128486-69b9-3a73-814a-007809f9df40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 8d128486-69b9-3a73-814a-007809f9df40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 85ad09bd-c133-3d17-a6aa-8ced9c6bbf73, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 85ad09bd-c133-3d17-a6aa-8ced9c6bbf73, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(Trojan) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9755, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: b12.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(Trojan) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 9489, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: b13.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥2-2(Trojan) - 麻雀加速器 Sparrow, server: b22.ntbq.dynu.net, port: 19489, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: b22.ntbq.dynu.net, skip-cert-verify: true, udp: true}
@@ -32,7 +32,7 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 13989, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: nc12.twtc.dynu.net, port: 14656, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: nc12.twtc.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 55627888-c4f0-4b34-850f-60a13b308f62, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 55627888-c4f0-4b34-850f-60a13b308f62, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 55627888-c4f0-4b34-850f-60a13b308f62, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 8800e4a3-e05d-4dc0-9475-5c0300f5dfd1, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 8800e4a3-e05d-4dc0-9475-5c0300f5dfd1, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 8800e4a3-e05d-4dc0-9475-5c0300f5dfd1, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: 093174b4-6357-4a8c-a501-55b088965ea6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw4.fanqiecloud.top}}, udp: true}
