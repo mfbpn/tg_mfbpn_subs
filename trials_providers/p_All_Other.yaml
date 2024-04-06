@@ -29,16 +29,16 @@ proxies:
 - {name: '🇩🇪 德国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare01.bigmeyear.org, port: 20702, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
 - {name: '🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare02.bigmeyear.org, port: 20703, type: ss, cipher: aes-128-gcm, password: 961fc8d9-7fa7-4987-a8d0-72f040596a55, udp: true}
 - {name: 🇻🇳 越南/VN | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 51795, type: ss, cipher: chacha20-ietf-poly1305, password: 64cb3955-b520-41d7-8cc5-9c29d92d5277, udp: true}
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
-- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 4b312819-8988-49f4-936c-b02412b25e3c, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
+- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 96130116-1d40-457b-8d75-8a58a4cb28b5, udp: true}
 - {name: 国内可访问官網 lonan3.luonan.me - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: TG群组：@puoluoxiaojichang | 每日签到获取 0~10G流量 - LONAN, server: 1.1.11, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 1.1.11}}, udp: true}
 - {name: 🇰🇷 KR Chuncheon 1G 1.0 - LONAN, server: cmcu.1145114.me, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: chuncheonvzxvz.1145114.me}}, udp: true}
