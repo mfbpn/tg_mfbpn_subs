@@ -50,7 +50,6 @@ proxy-groups:
   - 🇮🇳 印度丨孟买 - Tannel中继网络服务
   - 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务
   - 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务
-  - 🇦🇪 阿联酋丨迪拜丨Oracle - Tannel中继网络服务
   - 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务
 - name: 🛩️ ‍墙内
   type: select
@@ -166,7 +165,6 @@ proxy-groups:
   - 🇮🇳 印度丨孟买 - Tannel中继网络服务
   - 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务
   - 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务
-  - 🇦🇪 阿联酋丨迪拜丨Oracle - Tannel中继网络服务
   - 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务
 - name: 👆🏻 ‍指定
   type: select
@@ -205,7 +203,6 @@ proxies:
 - {name: 🇺🇲 美国B丨圣何塞丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62027, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62030, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62037, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇪 阿联酋丨迪拜丨Oracle - Tannel中继网络服务, server: gy.zztannel.com, port: 62017, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62023, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨BGP丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62021, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62016, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
