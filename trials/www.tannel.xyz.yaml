@@ -43,8 +43,8 @@ proxy-groups:
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 台湾HKG丨原生流媒体 - Tannel中继网络服务
-  - 🇸🇬 新加坡A丨Lin丨流媒体 - Tannel中继网络服务
-  - 🇸🇬 新加坡B丨Lin丨流媒体 - Tannel中继网络服务
+  - 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务
+  - 🇸🇬 新加坡B丨禁下载丨流媒体 - Tannel中继网络服务
   - 🇸🇬 新加坡丨HKG丨流媒体 - Tannel中继网络服务
   - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
   - 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务
@@ -154,8 +154,8 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡A丨Lin丨流媒体 - Tannel中继网络服务
-  - 🇸🇬 新加坡B丨Lin丨流媒体 - Tannel中继网络服务
+  - 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务
+  - 🇸🇬 新加坡B丨禁下载丨流媒体 - Tannel中继网络服务
   - 🇸🇬 新加坡丨HKG丨流媒体 - Tannel中继网络服务
 - name: 🇯🇵 ‍日本
   type: url-test
@@ -221,8 +221,8 @@ proxies:
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾HKG丨原生流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62004, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡A丨Lin丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62033, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡B丨Lin丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62034, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62033, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡B丨禁下载丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62034, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡丨HKG丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62007, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62001, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62035, type: vmess, uuid: 18d94bd0-2bb0-390b-b815-2edfac3a8fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
