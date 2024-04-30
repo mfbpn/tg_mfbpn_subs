@@ -48,7 +48,7 @@ proxy-groups:
   - 🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇺🇸 美国02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇺🇸 美国03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
-  - ℹ️ 去除1条不合适线路 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
+  - Hysteria2不支持！ - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇷 土耳其01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 - name: 🛩️ ‍墙内
@@ -162,7 +162,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - ℹ️ 去除1条不合适线路 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
+  - Hysteria2不支持！ - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇷 土耳其01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 - name: 👆🏻 ‍指定
@@ -190,7 +190,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 'ℹ️ 去除1条不合适线路 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
+- {name: 'Hysteria2不支持！ - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 4mkdx0.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 7wsitt.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}

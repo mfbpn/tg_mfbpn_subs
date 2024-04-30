@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 'ℹ️ 去除1条不合适线路 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
+- {name: 'Hysteria2不支持！ - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: o5gemq.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 4mkdx0.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
 - {name: '🇭🇰 香港03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 7wsitt.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
