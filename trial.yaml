@@ -1157,32 +1157,32 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 13989, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: nc12.twtc.dynu.net, port: 14656, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: nc12.twtc.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.16.133.181, port: 8080, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-1.cn-db.top, network: ws, ws-opts: {path: /dabai.in18113316, headers: {Host: 100.100.17.133.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.17.65.111, port: 2095, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.db-link02.top, network: ws, ws-opts: {path: /dabai.in1116517, headers: {Host: 100.100.17.65.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【五一活动7折进行中】前往网站订购|共享 - 大白, server: 104.17.33.168, port: 2052, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in1683317, headers: {Host: 100.100.17.33.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.17.135.14, port: 2086, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.cn-db.top, network: ws, ws-opts: {path: /dabai.in1413517, headers: {Host: 100.100.17.135.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.19.137.252, port: 8880, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in25213719, headers: {Host: 100.100.17.137.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.16.54.248, port: 2095, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link02.top, network: ws, ws-opts: {path: /dabai.in2485416, headers: {Host: 100.100.17.54.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.18.168.103, port: 2095, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.cn-db.top, network: ws, ws-opts: {path: /dabai.in10316818, headers: {Host: 100.100.17.168.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.19.234.85, port: 8880, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.db-link02.top, network: ws, ws-opts: {path: /dabai.in8523419, headers: {Host: 100.100.17.234.db-link02.top}}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 104.20.213.246, port: 2052, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link01.top, network: ws, ws-opts: {path: /dabai.in24621320, headers: {Host: 100.100.17.213.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.19.183.183, port: 2082, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-1.cn-db.top, network: ws, ws-opts: {path: /dabai.in18318319, headers: {Host: 100.100.17.183.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.19.224.51, port: 2095, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.db-link02.top, network: ws, ws-opts: {path: /dabai.in5122419, headers: {Host: 100.100.17.224.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【五一活动7折进行中】前往网站订购|共享 - 大白, server: 104.17.75.144, port: 2095, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in1447517, headers: {Host: 100.100.17.75.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.16.236.220, port: 8080, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.cn-db.top, network: ws, ws-opts: {path: /dabai.in22023616, headers: {Host: 100.100.17.236.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.18.63.68, port: 2052, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in686318, headers: {Host: 100.100.17.63.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.20.144.121, port: 8080, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link02.top, network: ws, ws-opts: {path: /dabai.in12114420, headers: {Host: 100.100.17.144.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.20.251.105, port: 2082, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.cn-db.top, network: ws, ws-opts: {path: /dabai.in10525120, headers: {Host: 100.100.17.251.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.16.66.201, port: 2082, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.db-link02.top, network: ws, ws-opts: {path: /dabai.in2016616, headers: {Host: 100.100.17.66.db-link02.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 104.19.39.141, port: 2082, type: vmess, uuid: 9fd78856-60a0-3dda-a997-835121c237cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link01.top, network: ws, ws-opts: {path: /dabai.in1413919, headers: {Host: 100.100.17.39.db-link01.top}}, udp: true}
 - {name: 公益免费 🇯🇵日本 - Gegeth极迅游, server: ap-northeast-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 2347f978-ca56-4db9-9998-acc61b8b4d8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/45?ed=2048', headers: {Host: jpli.edge.233.tw}}, udp: true}
 - {name: 公益免费 🇺🇸美国 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 2347f978-ca56-4db9-9998-acc61b8b4d8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: e2876e95-800b-380c-ba1e-a24011f6ad9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: a93ae6a1-0893-35a8-8f44-ac384cbd099d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 76409a0f-481a-4426-90c0-f36e509d93a1, udp: true}
 - {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 76409a0f-481a-4426-90c0-f36e509d93a1, udp: true}
 - {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 76409a0f-481a-4426-90c0-f36e509d93a1, udp: true}
@@ -3448,7 +3448,6 @@ rules:
 - DOMAIN-SUFFIX,archive.fo,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.is,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.li,✈️ ‍起飞
-- DOMAIN-SUFFIX,archive.md,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.ph,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.today,✈️ ‍起飞
@@ -3781,7 +3780,6 @@ rules:
 - DOMAIN-SUFFIX,c-spanvideo.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,c100tibet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,c2cx.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,cableav.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,cablegatesearch.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,cachinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cacnw.com,✈️ ‍起飞
@@ -3966,7 +3964,6 @@ rules:
 - DOMAIN-SUFFIX,chubun.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,churchinhongkong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,chushigangdrug.ch,✈️ ‍起飞
-- DOMAIN-SUFFIX,ciciai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cienen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cineastentreff.de,✈️ ‍起飞
 - DOMAIN-SUFFIX,cipfg.org,✈️ ‍起飞
@@ -4068,7 +4065,6 @@ rules:
 - DOMAIN-SUFFIX,cotweet.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,counter.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,coursehero.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,coze.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cpj.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,crackle.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,crazys.cc,✈️ ‍起飞
@@ -4422,7 +4418,6 @@ rules:
 - DOMAIN-SUFFIX,etadult.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,etaiwannews.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,etherdelta.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ethermine.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,etherscan.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,etizer.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,etokki.com,✈️ ‍起飞
@@ -4455,7 +4450,6 @@ rules:
 - DOMAIN-SUFFIX,ezpc.tk,✈️ ‍起飞
 - DOMAIN-SUFFIX,ezpeer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ezua.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,f2pool.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,f8.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,faceless.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,facesofnyfw.com,✈️ ‍起飞
@@ -5134,7 +5128,6 @@ rules:
 - DOMAIN-SUFFIX,hrcir.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrea.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrichina.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,hrntt.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrw.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrweb.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hsjp.net,✈️ ‍起飞
@@ -5170,7 +5163,6 @@ rules:
 - DOMAIN-SUFFIX,hulkshare.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hulu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huluim.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,humanparty.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,humanrightspressawards.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hung-ya.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hungerstrikeforaids.org,✈️ ‍起飞
@@ -5211,7 +5203,7 @@ rules:
 - DOMAIN-SUFFIX,ibtimes.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ibvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,icams.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,icedrive.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,icerocket.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,icij.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,icl-fi.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,icoco.com,✈️ ‍起飞
@@ -5469,7 +5461,6 @@ rules:
 - DOMAIN-SUFFIX,juyuange.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,juziyue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,jwmusic.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,jwplayer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,jyxf.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,k-doujin.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,ka-wai.com,✈️ ‍起飞
@@ -6659,7 +6650,6 @@ rules:
 - DOMAIN-SUFFIX,roodo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rosechina.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rotten.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,rou.video,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsdlmonitor.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsf-chinese.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsf.org,✈️ ‍起飞
@@ -7157,7 +7147,6 @@ rules:
 - DOMAIN-SUFFIX,telesco.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,tellme.pw,✈️ ‍起飞
 - DOMAIN-SUFFIX,tenacy.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,tenor.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tensorflow.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tenzinpalmo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,terabox.com,✈️ ‍起飞
@@ -8104,7 +8093,6 @@ rules:
 - DOMAIN-SUFFIX,z-lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,zacebook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zalmos.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,zamimg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zannel.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zaobao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zaozon.com,✈️ ‍起飞
