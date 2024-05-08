@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: goh8x3.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
-- {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: exiczs.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
-- {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 7sshgq.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: de52462b-9144-4ba5-b86f-ae97b8a9daea, udp: true}
+- {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: goh8x3.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 605bbca8-ce04-40f1-9430-a4d01f39e90e, udp: true}
+- {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: exiczs.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 605bbca8-ce04-40f1-9430-a4d01f39e90e, udp: true}
+- {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 7sshgq.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 605bbca8-ce04-40f1-9430-a4d01f39e90e, udp: true}
