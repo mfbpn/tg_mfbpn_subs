@@ -31,10 +31,10 @@ proxies:
 - {name: 🇹🇼 台湾A | 抖音ip 01 | 1x - 小巫云 ☁️, server: gda.white51.top, port: 45779, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾B | 抖音ip 02 | 1x - 小巫云 ☁️, server: gdb.white51.top, port: 17455, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾C | 抖音ip 03 | 1x - 小巫云 ☁️, server: gdc.white51.top, port: 49239, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: de26620a-626e-3994-84ac-563c90704843, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: de26620a-626e-3994-84ac-563c90704843, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: de26620a-626e-3994-84ac-563c90704843, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: de26620a-626e-3994-84ac-563c90704843, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: e0e006e7-a73e-3974-aa11-375ada3e6420, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: e0e006e7-a73e-3974-aa11-375ada3e6420, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: e0e006e7-a73e-3974-aa11-375ada3e6420, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: e0e006e7-a73e-3974-aa11-375ada3e6420, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: npunap.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: pvmatw.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: z01tyt.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
