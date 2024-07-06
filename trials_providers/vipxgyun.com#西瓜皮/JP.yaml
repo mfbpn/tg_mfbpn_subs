@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 65cce91e-2cf2-3317-8015-60154455af8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 65cce91e-2cf2-3317-8015-60154455af8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: a3565e93-d888-3f72-b860-28eb79b27b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: a3565e93-d888-3f72-b860-28eb79b27b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
