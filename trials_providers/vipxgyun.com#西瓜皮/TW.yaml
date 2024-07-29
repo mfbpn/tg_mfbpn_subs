@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 3d01bf65-f4b5-3eaf-80e6-89e4688ee7eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 3d01bf65-f4b5-3eaf-80e6-89e4688ee7eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: fd94bb3a-030b-3509-9f58-5ae2c3106c0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: fd94bb3a-030b-3509-9f58-5ae2c3106c0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
