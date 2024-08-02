@@ -6,11 +6,11 @@ proxies:
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 13b6e22d-ae62-4ecb-bcac-ead3ba41730c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: eed966a3-cb26-4db2-b75f-be5806d8c8ef, udp: true}
 - {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: eed966a3-cb26-4db2-b75f-be5806d8c8ef, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 48cee915-a090-33b4-9a4f-3a6b51cfab67, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 48cee915-a090-33b4-9a4f-3a6b51cfab67, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 48cee915-a090-33b4-9a4f-3a6b51cfab67, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 48cee915-a090-33b4-9a4f-3a6b51cfab67, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 48cee915-a090-33b4-9a4f-3a6b51cfab67, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: c0759e15-3c69-37b6-893e-50ccc9ff7917, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: c0759e15-3c69-37b6-893e-50ccc9ff7917, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: c0759e15-3c69-37b6-893e-50ccc9ff7917, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: c0759e15-3c69-37b6-893e-50ccc9ff7917, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: c0759e15-3c69-37b6-893e-50ccc9ff7917, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡04--0.9x - 小巫云 ☁️, server: gda.white51.top, port: 39073, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇸🇬 新加坡05--0.9x - 小巫云 ☁️, server: gdb.white51.top, port: 53039, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇸🇬 新加坡06--0.9x - 小巫云 ☁️, server: gdc.white51.top, port: 34115, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
@@ -24,8 +24,8 @@ proxies:
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 42760, type: ss, cipher: chacha20-ietf-poly1305, password: 093174b4-6357-4a8c-a501-55b088965ea6, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: 71b7ce1e-9632-436e-8353-b4447b5d4766, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: b691254f-e8d9-3db3-9996-6b8c62086d76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: b691254f-e8d9-3db3-9996-6b8c62086d76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 1efaf015-f30f-3c4f-abd3-c500e27a96bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 1efaf015-f30f-3c4f-abd3-c500e27a96bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: goh8x3.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
 - {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: exiczs.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
 - {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: 7sshgq.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 3331f486-513b-480d-a454-fdd58174a896, udp: true}
