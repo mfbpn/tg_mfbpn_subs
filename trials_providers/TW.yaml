@@ -13,10 +13,10 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 13989, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: nc12.twtc.dynu.net, port: 14656, type: trojan, password: de521ccd-0b3b-4616-a04f-c06cc4b3b077, sni: nc12.twtc.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 9ab5980f-8bf0-3468-8c8d-8b273b4a52a0, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 9ab5980f-8bf0-3468-8c8d-8b273b4a52a0, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 9ab5980f-8bf0-3468-8c8d-8b273b4a52a0, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 9ab5980f-8bf0-3468-8c8d-8b273b4a52a0, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 20753caa-d619-3e19-9193-c4a337e07c8d, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 20753caa-d619-3e19-9193-c4a337e07c8d, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 20753caa-d619-3e19-9193-c4a337e07c8d, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 20753caa-d619-3e19-9193-c4a337e07c8d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
