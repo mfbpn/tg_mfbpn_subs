@@ -36,9 +36,9 @@ sub_info  0B  10.13G  2024-08-12 11:16:49+08:00  (剩余 10.13G -1 day, 14:15:19
 sub_url  https://dy2.dx035.top/link/ndN4vNvgJbLlcKfy?sub=3
 time  2024-08-12 19:48:28.931354+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(jvkmvqf534@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(vowdjwgrl476@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [www.1jichang.xyz#一机场]
 banned_domains  psnator.com
@@ -54,16 +54,16 @@ type  v2board
 
 [www.jjyhk.com#鸡鸡云]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(oztulvord443@disbox.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"suqowyd290@bccto.cc","success":"false"}'
 
 [www.grey51.life#小巫云]
 api_host  bl.grey51.life
 buy  pass
-email  oxhfaun734@gmail.com
+email  rrqsebvxc401@gmail.com
 name  小巫云 ☁️
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://chabei67.top/api/v1/client/subscribe?token=b0659ceaca8c27b50953b7cf736d5516
-time  2024-08-24 01:48:12.399182+08:00
+sub_url  https://chabei67.top/api/v1/client/subscribe?token=500ae341835f3db538ac0d8dc80e11f3
+time  2024-08-24 02:48:12.190450+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -112,7 +112,7 @@ sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=e85c6f1654e
 time  2024-04-17 22:48:07.442128+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e85c6f1654e3de390b2438b6879f45fd (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde38321330>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e85c6f1654e3de390b2438b6879f45fd (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab4087d9c0>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
 
 [portal.passgfw.top#WindyCloud]
 buy  pass
@@ -135,7 +135,7 @@ sub_info  15.76M  45G  2024-05-31 18:48:26+08:00  (剩余 44.98G 15:00:09.629171
 sub_url  https://cloud.bigme.pro/api/v1/client/subscribe?token=0a1b7581502a0648ea6d2d7b7f4dbc4d
 time  2024-05-30 18:48:27.308576+08:00
 type  v2board
-更新旧订阅失败  (https://cloud.bigme.pro/api/v1/client/subscribe?token=0a1b7581502a0648ea6d2d7b7f4dbc4d): 403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 52.157.3.100 (Client) -&gt; (Server)</address>\n<address>Request ID: 172443531299851000001</address>\n</body>\n</html>'
+更新旧订阅失败  (https://cloud.bigme.pro/api/v1/client/subscribe?token=0a1b7581502a0648ea6d2d7b7f4dbc4d): 403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 13.93.216.230 (Client) -&gt; (Server)</address>\n<address>Request ID: 172443901384531000002</address>\n</body>\n</html>'
 
 [pigvip.xyz]
 buy  pass
@@ -146,7 +146,7 @@ sub_info  53.55K  10G  2023-12-24 23:48:20+08:00  (剩余 10G 6 days, 9:59:46.55
 sub_url  https://pigvip.xyz/api/v1/client/subscribe?token=28e52c9c1a4858b78dfa3eeef015b091
 time  2023-12-17 23:48:20.601418+08:00
 type  v2board
-更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=28e52c9c1a4858b78dfa3eeef015b091): 523 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>pigvip.xyz | 523: Origin is unreachable</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Origin is unreachable</span>\n <span class="code-label">Error code 523</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2024-08-23 17:48:18 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">San Jose</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">pigvip.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The origin web server is not reachable.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you\'re a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you\'re the owner of this website:</h3>\n <p><span>Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171946-Error-523">Additional troubleshooting information here.</a></p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8b7ceec588ebcf2e</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">52.157.3.100</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
+更新旧订阅失败  (https://pigvip.xyz/api/v1/client/subscribe?token=28e52c9c1a4858b78dfa3eeef015b091): 523 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>pigvip.xyz | 523: Origin is unreachable</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Origin is unreachable</span>\n <span class="code-label">Error code 523</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2024-08-23 18:50:09 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">San Jose</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">pigvip.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The origin web server is not reachable.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you\'re a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you\'re the owner of this website:</h3>\n <p><span>Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171946-Error-523">Additional troubleshooting information here.</a></p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8b7d49606cb123a9</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">13.93.216.230</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=pigvip.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
 
 [www.kuaidog001.top]
 banned_domains  psnator.com  wfes.site  mydefipet.live  guerrillamail.org  guerrillamail.net  tmpeml.com  tmpnator.live  guerrillamail.com  snapmail.cc  smartnator.com  linshiyou.com  youxiang.dev  xdanae.com  moakt.cc  spam4.me
@@ -157,7 +157,7 @@ sub_info  51.6G  100G  2024-07-03 00:48:23+08:00  (剩余 48.4G 19 days, 7:00:02
 sub_url  https://www.kuaidog002.top/api/v1/client/subscribe?token=51d96fe43f45b8eca1829a53473fd1da
 time  2024-06-03 00:48:22.213851+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='www.kuaidog001.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=51d96fe43f45b8eca1829a53473fd1da (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde24a48070>: Failed to resolve 'www.kuaidog001.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.kuaidog001.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=51d96fe43f45b8eca1829a53473fd1da (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab4410bdf0>: Failed to resolve 'www.kuaidog001.top' ([Errno -2] Name or service not known)"))
 
 [cn.luonan.me]
 api_host  lonan2.luonan.me
@@ -180,7 +180,7 @@ sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=366ab108a9
 time  2024-04-06 14:48:22.355867+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.fanqiecloud.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=366ab108a9812ae1b4e0b4d0d3bbcbd4 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde24dd4370>: Failed to resolve 'cloud.fanqiecloud.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.fanqiecloud.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=366ab108a9812ae1b4e0b4d0d3bbcbd4 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab40779300>: Failed to resolve 'cloud.fanqiecloud.top' ([Errno -2] Name or service not known)"))
 
 [www.tannel.xyz]
 auto_invite  F
@@ -197,19 +197,19 @@ type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  发送邮箱验证码失败(lsbbtyl686@mail.wvwvw.tech): {'ret': 0, 'msg': '非法请求'}
+更新旧订阅失败  HTTPSConnectionPool(host='www.tannel.xyz', port=443): Read timed out. (read timeout=30)
 
 [www.qlgq.top]
 auto_invite  F
 banned_domains  smartnator.com  mydefipet.live  tmpnator.live  psnator.com  linshiyou.com
 buy  pass
-email  rsqjtcai592@guerrillamail.de
-last_checkin  2024-08-24 00:48:10.750250+08:00
+email  wdpnwkuat276@bccto.cc
+last_checkin  2024-08-24 02:48:29.806711+08:00
 name  墙了个墙
 node_n  34
-sub_info  347.6M  888.1G  2024-08-24 02:48:46+08:00  (剩余 887.7G 1:00:34.620898)
-sub_url  https://www.qlgq.top/link/e8e3240a112e5d32?clash=1#墙了个墙
-time  2024-08-23 02:48:47.441377+08:00
+sub_info  0B  888G  2024-08-25 02:48:29+08:00  (剩余 888G 23:59:54.388705)
+sub_url  https://www.qlgq.top/link/4230f3df0d9ec215?clash=1#墙了个墙
+time  2024-08-24 02:48:30.618720+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -224,15 +224,15 @@ sub_info  0B  0B  2024-04-10 10:48:26+08:00  (剩余 0B -29 days, 18:00:17.95975
 sub_url  https://43.154.249.237/link/ag5wdakP7lQ46T4R?clash=1
 time  2024-03-11 10:48:27.635002+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde48383fd0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/ag5wdakP7lQ46T4R?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde38321f60>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab40a5a440>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/ag5wdakP7lQ46T4R?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab30402260>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [aa.dabai.in]
 email  cjyasugp708@gmail.com
 last_checkin  2024-08-24 00:48:10.752353+08:00
 name  大白
 node_n  7
-sub_info  14.26G  1T  2024-09-19 15:53:11+08:00  (剩余 1010G 26 days, 14:05:01.560220)
+sub_info  14.26G  1T  2024-09-19 15:53:11+08:00  (剩余 1010G 26 days, 13:05:05.734429)
 sub_url  https://link1.db-sub.xyz/link/wAfzk4FlPGjingqO?sub=3
 time  2024-08-20 15:53:11.913891+08:00
 type  sspanel
@@ -244,7 +244,7 @@ invite_code  AymO  10000
 last_checkin  2024-08-24 00:48:10.753315+08:00
 name  飞翔吧
 node_n  46
-sub_info  215.4M  10.29G  2024-08-24 17:48:45+08:00  (剩余 10.08G 16:00:33.361988)
+sub_info  215.5M  10.29G  2024-08-24 17:48:45+08:00  (剩余 10.08G 15:00:38.971791)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/qPcY3JUOLRouDR4q?sub=3
 time  2024-08-23 17:48:48.236153+08:00
 type  sspanel
@@ -258,8 +258,8 @@ sub_info  0B  100.4G  2024-03-29 17:48:15+08:00  (剩余 100.4G 29 days, 22:59:0
 sub_url  https://s.haituncloud.vip/link/qyyU9weoSdXVnSv0?sub=3
 time  2024-02-28 17:48:16.888264+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde38772890>: Failed to resolve 'haituncloud.xyz' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/qyyU9weoSdXVnSv0?sub=3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde24dd7ee0>: Failed to resolve 'haituncloud.xyz' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab40b87b50>: Failed to resolve 'haituncloud.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/qyyU9weoSdXVnSv0?sub=3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab307716f0>: Failed to resolve 'haituncloud.xyz' ([Errno -2] Name or service not known)"))
 
 [mgnet.vip]
 auto_invite  F
@@ -268,7 +268,7 @@ email  lvuocrfhm910@gmail.com
 last_checkin  2024-08-24 00:48:10.755604+08:00
 name  MG Network
 node_n  11
-sub_info  1.052G  6.06G  2024-08-25 02:48:15+08:00  (剩余 5.007G 1 day, 1:00:04.501718)
+sub_info  1.057G  6.06G  2024-08-25 02:48:15+08:00  (剩余 5.003G 1 day, 0:00:10.302383)
 sub_url  https://www.mgnet.sbs/link/oGcVH2TWZc8VE55l?sub=3
 time  2024-08-23 01:48:16.075242+08:00
 type  sspanel
