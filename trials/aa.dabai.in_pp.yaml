@@ -451,7 +451,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -519,6 +518,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -552,7 +552,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -676,6 +675,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -1991,6 +1991,7 @@ rules:
 - DOMAIN-SUFFIX,accountkit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,aceros-de-hispania.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,acevpn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,acg.rip,✈️ ‍起飞
 - DOMAIN-SUFFIX,acg18.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgbox.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgkj.com,✈️ ‍起飞
@@ -4521,6 +4522,7 @@ rules:
 - DOMAIN-SUFFIX,middle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihua.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,mikanani.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikesoltys.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikocon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,milph.net,✈️ ‍起飞
@@ -6964,6 +6966,7 @@ rules:
 - IP-CIDR,220.181.174.226/32,✈️ ‍起飞,no-resolve
 - IP-CIDR,220.181.174.34/32,✈️ ‍起飞,no-resolve
 - DOMAIN-SUFFIX,instagr.am,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,kakaocdn.net,✈️ ‍起飞
 - IP-CIDR,1.201.0.0/24,✈️ ‍起飞,no-resolve
 - IP-CIDR,27.0.236.0/22,✈️ ‍起飞,no-resolve
