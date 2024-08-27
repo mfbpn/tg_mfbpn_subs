@@ -2128,7 +2128,6 @@ rules:
 - DOMAIN-SUFFIX,accountkit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,aceros-de-hispania.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,acevpn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,acg.rip,✈️ ‍起飞
 - DOMAIN-SUFFIX,acg18.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgbox.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,acgkj.com,✈️ ‍起飞
@@ -4659,7 +4658,6 @@ rules:
 - DOMAIN-SUFFIX,middle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mihua.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,mikanani.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikesoltys.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mikocon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,milph.net,✈️ ‍起飞
@@ -7103,7 +7101,6 @@ rules:
 - IP-CIDR,220.181.174.226/32,✈️ ‍起飞,no-resolve
 - IP-CIDR,220.181.174.34/32,✈️ ‍起飞,no-resolve
 - DOMAIN-SUFFIX,instagr.am,✈️ ‍起飞
-- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,kakaocdn.net,✈️ ‍起飞
 - IP-CIDR,1.201.0.0/24,✈️ ‍起飞,no-resolve
 - IP-CIDR,27.0.236.0/22,✈️ ‍起飞,no-resolve
@@ -7605,6 +7602,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内
