@@ -1,14 +1,14 @@
 [cloudcat.top]
-email  kosuylbq630@gmail.com
+email  gdcmccf496@gmail.com
 name  云猫机场-免费公益
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=25dcd154b49635e6ec727787a52b5496
-time  2024-09-01 17:46:04.724043+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=086a23b6f69f75ad2e4032f385676b6b
+time  2024-09-01 17:48:14.241009+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [csyun.xyz]
-email  zpkvlvhud201@gmail.com
+email  wzfcgvp854@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -20,7 +20,7 @@ invite_code  juXU  10000
 last_checkin  2024-09-01 17:46:20.100246+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2024-09-02 17:46:18+08:00  (剩余 10.12G 23:59:54.911753)
+sub_info  199K  10.12G  2024-09-02 17:46:18+08:00  (剩余 10.12G 23:58:01.308388)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/0QComjMDEXqSVLU5?sub=3
 time  2024-09-01 17:46:21.328401+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  iehsfawq375@gmail.com
 last_checkin  2024-09-01 16:41:20.130380+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.822G  2024-09-03 17:41:19+08:00  (剩余 5.822G 1 day, 23:55:18.399845)
+sub_info  0B  5.822G  2024-09-03 17:41:19+08:00  (剩余 5.822G 1 day, 23:53:03.174876)
 sub_url  https://www.mgnet.sbs/link/GvaBdwBzG857JZjg?sub=3
 time  2024-09-01 16:41:20.449558+08:00
 type  sspanel
@@ -44,7 +44,7 @@ email  fbmvyhwgw550@mxl001.win
 last_checkin  2024-09-01 17:46:09.544547+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-09-02 17:46:07+08:00  (剩余 888G 23:59:55.581656)
+sub_info  177.9K  888G  2024-09-02 17:46:07+08:00  (剩余 888G 23:57:54.530315)
 sub_url  https://www.qlgq.top/link/1d53b1e3fe2cef8d?clash=1#墙了个墙
 time  2024-09-01 17:46:10.315394+08:00
 type  sspanel
