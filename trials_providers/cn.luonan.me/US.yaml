@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 US Salt Lake City 5G 1.0 - LONAN, server: us.test.liyuhua.tech, port: 2087, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vdus.1145114.me, network: ws, ws-opts: {path: /lonan, headers: {Host: vdus.1145114.me}}, udp: true}
-- {name: 🇺🇸 US New_YorkPublic 1.0 - LONAN, server: lonan.cu.ntt.jp.qkhbyf.tech, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: jinyu.qkhbyf.tech}}, udp: true}
-- {name: 🇺🇸 US Salt Lake   1.0 - LONAN, server: us.lonan.can.1145114.me, port: 443, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vdus.1145114.me, network: ws, ws-opts: {path: /lonan, headers: {Host: vdus.1145114.me}}, udp: true}
-- {name: 🇺🇸 US  1.0 - LONAN, server: lonan.v6hk.qkhbyf.tech, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: uswqq.qkhbyf.tech}}, udp: true}

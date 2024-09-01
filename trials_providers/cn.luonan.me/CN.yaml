@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 HK Tsuen Wan 1G 1.0 - LONAN, server: cmcu.1145114.me, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: daozhuhk.1145114.me}}, udp: true}
-- {name: 🇭🇰 HK Tsuen Wan CM/CU 1.0 - LONAN, server: cmcu.1145114.me, port: 2052, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lonan, headers: {Host: hkda001.qkhbyf.tech}}, udp: true}
-- {name: 🇹🇼 TW Taipei 1.0 - LONAN, server: cmcu.1145114.me, port: 443, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twalike.cxzntq.tech, network: ws, ws-opts: {path: /lonan, headers: {Host: twalike.cxzntq.tech}}, udp: true}
