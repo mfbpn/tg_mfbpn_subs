@@ -1,14 +1,14 @@
 [cloudcat.top]
-email  fwavfwq735@gmail.com
+email  dvoizuai697@gmail.com
 name  云猫机场-免费公益
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=bb913ddf97ea8f0abff7393a1777d9a8
-time  2024-09-02 04:48:29.474811+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=13792f44a2ba13d6697a3efa4858fe42
+time  2024-09-02 05:50:27.354135+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [csyun.xyz]
-email  xmpsgfur858@gmail.com
+email  obonvnk731@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -20,7 +20,7 @@ invite_code  juXU  10000
 last_checkin  2024-09-02 00:48:08.946363+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.788G  10.26G  2024-09-02 17:46:18+08:00  (剩余 1.469G 12:57:51.533772)
+sub_info  8.788G  10.26G  2024-09-02 17:46:18+08:00  (剩余 1.469G 11:57:53.310609)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/0QComjMDEXqSVLU5?sub=3
 time  2024-09-01 17:46:21.328401+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  iehsfawq375@gmail.com
 last_checkin  2024-09-02 00:48:08.947691+08:00
 name  MG Network
 node_n  11
-sub_info  13.88M  6.532G  2024-09-03 17:41:19+08:00  (剩余 6.519G 1 day, 12:52:47.243619)
+sub_info  13.89M  6.532G  2024-09-03 17:41:19+08:00  (剩余 6.519G 1 day, 11:52:52.956602)
 sub_url  https://www.mgnet.sbs/link/GvaBdwBzG857JZjg?sub=3
 time  2024-09-01 16:41:20.449558+08:00
 type  sspanel
@@ -44,7 +44,7 @@ email  fbmvyhwgw550@mxl001.win
 last_checkin  2024-09-02 00:48:08.945816+08:00
 name  墙了个墙
 node_n  34
-sub_info  7.916M  888.1G  2024-09-02 17:46:07+08:00  (剩余 888.1G 12:57:39.519697)
+sub_info  7.916M  888.1G  2024-09-02 17:46:07+08:00  (剩余 888.1G 11:57:42.481077)
 sub_url  https://www.qlgq.top/link/1d53b1e3fe2cef8d?clash=1#墙了个墙
 time  2024-09-01 17:46:10.315394+08:00
 type  sspanel
