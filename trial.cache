@@ -1,14 +1,14 @@
 [cloudcat.top]
-email  wfsrlsg518@gmail.com
+email  iiptyxxt773@gmail.com
 name  云猫机场-免费公益
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=443b4604c007722d7cd9d551c4580b5f
-time  2024-09-01 16:41:20.304807+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=9f766e2915c50b121f70d45460c58cdf
+time  2024-09-01 16:48:01.465522+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [csyun.xyz]
-email  bnizwpto337@gmail.com
+email  tmzluwr416@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -16,18 +16,18 @@ type  v2board
 [www.qlgq.top#墙了个墙]
 auto_invite  F
 buy  pass
-email  oebwkpmuo762@bareed.ws
-last_checkin  2024-09-01 16:41:29.253407+08:00
+email  kpoyvwmpk158@btcstar.site
+last_checkin  2024-09-01 16:52:37.391178+08:00
 name  墙了个墙
-sub_url  https://www.qlgq.top/link/bd6b3e5146318c0b?sub=3
-time  2024-09-01 16:41:29.982340+08:00
+sub_url  https://www.qlgq.top/link/9822ae45daad173f?sub=3
+time  2024-09-01 16:52:38.216034+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org
-email  wkhoxew770@xxxhi.cc
+email  llsztmz817@smartnator.com
 last_checkin  0
 name  飞翔吧
 type  sspanel
@@ -41,7 +41,7 @@ email  iehsfawq375@gmail.com
 last_checkin  2024-09-01 16:41:20.130380+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.822G  2024-09-03 17:41:19+08:00  (剩余 5.822G 2 days, 0:59:56.816378)
+sub_info  0B  5.822G  2024-09-03 17:41:19+08:00  (剩余 5.822G 2 days, 0:53:19.856648)
 sub_url  https://www.mgnet.sbs/link/GvaBdwBzG857JZjg?sub=3
 time  2024-09-01 16:41:20.449558+08:00
 type  sspanel
