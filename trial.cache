@@ -7,7 +7,7 @@ type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
 
 [2.flybar20.cc]
-banned_domains  disbox.org  maxamba.com  guerrillamail.de  lista.cc  jkd.tmmad.com  tmails.net  xxxhi.cc  mail.wvwvw.tech
+banned_domains  tmpmail.net  moakt.ws  bareed.ws  tmpmail.org  tmails.net  h11gggujjj.bond  disbox.net  tmail.ws  mydefipet.live  psnator.com  disbox.org  moakt.co  tmpnator.live  femailtor.com  smartnator.com
 name  @mfbpn
 type  sspanel
 更新订阅链接/续费续签失败  获取邮箱验证码超时(yhdjeff213@mail.wvwvw.tech)
@@ -25,7 +25,7 @@ time  2024-09-01 15:25:47.585425+08:00
 type  sspanel
 
 [www.qlgq.top#墙了个墙]
-banned_domains  tmpeml.com
+banned_domains  smartnator.com  femailtor.com  tmpnator.live  WJ32.HAIHANTNC.XYZ  haihantnc.xyz
 name  TG频道@mfbpn
 type  sspanel
 更新订阅链接/续费续签失败  获取邮箱验证码超时(fvkthiq764@tmpeml.com)
