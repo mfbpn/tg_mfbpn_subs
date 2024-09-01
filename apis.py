@@ -714,16 +714,16 @@ def guess_panel(host):
             info['type'] = 'v2board'
             _r = session.get()
             if _r.ok and _r.bs().title:
-                #info['name'] = _r.bs().title.text
-                info['name'] = 'TG频道@mfbpn'
+                info['name'] = _r.bs().title.text
+                #info['name'] = 'TG频道@mfbpn'
             else:
                 if (app_url := get(r.json(), 'data', 'app_url')):
                     session.set_base(app_url)
                 _r = session.get('env.js')
                 if _r.ok:
                     settings = json5.loads(_r.text[_r.text.index('{'):])
-                    #info['name'] = settings['title']
-                    info['name'] = 'TG频道@mfbpn'
+                    info['name'] = settings['title']
+                    #info['name'] = 'TG频道@mfbpn'
             if (
                 (email_whitelist_suffix := get(r.json(), 'data', 'email_whitelist_suffix'))
                 and not ('gmail.com' in email_whitelist_suffix or 'qq.com' in email_whitelist_suffix)
@@ -734,23 +734,23 @@ def guess_panel(host):
             if r.ok:
                 info['type'] = 'v2board'
                 settings = json5.loads(r.text[r.text.index('{'):])
-                #info['name'] = settings['title']
-                info['name'] = 'TG频道@mfbpn'
+                info['name'] = settings['title']
+                #info['name'] = 'TG频道@mfbpn'
                 info['api_host'] = parse_url(settings['host']).netloc
         if 'type' not in info:
             r = session.get('auth/login')
             if r.ok:
                 info['type'] = 'sspanel'
-                #info['name'] = r.bs().title.text.split(' — ')[-1]
-                info['name'] = 'TG频道@mfbpn'
+                info['name'] = r.bs().title.text.split(' — ')[-1]
+                #info['name'] = 'TG频道@mfbpn'
             elif 300 <= r.status_code < 400:
                 r = session.head('user/login')
                 if r.ok:
                     info['type'] = 'sspanel'
                     r = session.get('404')
                     if r.ok:
-                        #info['name'] = r.bs().title.text.split(' — ')[-1]
-                        info['name'] = 'TG频道@mfbpn'
+                        info['name'] = r.bs().title.text.split(' — ')[-1]
+                        #info['name'] = 'TG频道@mfbpn'
                     info['auth_path'] = 'user'
         if 'api_host' not in info and session.redirect_origin:
             info['api_host'] = session.host
