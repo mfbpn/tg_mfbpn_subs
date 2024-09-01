@@ -22,21 +22,12 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 [vip①]香港1
-  - 🇭🇰 [vip①]香港2
-  - 🇸🇬 [vip①]新加坡1
-  - 🇸🇬 [vip①]新加坡2
-  - 🇺🇸 [vip①]美国1
-  - 🇺🇸 [vip①]美国2
-  - 🇩🇪 [vip①]德国1
-  - 🇩🇪 [vip①]德国2
-  - 🇬🇧 [vip①]英国1
-  - 🇬🇧 [vip①]英国2
-  - 🇰🇷 [vip①]韩国1
+  use: &id001
+  - HK
+  - SG
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,66 +68,76 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 [vip①]香港1
-  - 🇭🇰 [vip①]香港2
+  use: &id002
+  - HK
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇸🇬 [vip①]新加坡1
-  - 🇸🇬 [vip①]新加坡2
+  use: &id003
+  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 [vip①]美国1
-  - 🇺🇸 [vip①]美国2
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id005
-  - 🇩🇪 [vip①]德国1
-  - 🇩🇪 [vip①]德国2
-  - 🇬🇧 [vip①]英国1
-  - 🇬🇧 [vip①]英国2
-  - 🇰🇷 [vip①]韩国1
+  use: &id005
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
-proxies:
-- {name: '🇭🇰 [vip①]香港1', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: b1683b6b-fe2e-3a01-83fa-d8779e228f22, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+  use: *id005
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/mgnet.vip/HK.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/mgnet.vip/SG.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/mgnet.vip/US.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/mgnet.vip/Other.yaml
+    interval: 180
+    path: trials_providers/mgnet.vip/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
