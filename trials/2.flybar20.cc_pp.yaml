@@ -145,54 +145,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/2.flybar20.cc/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/2.flybar20.cc/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/2.flybar20.cc/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/2.flybar20.cc/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/2.flybar20.cc/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/2.flybar20.cc/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/2.flybar20.cc/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

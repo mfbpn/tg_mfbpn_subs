@@ -11,16 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -28,14 +24,44 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港 101
+  - 🇭🇰 香港 102
+  - 🇭🇰 香港 103
+  - 🇭🇰 香港 104
+  - 🇭🇰 香港 105
+  - 🇭🇰 香港 106
+  - 🇭🇰 香港 107
+  - 🇭🇰 香港 108
+  - 🇭🇰 香港 109
+  - 🇭🇰 香港 110
+  - 🇸🇬 新加坡 101
+  - 🇸🇬 新加坡 102
+  - 🇸🇬 新加坡 103
+  - 🇸🇬 新加坡 104
+  - 🇸🇬 新加坡 105
+  - 🇯🇵 日本 101
+  - 🇯🇵 日本 102
+  - 🇯🇵 日本 103
+  - 🇯🇵 日本 104
+  - 🇯🇵 日本 105
+  - 🇺🇸 美国 洛杉矶101
+  - 🇺🇸 美国 洛杉矶102
+  - 🇺🇸 美国 洛杉矶103
+  - 🇩🇪 德国 法兰克福101
+  - 🇩🇪 德国 法兰克福102
+  - 🇩🇪 德国 法兰克福103
+  - 🇩🇪 德国 法兰克福104
+  - 🇩🇪 德国 法兰克福105
+  - 🇬🇧 英国 101
+  - 🇬🇧 英国 102
+  - 🇬🇧 英国 103
+  - 🇲🇾 马来西亚 001
+  - 🇲🇾 马来西亚 002
+  - 🇲🇾 马来西亚 003
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,13 +78,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 👆🏻 ‍指定
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
@@ -67,11 +89,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -84,119 +104,121 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - TW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id002
+  - 🇭🇰 香港 101
+  - 🇭🇰 香港 102
+  - 🇭🇰 香港 103
+  - 🇭🇰 香港 104
+  - 🇭🇰 香港 105
+  - 🇭🇰 香港 106
+  - 🇭🇰 香港 107
+  - 🇭🇰 香港 108
+  - 🇭🇰 香港 109
+  - 🇭🇰 香港 110
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id003
+  - 🇸🇬 新加坡 101
+  - 🇸🇬 新加坡 102
+  - 🇸🇬 新加坡 103
+  - 🇸🇬 新加坡 104
+  - 🇸🇬 新加坡 105
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id004
+  - 🇯🇵 日本 101
+  - 🇯🇵 日本 102
+  - 🇯🇵 日本 103
+  - 🇯🇵 日本 104
+  - 🇯🇵 日本 105
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id005
+  - 🇺🇸 美国 洛杉矶101
+  - 🇺🇸 美国 洛杉矶102
+  - 🇺🇸 美国 洛杉矶103
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id006
+  - 🇩🇪 德国 法兰克福101
+  - 🇩🇪 德国 法兰克福102
+  - 🇩🇪 德国 法兰克福103
+  - 🇩🇪 德国 法兰克福104
+  - 🇩🇪 德国 法兰克福105
+  - 🇬🇧 英国 101
+  - 🇬🇧 英国 102
+  - 🇬🇧 英国 103
+  - 🇲🇾 马来西亚 001
+  - 🇲🇾 马来西亚 002
+  - 🇲🇾 马来西亚 003
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  use: *id004
+  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_subs/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id006
+proxies:
+- {name: 🇩🇪 德国 法兰克福101, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104, server: fkvip102.qlgq.fun, port: 41789, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105, server: fkvip102.qlgq.fun, port: 51789, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
+- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇯🇵 日本 101, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 102, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 103, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 104, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 105, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇬🇧 英国 101, server: ukvip101.qlgq.fun, port: 14568, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 102, server: ukvip101.qlgq.fun, port: 14586, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 103, server: ukvip101.qlgq.fun, port: 18885, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇭🇰 香港 101, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
+- {name: 🇭🇰 香港 102, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
+- {name: 🇭🇰 香港 103, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 104, server: hkvip102.qlgq.fun, port: 42249, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 105, server: hkvip103.qlgq.fun, port: 52249, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 106, server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 107, server: hkvip104.qlgq.fun, port: 45136, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
+- {name: 🇭🇰 香港 108, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
+- {name: 🇭🇰 香港 109, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
+- {name: 🇭🇰 香港 110, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
+- {name: 🇲🇾 马来西亚 001, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 002, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 003, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: a930aaab-5fa3-3744-a330-5302438676be, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
