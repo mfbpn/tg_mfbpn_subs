@@ -1,24 +1,29 @@
 [yiyuanvpn.top]
+buy  pass
+email  goehfyl93@gmail.com
 name  @mfbpn
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://htdy03.mozhiti.top/api/v1/client/subscribe?token=551ffd3fa5e92c4fe66cf79f7d3ec45f
+time  2024-09-01 15:42:29.887647+08:00
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bsrwrubz884@gmail.com): 邀请码无效 #一元云梯
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [vipxgyun.com#西瓜皮]
 name  @mfbpn
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hbvfxfd678@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(vgasaamzz683@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [zhenshihui.shop]
 name  @mfbpn
 type  v2board
-更新订阅链接/续费续签失败  注册失败(odurrbjc178@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uvkzdcsnx14@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
-email  kfrhzvsiz921@gmail.com
+email  dyitjprc936@gmail.com
 name  @mfbpn
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=3e38dfd41685c6d4da4f010ae57d243c
-time  2024-09-01 15:34:17.218678+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=4de9c0d68079b4d0c3d9f20583629d01
+time  2024-09-01 15:44:31.431581+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -27,22 +32,22 @@ type  v2board
 [portal.passgfw.top]
 
 [csyun.xyz]
-email  jqkwfzhlc16@gmail.com
+email  hdiyofkz561@gmail.com
 name  @mfbpn
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
 
 [www.qlgq.top]
-banned_domains  agteet.cn  disbox.org
+banned_domains  agteet.cn  disbox.org  btcstar.site
 name  @mfbpn
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hknttppkk959@disbox.org)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(dvvtkihr545@btcstar.site)
 
 [2.flybar20.cc]
-banned_domains  disbox.org  maxamba.com  guerrillamail.de
+banned_domains  disbox.org  maxamba.com  guerrillamail.de  lista.cc
 name  @mfbpn
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(guuqneudu727@guerrillamail.de)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(pgaulgyj252@lista.cc)
 
 [mgnet.vip]
 auto_invite  F
@@ -51,7 +56,7 @@ email  ggjpjzwh170@gmail.com
 last_checkin  2024-09-01 15:25:47.270060+08:00
 name  @mfbpn
 node_n  11
-sub_info  320B  5.474G  2024-09-03 16:25:46+08:00  (剩余 5.474G 2 days, 0:49:28.902567)
+sub_info  267.8K  5.474G  2024-09-03 16:25:46+08:00  (剩余 5.473G 2 days, 0:41:16.396264)
 sub_url  https://www.mgnet.sbs/link/vkv7OmI1R1boiJP0?sub=3
 time  2024-09-01 15:25:47.585425+08:00
 type  sspanel
