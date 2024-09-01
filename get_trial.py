@@ -14,7 +14,7 @@ from utils import (clear_files, g0, keep, list_file_paths, list_folder_paths,
 
 def get_sub(session: PanelSession, opt: dict, cache: dict[str, list[str]]):
     url = cache['sub_url'][0]
-    #suffix = ' - TG频道@mfbpn' + g0(cache, 'name')
+    suffix = '|TG频道@mfbpn|' + g0(cache, 'name')
     #suffix = ' - ' + 'TG频道@mfbpn'
     if 'speed_limit' in opt:
         suffix += ' ⚠️限速 ' + opt['speed_limit']
