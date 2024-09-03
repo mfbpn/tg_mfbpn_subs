@@ -1,9 +1,9 @@
 [cloudcat.top]
-email  wndpjgn855@gmail.com
+email  gxfglvry756@gmail.com
 name  云猫机场-免费公益
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=168f7fe23a85ad1a1655efa77a606f91
-time  2024-09-03 13:48:28.651613+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=9557ff0f4d7fa1b939a2b83c811ff5b4
+time  2024-09-03 14:48:56.801260+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -11,7 +11,7 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(okjbpomj736@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(rdoxwwx344@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd2131b0400>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org
@@ -20,7 +20,7 @@ invite_code  3fgc  9999
 last_checkin  2024-09-03 11:48:39.287563+08:00
 name  飞翔吧
 node_n  46
-sub_info  209.1M  10.16G  2024-09-04 11:48:39+08:00  (剩余 9.952G 22:00:14.399251)
+sub_info  209.6M  10.16G  2024-09-04 11:48:39+08:00  (剩余 9.952G 20:59:39.606200)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/lNxohyfp5bJmUNsx?sub=3
 time  2024-09-03 11:48:40.555370+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  iehsfawq375@gmail.com
 last_checkin  2024-09-03 00:49:49.895299+08:00
 name  MG Network
 node_n  11
-sub_info  369M  7.358G  2024-09-03 17:41:19+08:00  (剩余 6.998G 3:52:57.910279)
+sub_info  372.9M  7.358G  2024-09-03 17:41:19+08:00  (剩余 6.994G 2:52:20.813919)
 sub_url  https://www.mgnet.sbs/link/GvaBdwBzG857JZjg?sub=3
 time  2024-09-01 16:41:20.449558+08:00
 type  sspanel
@@ -44,7 +44,7 @@ email  ipybetg623@smartnator.com
 last_checkin  2024-09-03 00:49:49.893175+08:00
 name  墙了个墙
 node_n  34
-sub_info  68.88M  888G  2024-09-03 17:48:34+08:00  (剩余 888G 4:00:12.319100)
+sub_info  88.75M  888G  2024-09-03 17:48:34+08:00  (剩余 888G 2:59:40.468730)
 sub_url  https://www.qlgq.top/link/0cc8ae6069ed23b5?clash=1#墙了个墙
 time  2024-09-02 17:48:35.642637+08:00
 type  sspanel
