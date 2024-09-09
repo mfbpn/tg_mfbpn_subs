@@ -24,5 +24,5 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: 49a54563-e110-326f-afd0-a17cf4b5806a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: 49a54563-e110-326f-afd0-a17cf4b5806a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, type: trojan, password: 49a54563-e110-326f-afd0-a17cf4b5806a, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港1', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 7f8908f5-efd4-31b7-a578-6dfaf05f6a0c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 7f8908f5-efd4-31b7-a578-6dfaf05f6a0c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇭🇰 [vip①]香港1', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 63a73711-1af2-3351-bc5b-ccf70232c290, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]香港2', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 63a73711-1af2-3351-bc5b-ccf70232c290, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
