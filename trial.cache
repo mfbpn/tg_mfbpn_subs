@@ -6,26 +6,25 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=ea8b1c29d3ce40b73513
 time  2024-09-05 03:48:31.417463+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(neireht842@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hsrcufuf422@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rqqlhjni919@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f63c2276680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(hndvvyhaw888@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffa95c4c4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live
-email  pioiego924@wfes.site
-invite_code  abRP  10000
-last_checkin  2024-09-12 00:49:25.522134+08:00
+email  zhducnmbc281@nespressopixie.com
+invite_code  ec1l  10000
+last_checkin  2024-09-12 17:48:36.508568+08:00
 name  飞翔吧
-node_n  46
-sub_info  10.04G  10.29G  2024-09-12 21:02:40+08:00  (剩余 253.8M 4:11:54.314038)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/dg1sbeEORa6rOm4u?sub=3
-time  2024-09-11 21:02:43.024615+08:00
+node_n  38
+sub_info  0B  10.18G  2024-09-13 17:48:35+08:00  (剩余 10.18G 23:59:54.862067)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Tu0rvoArGXSGt9FS?sub=3
+time  2024-09-12 17:48:37.708807+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(dcqxmksz698@mydefipet.live)
 
 [mgnet.vip]
 auto_invite  F
@@ -34,7 +33,7 @@ email  pqpwclhkl258@gmail.com
 last_checkin  2024-09-12 00:49:25.523510+08:00
 name  MG Network
 node_n  11
-sub_info  171.3M  6.241G  2024-09-13 22:48:25+08:00  (剩余 6.074G 1 day, 5:58:57.650000)
+sub_info  188.9M  6.241G  2024-09-13 22:48:25+08:00  (剩余 6.057G 1 day, 5:00:05.374086)
 sub_url  https://www.mgnet.sbs/link/3t4YI3hAisg8A1Hr?sub=3
 time  2024-09-11 21:48:26.045501+08:00
 type  sspanel
@@ -42,11 +41,11 @@ type  sspanel
 [www.qlgq.top]
 auto_invite  F
 buy  pass
-email  tpcphuncz815@moakt.co
-last_checkin  2024-09-12 00:49:25.520212+08:00
+email  hqpuspvtz52@lplso.tmmad.com
+last_checkin  2024-09-12 17:48:26.937514+08:00
 name  墙了个墙
 node_n  34
-sub_info  30.1G  888.1G  2024-09-12 17:48:36+08:00  (剩余 858G 0:59:07.801491)
-sub_url  https://www.qlgq.top/link/8b0e4a01afa2f9ed?clash=1#墙了个墙
-time  2024-09-11 17:48:38.429134+08:00
+sub_info  0B  888G  2024-09-13 17:48:26+08:00  (剩余 888G 23:59:54.153773)
+sub_url  https://www.qlgq.top/link/1f5533676a645447?clash=1#墙了个墙
+time  2024-09-12 17:48:28.707585+08:00
 type  sspanel
