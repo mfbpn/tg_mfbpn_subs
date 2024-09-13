@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 101, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: 2379366a-7655-3456-80ad-8dd8e2117653, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 102, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: 2379366a-7655-3456-80ad-8dd8e2117653, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 103, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: 2379366a-7655-3456-80ad-8dd8e2117653, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 104, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: 2379366a-7655-3456-80ad-8dd8e2117653, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
-- {name: 🇯🇵 日本 105, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: 2379366a-7655-3456-80ad-8dd8e2117653, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 101, server: jpvip101.qlgq.fun, port: 61239, type: trojan, password: 15550422-2bce-3a85-a3d4-d024e78e8b7e, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 102, server: jpvip101.qlgq.fun, port: 61288, type: trojan, password: 15550422-2bce-3a85-a3d4-d024e78e8b7e, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 103, server: jpvip101.qlgq.fun, port: 61237, type: trojan, password: 15550422-2bce-3a85-a3d4-d024e78e8b7e, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 104, server: jpvip101.qlgq.fun, port: 61236, type: trojan, password: 15550422-2bce-3a85-a3d4-d024e78e8b7e, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
+- {name: 🇯🇵 日本 105, server: jpvip101.qlgq.fun, port: 61235, type: trojan, password: 15550422-2bce-3a85-a3d4-d024e78e8b7e, sni: jpvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip101}, udp: true}
