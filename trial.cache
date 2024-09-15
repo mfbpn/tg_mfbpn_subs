@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(kbzchoe140@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yyhkpsyz599@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vvjknap789@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f14044f0730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(pkylhkv553@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2c14714640>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws
@@ -21,7 +21,7 @@ invite_code  5jiR  9999
 last_checkin  2024-09-15 17:48:13.092044+08:00
 name  飞翔吧
 node_n  46
-sub_info  52.06M  10.12G  2024-09-16 17:48:12+08:00  (剩余 10.07G 22:59:43.066242)
+sub_info  415.8M  10.12G  2024-09-16 17:48:12+08:00  (剩余 9.712G 21:59:50.783017)
 sub_url  https://2.flybar20.cc/link/3rdjxkQw2W0Lfodv?sub=3
 time  2024-09-15 17:48:14.410863+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  avlbpcrn605@gmail.com
 last_checkin  2024-09-15 00:48:07.644036+08:00
 name  MG Network
 node_n  11
-sub_info  929.6M  5.76G  2024-09-16 20:48:12+08:00  (剩余 4.852G 1 day, 1:59:43.694339)
+sub_info  1.432G  5.76G  2024-09-16 20:48:12+08:00  (剩余 4.328G 1 day, 0:59:51.224637)
 sub_url  https://www.mgnet.sbs/link/VpDaUslYIYqcJZgp?sub=3
 time  2024-09-14 19:48:13.392686+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  kmgwssktu493@lplso.tmmad.com
 last_checkin  2024-09-15 10:11:02.105356+08:00
 name  墙了个墙
 node_n  34
-sub_info  514.4M  888G  2024-09-16 10:11:01+08:00  (剩余 887.5G 15:22:30.270334)
+sub_info  514.4M  888G  2024-09-16 10:11:01+08:00  (剩余 887.5G 14:22:39.531136)
 sub_url  https://www.qlgq.top/link/9c09d9c29e4380ab?clash=1#墙了个墙
 time  2024-09-15 10:11:16.139663+08:00
 type  sspanel
