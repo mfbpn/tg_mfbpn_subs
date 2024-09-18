@@ -1,11 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: a9bfc891-2d52-379f-b31b-821822d2a0fc, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: a9bfc891-2d52-379f-b31b-821822d2a0fc, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: a9bfc891-2d52-379f-b31b-821822d2a0fc, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: a9bfc891-2d52-379f-b31b-821822d2a0fc, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: a9bfc891-2d52-379f-b31b-821822d2a0fc, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: 02de0098-8171-3547-9f3d-15a845c702fa, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: 02de0098-8171-3547-9f3d-15a845c702fa, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: 02de0098-8171-3547-9f3d-15a845c702fa, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
@@ -13,3 +8,8 @@ proxies:
 - {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: 02de0098-8171-3547-9f3d-15a845c702fa, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 08abb996-f15a-36da-9d17-ec56a8fd6ebe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 08abb996-f15a-36da-9d17-ec56a8fd6ebe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: a9f099af-6e7a-3d83-9145-1edf6e103ce6, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: a9f099af-6e7a-3d83-9145-1edf6e103ce6, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: a9f099af-6e7a-3d83-9145-1edf6e103ce6, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: a9f099af-6e7a-3d83-9145-1edf6e103ce6, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: a9f099af-6e7a-3d83-9145-1edf6e103ce6, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
