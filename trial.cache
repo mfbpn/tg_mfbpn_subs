@@ -6,24 +6,24 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(vxqpnch426@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(addqwzl899@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zbsxjtxs664@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9a4c4882e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(lbeprekg56@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7c46184670>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws
-email  zeseuwv111@mxl001.win
-invite_code  3faN  10000
-last_checkin  2024-09-19 00:49:33.193996+08:00
+email  fwzwpdx943@mynanaimohomes.com
+invite_code  IfRz  10000
+last_checkin  2024-09-19 18:48:13.029603+08:00
 name  飞翔吧
 node_n  46
-sub_info  4.812G  10.35G  2024-09-19 18:49:08+08:00  (剩余 5.539G 1:00:43.396049)
-sub_url  https://2.flybar20.cc/link/VeOpVpSSGM4zfT6M?sub=3
-time  2024-09-18 18:49:11.351327+08:00
+sub_info  0B  10.15G  2024-09-20 18:48:11+08:00  (剩余 10.15G 23:59:53.948045)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/SF08imqUzLYAX9bU?sub=3
+time  2024-09-19 18:48:14.353582+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -33,7 +33,7 @@ email  icwfvpux860@gmail.com
 last_checkin  2024-09-19 00:49:33.195457+08:00
 name  MG Network
 node_n  11
-sub_info  323.8M  6.091G  2024-09-20 22:48:07+08:00  (剩余 5.775G 1 day, 4:59:40.418090)
+sub_info  360.3M  6.091G  2024-09-20 22:48:07+08:00  (剩余 5.739G 1 day, 3:59:58.899586)
 sub_url  https://www.mgnet.sbs/link/v6QR55fTDLjiJeDW?sub=3
 time  2024-09-18 21:48:08.335153+08:00
 type  sspanel
@@ -45,8 +45,8 @@ email  mstmozbit181@guerrillamail.biz
 last_checkin  2024-09-19 00:49:33.193367+08:00
 name  墙了个墙
 node_n  27
-sub_info  431.4G  888G  2024-09-19 17:49:13+08:00  (剩余 456.6G 0:00:21.830768)
+sub_info  505.9G  888G  2024-09-19 17:49:13+08:00  (剩余 382.1G -1 day, 23:00:45.092851)
 sub_url  https://www.qlgq.top/link/1242779227ee529f?clash=1#墙了个墙
 time  2024-09-18 17:49:16.284907+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nelvknan315@grr.la): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!DOCTYPE HTML>\n<html lang="en">\n<head>\n <meta charset="UTF-8">\n <title>Internal Server Error - 墙了个墙</title>\n <link rel="shortcut icon" href="/favicon.ico"/>\n <link rel="bookmark" href="/favicon.ico" type="image/x-icon"/>\n <link rel="stylesheet" href="/assets/css/error-pages.min.css"/>\n</head>\n<body>\n<div class="container">\n <div class="copy-container center-xy">\n <p>\n 500, Internal Server Error.\n </p>\n </div>\n</div>\n\n\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(zqostwt685@guerrillamail.biz): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!DOCTYPE HTML>\n<html lang="en">\n<head>\n <meta charset="UTF-8">\n <title>Internal Server Error - 墙了个墙</title>\n <link rel="shortcut icon" href="/favicon.ico"/>\n <link rel="bookmark" href="/favicon.ico" type="image/x-icon"/>\n <link rel="stylesheet" href="/assets/css/error-pages.min.css"/>\n</head>\n<body>\n<div class="container">\n <div class="copy-container center-xy">\n <p>\n 500, Internal Server Error.\n </p>\n </div>\n</div>\n\n\n</body>\n</html>\n')
