@@ -93,6 +93,9 @@ proxy-groups:
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
+  - 🇺🇸 美国 洛杉矶104
+  - 🇺🇸 美国 洛杉矶105
+  - 🇺🇸 美国 洛杉矶106
   - 🇰🇷 广港•韩国263•高速
   - 🇰🇷 广港•韩国264•高速
   - 🇬🇧 中转•英国267•高速
@@ -284,6 +287,9 @@ proxy-groups:
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
+  - 🇺🇸 美国 洛杉矶104
+  - 🇺🇸 美国 洛杉矶105
+  - 🇺🇸 美国 洛杉矶106
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -398,6 +404,9 @@ proxies:
 - {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶104, server: lavip102.qlgq1.pw, port: 49443, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶105, server: lavip102.qlgq1.pw, port: 20443, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶106, server: lavip102.qlgq1.pw, port: 30443, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: lavip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
 - {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 12843c62-a322-3181-af2d-430a0b9eb7f2, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
