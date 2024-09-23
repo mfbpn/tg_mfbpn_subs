@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 8dea654a-994d-3656-a50d-b12b02151298, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 8dea654a-994d-3656-a50d-b12b02151298, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 4cf96d14-7138-30c0-a224-f80a90efff59, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 4cf96d14-7138-30c0-a224-f80a90efff59, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
