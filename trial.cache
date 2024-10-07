@@ -12,7 +12,7 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jcgzyzmj586@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f425a884880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(yhpghei479@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0d47c32440>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net
@@ -21,7 +21,7 @@ invite_code  q2oR  9999
 last_checkin  2024-10-07 11:50:18.838046+08:00
 name  飞翔吧
 node_n  46
-sub_info  5.965G  10.14G  2024-10-08 11:50:18+08:00  (剩余 4.176G 14:02:10.140137)
+sub_info  6.988G  10.14G  2024-10-08 11:50:18+08:00  (剩余 3.154G 13:02:04.226326)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Wqwb0RcIwYHMdYlj?sub=3
 time  2024-10-07 11:50:20.075243+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  ntpzszsl433@gmail.com
 last_checkin  2024-10-07 19:48:06.172676+08:00
 name  MG Network
 node_n  11
-sub_info  287.5M  5.579G  2024-10-09 20:48:05+08:00  (剩余 5.298G 1 day, 22:59:57.427988)
+sub_info  288M  5.579G  2024-10-09 20:48:05+08:00  (剩余 5.298G 1 day, 21:59:54.195722)
 sub_url  https://www.mgnet.sbs/link/maEDvDa3YjMEpBaO?sub=3
 time  2024-10-07 19:48:06.648380+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  unhsbvqvi6@456.waocq.shop
 last_checkin  2024-10-07 00:48:27.262914+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.721G  888G  2024-10-07 23:48:27+08:00  (剩余 886.3G 1:58:18.432295)
+sub_info  1.721G  888G  2024-10-07 23:48:27+08:00  (剩余 886.3G 1:00:07.563707)
 sub_url  https://www.qlgq.top/link/73db0c5fa6ea1069?clash=1#墙了个墙
 time  2024-10-06 23:48:28.337547+08:00
 type  sspanel
