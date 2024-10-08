@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 711b291a-21be-39b9-b3f3-4a77ef9e409e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 711b291a-21be-39b9-b3f3-4a77ef9e409e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 711b291a-21be-39b9-b3f3-4a77ef9e409e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 711b291a-21be-39b9-b3f3-4a77ef9e409e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 711b291a-21be-39b9-b3f3-4a77ef9e409e, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 5546413b-4e26-3925-b444-3e73252f4ae9, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 5546413b-4e26-3925-b444-3e73252f4ae9, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 5546413b-4e26-3925-b444-3e73252f4ae9, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 5546413b-4e26-3925-b444-3e73252f4ae9, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 5546413b-4e26-3925-b444-3e73252f4ae9, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
