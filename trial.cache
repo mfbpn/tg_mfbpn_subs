@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hufshghx630@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(kotmlqq82@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jthscgn700@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e29441990>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(dkmqutec735@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbe5b28c190>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com
@@ -21,7 +21,7 @@ invite_code  tGUq  10000
 last_checkin  2024-10-18 00:52:25.278359+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.13G  2024-10-19 00:52:24+08:00  (剩余 10.13G 23:59:50.525572)
+sub_info  48.92K  10.13G  2024-10-19 00:52:24+08:00  (剩余 10.13G 23:04:10.256723)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/PY9kklpshSn3pAvb?sub=3
 time  2024-10-18 00:52:26.506256+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  scivimm253@gmail.com
 last_checkin  2024-10-18 00:52:04.906013+08:00
 name  MG Network
 node_n  11
-sub_info  3.607G  6.797G  2024-10-18 20:48:07+08:00  (剩余 3.19G 19:55:59.336425)
+sub_info  3.65G  6.797G  2024-10-18 20:48:07+08:00  (剩余 3.147G 18:57:54.524636)
 sub_url  https://www.mgnet.sbs/link/5uG6Fo924qKfUfRi?sub=3
 time  2024-10-16 19:48:07.904387+08:00
 type  sspanel
@@ -46,7 +46,8 @@ email  xdhjyuxj526@bareed.ws
 last_checkin  2024-10-18 00:52:04.902408+08:00
 name  墙了个墙
 node_n  30
-sub_info  970.2M  888G  2024-10-18 01:55:17+08:00  (剩余 887.1G 1:03:08.101572)
+sub_info  1.033G  888G  2024-10-18 01:55:17+08:00  (剩余 887G 0:06:33.063867)
 sub_url  https://www.qlgq.top/link/6659aba6769df5cb?clash=1#墙了个墙
 time  2024-10-17 01:55:18.421145+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
