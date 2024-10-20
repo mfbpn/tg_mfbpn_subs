@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(zxnyvvjpx440@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(seifxcps829@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ccdntbtpo148@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5e532c01c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(gbghzvsj269@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f379ba30a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com
@@ -21,7 +21,7 @@ invite_code  JvKe  10000
 last_checkin  2024-10-20 12:49:03.577993+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.274G  10.14G  2024-10-21 12:49:02+08:00  (剩余 8.864G 19:57:51.926104)
+sub_info  4.843G  10.14G  2024-10-21 12:49:02+08:00  (剩余 5.295G 19:01:01.043299)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/oQg98HYFVSqCMpQE?sub=3
 time  2024-10-20 12:49:04.933116+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  maaponsa126@gmail.com
 last_checkin  2024-10-20 11:20:44.517284+08:00
 name  MG Network
 node_n  11
-sub_info  92.64M  5.634G  2024-10-22 12:20:44+08:00  (剩余 5.543G 1 day, 19:31:18.020588)
+sub_info  117M  5.634G  2024-10-22 12:20:44+08:00  (剩余 5.52G 1 day, 18:32:42.482095)
 sub_url  https://www.mgnet.sbs/link/Uaizwy5e2Mip6ztM?sub=3
 time  2024-10-20 11:20:44.979160+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  umishxpbp868@guerrillamail.biz
 last_checkin  2024-10-20 02:48:26.080219+08:00
 name  墙了个墙
 node_n  30
-sub_info  4.475G  888G  2024-10-21 02:48:25+08:00  (剩余 883.6G 9:59:16.893011)
+sub_info  4.783G  888G  2024-10-21 02:48:25+08:00  (剩余 883.2G 9:00:21.617784)
 sub_url  https://www.qlgq.top/link/9ccd48772453e672?clash=1#墙了个墙
 time  2024-10-20 02:48:26.766233+08:00
 type  sspanel
