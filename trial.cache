@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hddxbtm401@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xqpqfnyi64@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zccetsg507@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc3b6e587c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(hhokyfzy942@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8fae1c0880>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com
@@ -21,7 +21,7 @@ invite_code  Z5dO  9998
 last_checkin  2024-10-23 00:51:39.794078+08:00
 name  飞翔吧
 node_n  46
-sub_info  6.491G  10.29G  2024-10-23 21:04:54+08:00  (剩余 3.801G 14:16:44.473969)
+sub_info  6.543G  10.29G  2024-10-23 21:04:54+08:00  (剩余 3.749G 13:14:43.913308)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/49t8OpCRoseONyAn?sub=3
 time  2024-10-22 21:04:56.095380+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  mnxdhjey36@gmail.com
 last_checkin  2024-10-23 00:51:39.794784+08:00
 name  MG Network
 node_n  11
-sub_info  1.007G  6.739G  2024-10-23 12:15:08+08:00  (剩余 5.732G 5:27:05.372690)
+sub_info  1.027G  6.739G  2024-10-23 12:15:08+08:00  (剩余 5.712G 4:27:06.887033)
 sub_url  https://www.mgnet.sbs/link/rXs8lwKQvHP98r9y?sub=3
 time  2024-10-21 11:15:09.761333+08:00
 type  sspanel
