@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(tsencjagk26@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(dllbedg410@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cmuuksr761@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe80c25cac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(mzfxwycoe103@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3d09a32740>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com
@@ -21,7 +21,7 @@ invite_code  pZ1H  10000
 last_checkin  2024-10-24 00:52:07.862887+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.156G  10.36G  2024-10-24 17:48:22+08:00  (剩余 2.208G 13:00:15.663884)
+sub_info  8.174G  10.36G  2024-10-24 17:48:22+08:00  (剩余 2.189G 11:59:59.085672)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/sFHVXUYgx8dwdlpI?sub=3
 time  2024-10-23 17:48:25.065346+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  wtmvamlb802@gmail.com
 last_checkin  2024-10-24 00:52:07.865405+08:00
 name  MG Network
 node_n  11
-sub_info  434.4M  6.521G  2024-10-25 12:48:59+08:00  (剩余 6.097G 1 day, 8:00:52.013367)
+sub_info  438.2M  6.521G  2024-10-25 12:48:59+08:00  (剩余 6.094G 1 day, 7:00:46.238971)
 sub_url  https://www.mgnet.sbs/link/HLW6XxWkmODoFVt4?sub=3
 time  2024-10-23 11:49:00.144810+08:00
 type  sspanel
