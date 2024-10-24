@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(nhdgshl142@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(lfdgaqrj915@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(soswyjo851@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff296e1cb20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(zzfdvgffi873@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7d2a02c7c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com
@@ -21,7 +21,7 @@ invite_code  njEU  10000
 last_checkin  2024-10-24 18:53:22.165710+08:00
 name  飞翔吧
 node_n  46
-sub_info  975M  10.16G  2024-10-25 18:53:20+08:00  (剩余 9.206G 21:48:34.363070)
+sub_info  1.05G  10.16G  2024-10-25 18:53:20+08:00  (剩余 9.108G 21:05:02.281162)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/BpExAabECQTyGc52?sub=3
 time  2024-10-24 18:53:23.372645+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  wtmvamlb802@gmail.com
 last_checkin  2024-10-24 00:52:07.865405+08:00
 name  MG Network
 node_n  11
-sub_info  1.764G  6.521G  2024-10-25 12:48:59+08:00  (剩余 4.758G 15:44:13.900165)
+sub_info  1.807G  6.521G  2024-10-25 12:48:59+08:00  (剩余 4.715G 15:00:47.449653)
 sub_url  https://www.mgnet.sbs/link/HLW6XxWkmODoFVt4?sub=3
 time  2024-10-23 11:49:00.144810+08:00
 type  sspanel
