@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(pshepyt650@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(vgpnoii387@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ltonbtqqm128@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa102980b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(zueoqsan396@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fde5eda2290>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com
@@ -21,7 +21,7 @@ invite_code  IqM2  10000
 last_checkin  2024-10-27 01:48:27.332954+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.954G  10.16G  2024-10-28 01:48:26+08:00  (剩余 1.202G 3:00:16.461044)
+sub_info  9.816G  10.16G  2024-10-28 01:48:26+08:00  (剩余 347.9M 2:00:01.551529)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/7dcKrBclgf2yIorr?sub=3
 time  2024-10-27 01:48:28.514356+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  ipulyisk40@gmail.com
 last_checkin  2024-10-27 13:48:32.272031+08:00
 name  MG Network
 node_n  11
-sub_info  71.98M  5.537G  2024-10-29 14:48:31+08:00  (剩余 5.467G 1 day, 15:58:21.093252)
+sub_info  100.9M  5.537G  2024-10-29 14:48:31+08:00  (剩余 5.439G 1 day, 15:00:10.608289)
 sub_url  https://www.mgnet.sbs/link/Uq6dSkynyVAbkxkV?sub=3
 time  2024-10-27 13:48:32.701621+08:00
 type  sspanel
