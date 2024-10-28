@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hmnpaarsg475@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(khxcahj59@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xgualtm313@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9dab5c4820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(weutqoudu79@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb6455bc8b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com
@@ -21,7 +21,7 @@ invite_code  xxDp  10000
 last_checkin  2024-10-28 04:53:30.653195+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.243G  10.1G  2024-10-29 04:53:29+08:00  (剩余 6.857G 13:05:10.766012)
+sub_info  3.543G  10.1G  2024-10-29 04:53:29+08:00  (剩余 6.556G 12:00:27.463348)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/hEE6uj140qTU6qmz?sub=3
 time  2024-10-28 04:53:31.961271+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  ipulyisk40@gmail.com
 last_checkin  2024-10-28 00:48:27.501781+08:00
 name  MG Network
 node_n  11
-sub_info  2.943G  6.061G  2024-10-29 14:48:31+08:00  (剩余 3.117G 23:00:09.361177)
+sub_info  2.956G  6.061G  2024-10-29 14:48:31+08:00  (剩余 3.104G 21:57:27.394222)
 sub_url  https://www.mgnet.sbs/link/Uq6dSkynyVAbkxkV?sub=3
 time  2024-10-27 13:48:32.701621+08:00
 type  sspanel
