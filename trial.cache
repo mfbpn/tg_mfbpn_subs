@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(qbwjtsyi206@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(edfcfza576@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zupwfcz949@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f16764f9630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(ndancjzcz93@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7898a4c910>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc
@@ -21,7 +21,7 @@ invite_code  G157  10000
 last_checkin  2024-10-30 00:52:02.024955+08:00
 name  飞翔吧
 node_n  46
-sub_info  4.929G  10.27G  2024-10-30 17:50:39+08:00  (剩余 5.346G 2:02:09.768117)
+sub_info  5.099G  10.27G  2024-10-30 17:50:39+08:00  (剩余 5.175G 0:57:36.990086)
 sub_url  https://2.flybar20.cc/link/BrDlyYrv1NgMXgYp?sub=3
 time  2024-10-29 17:50:42.568739+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  jhjjjfok968@gmail.com
 last_checkin  2024-10-30 00:52:02.027366+08:00
 name  MG Network
 node_n  11
-sub_info  342.7M  5.956G  2024-10-31 15:56:44+08:00  (剩余 5.621G 1 day, 0:08:17.681241)
+sub_info  380.5M  5.956G  2024-10-31 15:56:44+08:00  (剩余 5.585G 23:03:42.070052)
 sub_url  https://www.mgnet.sbs/link/9NxmStuDBIZj8IEB?sub=3
 time  2024-10-29 14:56:44.987937+08:00
 type  sspanel
