@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: d160f8cc-85a3-3ca7-b63f-74f913af0c15, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: d160f8cc-85a3-3ca7-b63f-74f913af0c15, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: d160f8cc-85a3-3ca7-b63f-74f913af0c15, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: d160f8cc-85a3-3ca7-b63f-74f913af0c15, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: d160f8cc-85a3-3ca7-b63f-74f913af0c15, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: 801d7e98-15a9-3fa9-a7bc-4643c39469bc, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: 801d7e98-15a9-3fa9-a7bc-4643c39469bc, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: 801d7e98-15a9-3fa9-a7bc-4643c39469bc, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: 801d7e98-15a9-3fa9-a7bc-4643c39469bc, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: 801d7e98-15a9-3fa9-a7bc-4643c39469bc, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 336b9668-a545-301e-b815-cba8158eb14a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 336b9668-a545-301e-b815-cba8158eb14a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 5423a2f9-d3ae-3d09-a543-21b02e44b1e7, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
