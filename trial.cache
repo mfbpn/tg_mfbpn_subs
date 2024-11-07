@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ctigsjvt209@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(sepluwudr346@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uihlwak867@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(jzdhisb781@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc
@@ -21,7 +21,7 @@ invite_code  bTBG  10000
 last_checkin  2024-11-07 00:50:57.257567+08:00
 name  飞翔吧
 node_n  46
-sub_info  9.15G  10.26G  2024-11-07 23:48:30+08:00  (剩余 1.111G 5:00:07.938620)
+sub_info  9.193G  10.26G  2024-11-07 23:48:30+08:00  (剩余 1.069G 4:00:18.800769)
 sub_url  http://175.178.9.20/link/aAEMyxw7zBO8ZZL3?sub=3
 time  2024-11-06 23:48:32.965505+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  dvwcmaj249@gmail.com
 last_checkin  2024-11-07 00:50:57.259060+08:00
 name  MG Network
 node_n  11
-sub_info  5.457G  6.562G  2024-11-07 22:48:13+08:00  (剩余 1.105G 3:59:58.604589)
+sub_info  5.739G  6.562G  2024-11-07 22:48:13+08:00  (剩余 843.3M 3:00:02.371911)
 sub_url  https://www.mgnet.sbs/link/DtZIo4ZAsJuGZOR6?sub=3
 time  2024-11-05 21:48:14.622815+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  uszodrj337@grr.la
 last_checkin  2024-11-07 11:08:00.110900+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.211G  888G  2024-11-08 11:08:00+08:00  (剩余 886.8G 16:19:44.385106)
+sub_info  2.262G  888G  2024-11-08 11:08:00+08:00  (剩余 885.8G 15:19:49.886011)
 sub_url  https://www.qlgq.top/link/16bebef5ad4d2417?clash=1#墙了个墙
 time  2024-11-07 11:08:00.770516+08:00
 type  sspanel
