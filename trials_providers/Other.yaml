@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 广港•韩国263•高速, server: gy.58n.net, port: 45168, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速, server: gy.58n.net, port: 50355, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速, server: gy.58n.net, port: 25238, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速, server: gy.58n.net, port: 11215, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT, server: gy.58n.net, port: 20302, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT, server: gy.58n.net, port: 20303, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT, server: gy.58n.net, port: 20304, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT, server: gy.58n.net, port: 20305, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT, server: gy.58n.net, port: 20306, type: trojan, password: a7a8338e-170d-320d-b4b2-6fbeb7a0ef44, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速, server: gy.58n.net, port: 45168, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速, server: gy.58n.net, port: 50355, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速, server: gy.58n.net, port: 25238, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速, server: gy.58n.net, port: 11215, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT, server: gy.58n.net, port: 20302, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT, server: gy.58n.net, port: 20303, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT, server: gy.58n.net, port: 20304, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT, server: gy.58n.net, port: 20305, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT, server: gy.58n.net, port: 20306, type: trojan, password: 78f221bc-67ec-33ef-80fd-60b1dd823979, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇩🇪 [vip①]德国1', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 137c1698-8f76-3ee4-afbd-1121c3b1bc30, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
 - {name: '🇩🇪 [vip①]德国2', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 137c1698-8f76-3ee4-afbd-1121c3b1bc30, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
 - {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 137c1698-8f76-3ee4-afbd-1121c3b1bc30, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
