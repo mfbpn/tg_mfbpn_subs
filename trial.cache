@@ -6,22 +6,22 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(bununeshi702@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nvngepu878@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wqyzeqid819@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(lewlebfzl446@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com
 email  kgdagayop798@guerrillamail.net
 invite_code  DbcQ  10000
-last_checkin  2024-11-15 23:48:27.771119+08:00
+last_checkin  2024-11-16 00:52:02.803100+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2024-11-16 23:48:26+08:00  (剩余 10.12G 23:57:51.951478)
+sub_info  186.8M  10.26G  2024-11-16 23:48:26+08:00  (剩余 10.08G 22:56:00.511357)
 sub_url  http://175.178.9.20/link/z1Pv4SqjvvkqrvqR?sub=3
 time  2024-11-15 23:48:29.199405+08:00
 type  sspanel
@@ -30,10 +30,10 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  pndnqncx420@gmail.com
-last_checkin  2024-11-15 23:48:09.693377+08:00
+last_checkin  2024-11-16 00:52:02.803826+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.61G  2024-11-18 00:48:09+08:00  (剩余 5.61G 2 days, 0:59:57.195351)
+sub_info  0B  6.015G  2024-11-18 00:48:09+08:00  (剩余 6.015G 1 day, 23:56:03.073042)
 sub_url  https://www.mgnet.sbs/link/BFLB88B55G8zF7OR?sub=3
 time  2024-11-15 23:48:10.134609+08:00
 type  sspanel
@@ -43,10 +43,10 @@ auto_invite  F
 banned_domains  psnator.com  lista.cc  muatoc.com  snapmail.cc
 buy  pass
 email  smiwljcie707@disbox.org
-last_checkin  2024-11-15 12:57:29.498733+08:00
+last_checkin  2024-11-16 00:52:02.802647+08:00
 name  墙了个墙
 node_n  30
-sub_info  447.7M  888G  2024-11-16 12:57:29+08:00  (剩余 887.6G 13:09:20.169914)
+sub_info  449.8M  888.1G  2024-11-16 12:57:29+08:00  (剩余 887.6G 12:05:23.721663)
 sub_url  https://www.qlgq.top/link/052f5443822e9361?clash=1#墙了个墙
 time  2024-11-15 12:57:30.284607+08:00
 type  sspanel
