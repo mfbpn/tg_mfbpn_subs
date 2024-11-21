@@ -32,6 +32,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 广港•香港309•专线
   - 🇭🇰 中转•香港301•高速
   - 🇭🇰 中转•香港102•高速
   - 🇭🇰 中转•香港307•高速
@@ -170,6 +171,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 广港•香港309•专线
   - 🇭🇰 中转•香港301•高速
   - 🇭🇰 中转•香港102•高速
   - 🇭🇰 中转•香港307•高速
@@ -206,6 +208,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 广港•香港309•专线
   - 🇭🇰 中转•香港301•高速
   - 🇭🇰 中转•香港102•高速
   - 🇭🇰 中转•香港307•高速
@@ -346,6 +349,7 @@ proxies:
 - {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线, server: gyl.58n.net, port: 20309, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速, server: gy.58n.net, port: 20301, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速, server: gy.58n.net, port: 43337, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速, server: gy.58n.net, port: 20307, type: trojan, password: 0a07a597-801e-3ff4-909f-1d3e3bdcc07c, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
