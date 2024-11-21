@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(urpsanmlt61@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(cpaardw932@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uqufsdf62@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(jscqrgits430@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com
@@ -21,7 +21,7 @@ invite_code  dw9f  10000
 last_checkin  2024-11-22 00:53:21.921478+08:00
 name  飞翔吧
 node_n  47
-sub_info  2.451G  10.31G  2024-11-22 19:50:25+08:00  (剩余 7.857G 18:02:19.061433)
+sub_info  3.648G  10.31G  2024-11-22 19:50:25+08:00  (剩余 6.659G 16:58:39.850125)
 sub_url  http://175.178.9.20/link/WUPozZlYf8Je3ia2?sub=3
 time  2024-11-21 19:50:28.556628+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  jqppmrs173@gmail.com
 last_checkin  2024-11-22 00:53:21.921782+08:00
 name  MG Network
 node_n  10
-sub_info  2.17G  5.923G  2024-11-23 17:51:49+08:00  (剩余 3.753G 1 day, 16:03:41.471623)
+sub_info  3.325G  5.923G  2024-11-23 17:51:49+08:00  (剩余 2.597G 1 day, 14:58:05.958372)
 sub_url  https://www.mgnet.sbs/link/zPcUSuxXsrBNia95?sub=3
 time  2024-11-21 16:51:49.934150+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  aziltfy13@grr.la
 last_checkin  2024-11-22 00:53:21.920919+08:00
 name  墙了个墙
 node_n  30
-sub_info  561.2M  888.1G  2024-11-22 13:48:31+08:00  (剩余 887.5G 12:00:26.402371)
+sub_info  562.7M  888.1G  2024-11-22 13:48:31+08:00  (剩余 887.5G 10:56:49.041309)
 sub_url  https://www.qlgq.top/link/7cb14d73b5caaffb?clash=1#墙了个墙
 time  2024-11-21 13:48:32.250524+08:00
 type  sspanel
