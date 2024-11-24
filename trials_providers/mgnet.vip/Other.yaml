@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇩🇪 [vip①]德国1', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 1769421e-a3ea-39e7-b266-754ade1b4c00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 1769421e-a3ea-39e7-b266-754ade1b4c00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 1769421e-a3ea-39e7-b266-754ade1b4c00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 1769421e-a3ea-39e7-b266-754ade1b4c00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 1769421e-a3ea-39e7-b266-754ade1b4c00, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: bb1d7177-a2b2-3445-a49b-18d36632f90b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: bb1d7177-a2b2-3445-a49b-18d36632f90b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: bb1d7177-a2b2-3445-a49b-18d36632f90b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: bb1d7177-a2b2-3445-a49b-18d36632f90b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: bb1d7177-a2b2-3445-a49b-18d36632f90b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
