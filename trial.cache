@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(wpwfpuqf459@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qclonjvs391@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(thjcungfq395@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1233dc09d0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lbylrwlh132@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f55a0ffc610>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop
@@ -21,7 +21,7 @@ invite_code  gWWZ  10000
 last_checkin  2024-12-08 00:50:18.503931+08:00
 name  飞翔吧
 node_n  47
-sub_info  1.51G  10.27G  2024-12-08 22:48:21+08:00  (剩余 8.763G 21:00:06.101825)
+sub_info  3.425G  10.27G  2024-12-08 22:48:21+08:00  (剩余 6.847G 19:58:21.836738)
 sub_url  http://175.178.9.20/link/QxEZioTFX0y2pVyB?sub=3
 time  2024-12-07 22:48:24.187002+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  qjlpmvai468@gmail.com
 last_checkin  2024-12-08 00:50:18.505515+08:00
 name  MG Network
 node_n  10
-sub_info  1.004G  6.901G  2024-12-08 22:48:41+08:00  (剩余 5.897G 21:00:30.626889)
+sub_info  1.902G  6.901G  2024-12-08 22:48:41+08:00  (剩余 4.999G 19:58:16.498029)
 sub_url  https://www.mgnet.sbs/link/vZizswenbYSqupPz?sub=3
 time  2024-12-06 21:48:42.693031+08:00
 type  sspanel
@@ -42,11 +42,11 @@ type  sspanel
 auto_invite  F
 banned_domains  psnator.com  lista.cc  muatoc.com  snapmail.cc  nespressopixie.com  mynanaimohomes.com  smartnator.com
 buy  pass
-email  pzwbugbe668@333.waocq.shop
-last_checkin  2024-12-08 00:50:18.503544+08:00
+email  rbcrrvk116@moakt.cc
+last_checkin  2024-12-08 02:50:06.526496+08:00
 name  墙了个墙
 node_n  30
-sub_info  468.6M  888G  2024-12-08 02:52:17+08:00  (剩余 887.6G 1:04:06.538064)
-sub_url  https://www.qlgq.top/link/4d3804dc6bca9ce3?clash=1#墙了个墙
-time  2024-12-07 02:52:18.685663+08:00
+sub_info  0B  888G  2024-12-09 02:50:06+08:00  (剩余 888G 23:59:56.614678)
+sub_url  https://www.qlgq.top/link/07ace1673c7d46f2?clash=1#墙了个墙
+time  2024-12-08 02:50:07.478774+08:00
 type  sspanel
