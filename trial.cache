@@ -6,13 +6,13 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(eajcycwjy64@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ysyuddu189@gmail.com): 'NoneType' object is not subscriptable
 
 [csyun.xyz]
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zlbchhpv641@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2533ab4640>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lfkidfnhd173@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdd5faf0490>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop
@@ -21,7 +21,7 @@ invite_code  vBct  10000
 last_checkin  2024-12-08 11:27:16.365230+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.19G  2024-12-09 11:27:15+08:00  (剩余 10.19G 23:59:53.203129)
+sub_info  41.81K  10.19G  2024-12-09 11:27:15+08:00  (剩余 10.19G 23:29:38.991483)
 sub_url  http://175.178.9.20/link/6R8xRZ7IuNqkAUwO?sub=3
 time  2024-12-08 11:27:17.765103+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  ypjgpogt217@gmail.com
 last_checkin  2024-12-08 03:48:15.996340+08:00
 name  MG Network
 node_n  10
-sub_info  890.7M  5.611G  2024-12-10 04:48:15+08:00  (剩余 4.741G 1 day, 17:21:10.609736)
+sub_info  1.223G  5.611G  2024-12-10 04:48:15+08:00  (剩余 4.388G 1 day, 16:52:47.294926)
 sub_url  https://www.mgnet.sbs/link/D3STTrdHuLi3rBXR?sub=3
 time  2024-12-08 03:48:16.336613+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  rbcrrvk116@moakt.cc
 last_checkin  2024-12-08 02:50:06.526496+08:00
 name  墙了个墙
 node_n  30
-sub_info  245.7M  888G  2024-12-09 02:50:06+08:00  (剩余 887.8G 15:23:08.288355)
+sub_info  255.9M  888G  2024-12-09 02:50:06+08:00  (剩余 887.8G 14:52:36.835782)
 sub_url  https://www.qlgq.top/link/07ace1673c7d46f2?clash=1#墙了个墙
 time  2024-12-08 02:50:07.478774+08:00
 type  sspanel
