@@ -12,18 +12,18 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rzormub553@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff94934c670>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kukymom59@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f376d8f8670>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com
-email  ajmbmkv221@333.vtnli.shop
-invite_code  DBQs  10000
-last_checkin  2024-12-13 00:54:20.337051+08:00
+email  pqswvznh143@sharklasers.com
+invite_code  PNFS  10000
+last_checkin  2024-12-13 17:55:47.458623+08:00
 name  飞翔吧
 node_n  47
-sub_info  5.407G  10.23G  2024-12-13 17:48:10+08:00  (剩余 4.82G 0:55:45.060017)
-sub_url  http://175.178.9.20/link/CHpvYYL9py6n5jzh?sub=3
-time  2024-12-12 17:48:12.846545+08:00
+sub_info  0B  10.12G  2024-12-14 17:55:46+08:00  (剩余 10.12G 23:59:53.946804)
+sub_url  http://175.178.9.20/link/xgYztsB2OFuMSMiY?sub=3
+time  2024-12-13 17:55:48.701762+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -33,7 +33,7 @@ email  jqczuhc613@gmail.com
 last_checkin  2024-12-13 16:52:20.812600+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.537G  2024-12-15 17:52:20+08:00  (剩余 5.537G 2 days, 0:59:58.423916)
+sub_info  0B  5.537G  2024-12-15 17:52:20+08:00  (剩余 5.537G 2 days, 0:04:08.951008)
 sub_url  https://www.mgnet.sbs/link/imexdFFa8sNYYizM?sub=3
 time  2024-12-13 16:52:21.112076+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  teucojj686@grr.la
 last_checkin  2024-12-13 02:52:55.387363+08:00
 name  墙了个墙
 node_n  30
-sub_info  205.2M  888G  2024-12-14 02:52:55+08:00  (剩余 887.8G 10:00:33.317585)
+sub_info  603.5M  888G  2024-12-14 02:52:55+08:00  (剩余 887.4G 9:04:42.938997)
 sub_url  https://www.qlgq.top/link/9ae614b437a523bc?clash=1#墙了个墙
 time  2024-12-13 02:52:56.271342+08:00
 type  sspanel
