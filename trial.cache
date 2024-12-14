@@ -12,20 +12,19 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dysmrwkk664@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3fdf19480>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ngzefxc855@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1452474ac0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com
-email  pqswvznh143@sharklasers.com
-invite_code  PNFS  10000
-last_checkin  2024-12-14 00:52:52.829151+08:00
+email  bwwxnrcfs686@333.vxqcp.shop
+invite_code  PNFS  9999
+last_checkin  2024-12-14 11:19:13.701838+08:00
 name  飞翔吧
 node_n  47
-sub_info  10.35G  10.22G  2024-12-14 17:55:46+08:00  (剩余 -131.4M 7:41:41.894453)
-sub_url  http://175.178.9.20/link/xgYztsB2OFuMSMiY?sub=3
-time  2024-12-13 17:55:48.701762+08:00
+sub_info  0B  10.1G  2024-12-15 11:19:13+08:00  (剩余 10.1G 23:57:38.258014)
+sub_url  http://175.178.9.20/link/YrjZeffmt5MmrY8m?sub=3
+time  2024-12-14 11:19:14.983711+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(zsyrznd66@femailtor.com)
 
 [mgnet.vip]
 auto_invite  F
@@ -34,7 +33,7 @@ email  bimbqeby982@gmail.com
 last_checkin  2024-12-14 10:12:56.180647+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.826G  2024-12-16 11:12:55+08:00  (剩余 5.826G 2 days, 0:59:53.185557)
+sub_info  0B  5.826G  2024-12-16 11:12:55+08:00  (剩余 5.826G 1 day, 23:53:50.685300)
 sub_url  https://www.mgnet.sbs/link/rd5Ylwe0LNMlttUT?sub=3
 time  2024-12-14 10:12:56.490073+08:00
 type  sspanel
@@ -47,7 +46,7 @@ email  qhxuykesz908@teml.net
 last_checkin  2024-12-14 02:52:04.812372+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.81M  888G  2024-12-15 02:52:04+08:00  (剩余 888G 16:39:07.451914)
+sub_info  86.07M  888G  2024-12-15 02:52:04+08:00  (剩余 887.9G 15:31:03.367090)
 sub_url  https://www.qlgq.top/link/3c30b8305f4dc6f3?clash=1#墙了个墙
 time  2024-12-14 02:52:05.613273+08:00
 type  sspanel
