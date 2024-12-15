@@ -12,7 +12,7 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ffujbrzmu318@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2523af89d0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(fppedhqx640@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f15666702e0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com
@@ -21,7 +21,7 @@ invite_code  VlfQ  10000
 last_checkin  2024-12-15 01:48:21.790275+08:00
 name  飞翔吧
 node_n  47
-sub_info  5.036G  10.13G  2024-12-16 01:48:20+08:00  (剩余 5.092G 6:59:56.115266)
+sub_info  6.379G  10.13G  2024-12-16 01:48:20+08:00  (剩余 3.749G 5:58:06.150176)
 sub_url  http://175.178.9.20/link/sQ4jrcR2s4HLGLWn?sub=3
 time  2024-12-15 01:48:23.110177+08:00
 type  sspanel
@@ -33,7 +33,7 @@ email  bimbqeby982@gmail.com
 last_checkin  2024-12-15 00:49:39.840801+08:00
 name  MG Network
 node_n  10
-sub_info  4.344G  6.697G  2024-12-16 11:12:55+08:00  (剩余 2.353G 16:24:33.682047)
+sub_info  4.379G  6.697G  2024-12-16 11:12:55+08:00  (剩余 2.318G 15:22:43.846616)
 sub_url  https://www.mgnet.sbs/link/rd5Ylwe0LNMlttUT?sub=3
 time  2024-12-14 10:12:56.490073+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  grhpvxyha901@x866.cc
 last_checkin  2024-12-15 02:49:57.408668+08:00
 name  墙了个墙
 node_n  30
-sub_info  105.5M  888G  2024-12-16 02:49:57+08:00  (剩余 887.9G 8:01:28.887875)
+sub_info  121.2M  888G  2024-12-16 02:49:57+08:00  (剩余 887.9G 7:01:44.822980)
 sub_url  https://www.qlgq.top/link/9f31648253831f72?clash=1#墙了个墙
 time  2024-12-15 02:49:58.189735+08:00
 type  sspanel
