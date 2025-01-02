@@ -12,7 +12,7 @@ type  v2board
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dovslfnkt258@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f22ba1111b0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(xhixaiirp676@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4c8e8b4ac0>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc
@@ -21,11 +21,10 @@ invite_code  OQiY  10000
 last_checkin  2025-01-02 00:48:59.225759+08:00
 name  飞翔吧
 node_n  47
-sub_info  9.185G  10.29G  2025-01-02 18:48:14+08:00  (剩余 1.109G 6:59:27.135063)
+sub_info  9.203G  10.29G  2025-01-02 18:48:14+08:00  (剩余 1.091G 5:59:48.928688)
 sub_url  http://175.178.9.20/link/3AjBlbOt6VODzbka?sub=3
 time  2025-01-01 18:48:17.193121+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [mgnet.vip]
 auto_invite  F
@@ -34,7 +33,7 @@ email  ehbwbzllg520@gmail.com
 last_checkin  2025-01-02 00:48:59.228394+08:00
 name  MG Network
 node_n  10
-sub_info  3.501G  5.723G  2025-01-03 12:22:02+08:00  (剩余 2.221G 1 day, 0:33:11.712331)
+sub_info  3.868G  5.723G  2025-01-03 12:22:02+08:00  (剩余 1.855G 23:33:38.129275)
 sub_url  https://www.mgnet.sbs/link/eoghMKV5XC4oU8MI?sub=3
 time  2025-01-01 11:22:03.714938+08:00
 type  sspanel
