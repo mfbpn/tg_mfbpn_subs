@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 1eed26d7-3a69-3c43-bc9d-f6320891e3d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 1eed26d7-3a69-3c43-bc9d-f6320891e3d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, tfo: true, type: vmess, uuid: f642c819-5d35-3e37-8dd0-03a983b96e04, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, tfo: true, type: vmess, uuid: f642c819-5d35-3e37-8dd0-03a983b96e04, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 广港•香港309•专线, server: gyl.58n.net, port: 20309, type: trojan, password: 362d1cac-3bbb-3b81-b1d9-b87ae143c80a, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速, server: gy.58n.net, port: 20301, type: trojan, password: 362d1cac-3bbb-3b81-b1d9-b87ae143c80a, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速, server: gy.58n.net, port: 43337, type: trojan, password: 362d1cac-3bbb-3b81-b1d9-b87ae143c80a, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
