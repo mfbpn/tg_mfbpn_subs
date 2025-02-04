@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转•美国295•高速, server: gy.58n.net, port: 20295, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速, server: gy.58n.net, port: 20296, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速, server: gy.58n.net, port: 20308, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速, server: gy.58n.net, port: 16895, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生, server: gy.58n.net, port: 21970, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速, server: gy.58n.net, port: 30767, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速, server: gy.58n.net, port: 56783, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速, server: gy.58n.net, port: 20288, type: trojan, password: 630672b4-2e0a-3e6d-ac98-a5fd9a22e196, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速, server: gy.58n.net, port: 20295, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速, server: gy.58n.net, port: 20296, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速, server: gy.58n.net, port: 20308, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速, server: gy.58n.net, port: 16895, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生, server: gy.58n.net, port: 21970, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速, server: gy.58n.net, port: 30767, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速, server: gy.58n.net, port: 56783, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速, server: gy.58n.net, port: 20288, type: trojan, password: acea2022-727d-3a78-977b-3b6824f85c34, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
