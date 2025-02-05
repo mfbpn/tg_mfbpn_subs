@@ -6,25 +6,25 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=5e55546045d8f60b2edd8f361febd94f (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe41e6b7af0>: Failed to resolve 'cloudcat.top' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f220e7278e0>: Failed to resolve 'cloudcat.top' ([Errno -5] No address associated with hostname)"))
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jbuolmnx210@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(dbetaogtd312@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc  nespressopixie.com  mail.wvwvw.tech
-email  oeynrdmms170@ipiso.tmmad.com
-invite_code  WJtT  9999
-last_checkin  2025-02-05 14:49:11.585927+08:00
+email  zsmlotdw737@rgzx.tmmad.com
+invite_code  WJtT  9998
+last_checkin  2025-02-05 21:48:26.728134+08:00
 name  飞翔吧
 node_n  47
-sub_info  303.2M  10.17G  2025-02-06 14:49:11+08:00  (剩余 9.873G 17:46:22.256174)
-sub_url  http://175.178.9.20/link/5ncFvmifz3ZlVAy8?sub=3
-time  2025-02-05 14:49:12.945597+08:00
+sub_info  0B  10.18G  2025-02-06 21:48:26+08:00  (剩余 10.18G 23:59:53.039703)
+sub_url  http://175.178.9.20/link/VHg0pvzFlYvPEthk?sub=3
+time  2025-02-05 21:48:28.031273+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -34,7 +34,7 @@ email  ayirjevfs370@gmail.com
 last_checkin  2025-02-05 10:04:47.440281+08:00
 name  MG Network
 node_n  10
-sub_info  1.767G  5.309G  2025-02-07 11:04:47+08:00  (剩余 3.542G 1 day, 14:01:58.652537)
+sub_info  1.943G  5.309G  2025-02-07 11:04:47+08:00  (剩余 3.365G 1 day, 13:16:30.161242)
 sub_url  https://www.mgnet.sbs/link/SGjPkXOGTXIoY1IQ?sub=3
 time  2025-02-05 10:04:47.744465+08:00
 type  sspanel
@@ -51,5 +51,5 @@ sub_info  363.7M  888G  2024-12-16 02:49:57+08:00  (剩余 887.7G 3:01:55.043104
 sub_url  https://www.qlgq.top/link/9f31648253831f72?clash=1#墙了个墙
 time  2024-12-15 02:49:58.189735+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe41e7222f0>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe41e340850>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f220e70ca90>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /link/9f31648253831f72?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f220e7199f0>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
