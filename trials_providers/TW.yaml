@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 82853d76-5226-3c80-817d-50f44e58ab63, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, type: trojan, password: 9398ca78-bfe4-38bc-9400-110e67593575, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: 9398ca78-bfe4-38bc-9400-110e67593575, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: 9398ca78-bfe4-38bc-9400-110e67593575, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, type: trojan, password: 9398ca78-bfe4-38bc-9400-110e67593575, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, tfo: true, type: trojan, password: cf1d1620-82df-36ac-9d5e-7e7d35e789a8, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: cf1d1620-82df-36ac-9d5e-7e7d35e789a8, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: cf1d1620-82df-36ac-9d5e-7e7d35e789a8, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, tfo: true, type: trojan, password: cf1d1620-82df-36ac-9d5e-7e7d35e789a8, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
