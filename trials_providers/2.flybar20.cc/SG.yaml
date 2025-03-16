@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: c5a20920-18e4-387b-bd77-f6fd0515e1ec, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: c5a20920-18e4-387b-bd77-f6fd0515e1ec, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: c5a20920-18e4-387b-bd77-f6fd0515e1ec, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: c5a20920-18e4-387b-bd77-f6fd0515e1ec, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: c5a20920-18e4-387b-bd77-f6fd0515e1ec, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: 08f71806-339f-3d17-838b-2b86c6b1261b, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: 08f71806-339f-3d17-838b-2b86c6b1261b, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: 08f71806-339f-3d17-838b-2b86c6b1261b, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: 08f71806-339f-3d17-838b-2b86c6b1261b, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: 08f71806-339f-3d17-838b-2b86c6b1261b, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
