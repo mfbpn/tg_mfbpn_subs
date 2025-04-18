@@ -6,26 +6,28 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=5e55546045d8f60b2edd
 time  2024-09-14 05:48:24.862318+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=5e55546045d8f60b2edd8f361febd94f (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f38144b9570>: Failed to resolve 'cloudcat.top' ([Errno -3] Temporary failure in name resolution)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa07058e860>: Failed to resolve 'cloudcat.top' ([Errno -3] Temporary failure in name resolution)"))
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(trcyhucyi570@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(gyruwnf185@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc  nespressopixie.com  mail.wvwvw.tech  bccto.cc  mxl001.win  lplso.tmmad.com  51788.top  tmpnator.live  uuf.me  yzm.de
-email  joaolkrs410@oakon.com
-invite_code  NiGA  10000
-last_checkin  2025-04-18 05:48:25.000223+08:00
+email  ufpupmwym466@guerrillamail.net
+invite_code  NiGA  9999
+last_checkin  2025-04-18 12:52:08.384514+08:00
 name  飞翔吧
 node_n  46
 sub_info  9.668G  10.11G  2025-04-19 05:48:23+08:00  (剩余 453.2M 17:54:56.073495)
-sub_url  http://175.178.9.20/link/s1Xfx5wXRfoFiSuf?sub=3
-time  2025-04-18 05:48:27.011993+08:00
+sub_url  http://175.178.9.20/link/wDOio2jLLv52nGNG?sub=3
+time  2025-04-18 12:52:09.531738+08:00
 type  sspanel
+保存base64/clash订阅失败  _gen_base64_config: no base64: b"<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('https://api.tsutsu.one/sub?ch=1&config=https%3A%2F%2Fraw.githubusercontent.com%2Fzsokami%2FACL4SSR%2F5e8aa297ef067467b51b5611a9e954c8d043babf%2FACL4SSR_Online_Full_Mannix.ini&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc0NDk1OTE0NiwiaWF0IjoxNzQ0OTUxOTQ2LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMHJsMTM3aDYwcHRkdG5kdXM4NWowMDkiLCJuYmYiOjE3NDQ5NTE5NDYsInRzIjoxNzQ0OTUxOTQ2OTAxNDE5fQ.TQf0YvFM6b2a6JLvwUWAfWm1mzd98CWgvIZJsCD7aiA&rename=%24%40%7CTG%E9%A2%91%E9%81%93%40mfbpn%7C%E9%A3%9E%E7%BF%94%E5%90%A7&sid=ecf4bf66-1c10-11f0-b3ea-568433834505&target=mixed&url=http%3A%2F%2F175.178.9.20%2Flink%2FwDOio2jLLv52nGNG%3Fsub%3D3%231744951929.5318656');</script></body></html>"
+保存订阅信息失败  no sub info
 
 [mgnet.vip]
 auto_invite  F
@@ -34,7 +36,7 @@ email  bmrysra227@gmail.com
 last_checkin  2025-04-18 11:22:42.449692+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.416G  2025-04-20 12:22:42+08:00  (剩余 5.416G 2 days, 0:29:13.390574)
+sub_info  578.6M  5.416G  2025-04-20 12:22:42+08:00  (剩余 4.851G 1 day, 23:31:01.573965)
 sub_url  https://www.mgnet.sbs/link/0J9U0VwGcnEA2T1n?sub=3
 time  2025-04-18 11:22:42.911050+08:00
 type  sspanel
@@ -51,5 +53,5 @@ sub_info  363.7M  888G  2024-12-16 02:49:57+08:00  (剩余 887.7G 3:01:55.043104
 sub_url  https://www.qlgq.top/link/9f31648253831f72?clash=1#墙了个墙
 time  2024-12-15 02:49:58.189735+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f38190e5e70>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f38190e6680>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa073e60340>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa0717b24a0>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
