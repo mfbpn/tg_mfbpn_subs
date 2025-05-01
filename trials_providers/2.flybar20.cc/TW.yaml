@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, tfo: true, type: trojan, password: 84a521d6-9561-3a18-b7f1-e6291064437d, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: 84a521d6-9561-3a18-b7f1-e6291064437d, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: 84a521d6-9561-3a18-b7f1-e6291064437d, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, tfo: true, type: trojan, password: 84a521d6-9561-3a18-b7f1-e6291064437d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, type: trojan, password: 00fe34d1-3516-31cf-85fd-b9fd0c2bd6ef, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: 00fe34d1-3516-31cf-85fd-b9fd0c2bd6ef, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: 00fe34d1-3516-31cf-85fd-b9fd0c2bd6ef, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, type: trojan, password: 00fe34d1-3516-31cf-85fd-b9fd0c2bd6ef, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
