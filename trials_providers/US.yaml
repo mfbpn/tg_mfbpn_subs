@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: a592a7d6-0529-3e3a-ba57-3b4ed0e87dce, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 868365dc-ccc8-3aeb-8938-ee6c339a1357, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇸 中转•美国295•高速, server: gy.58n.net, port: 20295, type: trojan, password: 39d9e7ef-144c-38bc-b2cc-0f4f4af114fb, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速, server: gy.58n.net, port: 20296, type: trojan, password: 39d9e7ef-144c-38bc-b2cc-0f4f4af114fb, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速, server: gy.58n.net, port: 20308, type: trojan, password: 39d9e7ef-144c-38bc-b2cc-0f4f4af114fb, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
