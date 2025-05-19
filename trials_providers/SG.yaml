@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]②新加坡', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f160eb4d-d0bf-3396-803b-4236d752f2d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 64ea9e6d-0167-3577-bd4a-96d1359f04b0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: fd3c3426-7945-372e-822b-9ee976a54851, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: fd3c3426-7945-372e-822b-9ee976a54851, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: fd3c3426-7945-372e-822b-9ee976a54851, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
