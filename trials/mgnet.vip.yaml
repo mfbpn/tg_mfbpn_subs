@@ -35,6 +35,7 @@ proxy-groups:
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
   - 🇸🇬 [vip①]②新加坡
   - 🇺🇸 [vip①]美国1
+  - ℹ️ www.mgjs.site最新域名，更新订阅
   - 🇮🇳 [vip①]印度1
   - 🇩🇪 [vip①]德国1
   - 🇩🇪 [vip①]德国2
@@ -130,6 +131,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id007
+  - ℹ️ www.mgjs.site最新域名，更新订阅
   - 🇮🇳 [vip①]印度1
   - 🇩🇪 [vip①]德国1
   - 🇩🇪 [vip①]德国2
@@ -155,6 +157,7 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇮🇳 [vip①]印度1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇮🇳 [vip①]印度1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: e2bcd3b7-e851-3b72-b386-cdeebf16ce02, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
