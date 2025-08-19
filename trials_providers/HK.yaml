@@ -20,4 +20,4 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速, server: gy.58n.net, port: 20278, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速, server: gy.58n.net, port: 20279, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速, server: gy.58n.net, port: 20294, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 15b7ce20-3617-31eb-9d78-c005469329f1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: dee4e1b7-a6a1-318a-b68b-662326a74a46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
