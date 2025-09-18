@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f1f98187-e754-3703-a759-bd2434ae2ea7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f1683ab4-1089-3000-9cd3-a4b2344b7aca, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
