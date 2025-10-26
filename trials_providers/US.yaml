@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f13421bf-0570-38b2-ab24-a6bde20de0c8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 4075f6e6-d894-3fd7-83c0-6a57a071cf45, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
