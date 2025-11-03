@@ -14,13 +14,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -33,7 +33,7 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰 [vip①]①香港
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
-  - 🇸🇬 [vip①]②新加坡
+  - 🇯🇵 [vip①]②日本
   - 🇺🇸 [vip①]美国1
   - ℹ️ www.mgjs.site最新域名，更新订阅
   - 🇮🇳 [vip①]印度1
@@ -74,12 +74,12 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -111,13 +111,13 @@ proxy-groups:
   proxies: &id004
   - 🇭🇰 [vip①]①香港
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
-- name: 🇸🇬 ‍新加坡
+- name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 [vip①]②新加坡
+  - 🇯🇵 [vip①]②日本
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -147,7 +147,7 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id005
 - name: 👆🏻🇺🇸 ‍美国
@@ -159,7 +159,7 @@ proxy-groups:
 proxies:
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]②日本', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇮🇳 [vip①]印度1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇩🇪 [vip①]德国1', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: b54b5a1f-c287-34e7-9b9c-bc154ff6fe1c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
