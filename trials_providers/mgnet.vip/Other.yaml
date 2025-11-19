@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: dd66f36c-869e-3f92-85be-f31d7b82698a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [vip①]印度1', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国2', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 5fb2bbad-de58-34d8-9431-7ce904185531, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
