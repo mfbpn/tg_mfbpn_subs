@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]②日本', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 3202cc26-bd56-347e-8f6f-4d44314207fc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 3202cc26-bd56-347e-8f6f-4d44314207fc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]②日本', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: dd7f6d50-145a-34c5-a299-5c812003eda4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: dd7f6d50-145a-34c5-a299-5c812003eda4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速, server: gy.58n.net, port: 20298, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生, server: gy.58n.net, port: 20300, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速, server: gy.58n.net, port: 41767, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
