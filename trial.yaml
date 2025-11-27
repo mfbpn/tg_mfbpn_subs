@@ -69,7 +69,9 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速
   - 🇸🇬 新加坡•高速129•高速
   - 🇸🇬 新加坡•高速130•铂金
-  - 🇯🇵 [vip①]②日本
+  - 🇯🇵 [vip①]日本1
+  - 🇯🇵 [vip①]日本2
+  - 🇯🇵 [vip①]日本3
   - 🇯🇵 中转•日本298•高速
   - 🇯🇵 中转•日本300•原生
   - 🇯🇵 日本•高速114•高速
@@ -97,8 +99,6 @@ proxy-groups:
   - 🇺🇸 广港•美国266•高速
   - 🇺🇸 广港•美国288•高速
   - ℹ️ www.mgjs.site最新域名，更新订阅
-  - 🇮🇳 [vip①]印度1
-  - 🇩🇪 [vip①]德国2
   - 🇬🇧 [vip①]英国1
   - 🇬🇧 [vip①]英国2
   - 🇰🇷 [vip①]韩国1
@@ -260,7 +260,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 [vip①]②日本
+  - 🇯🇵 [vip①]日本1
+  - 🇯🇵 [vip①]日本2
+  - 🇯🇵 [vip①]日本3
   - 🇯🇵 中转•日本298•高速
   - 🇯🇵 中转•日本300•原生
   - 🇯🇵 日本•高速114•高速
@@ -300,8 +302,6 @@ proxy-groups:
   tolerance: 100
   proxies: &id008
   - ℹ️ www.mgjs.site最新域名，更新订阅
-  - 🇮🇳 [vip①]印度1
-  - 🇩🇪 [vip①]德国2
   - 🇬🇧 [vip①]英国1
   - 🇬🇧 [vip①]英国2
   - 🇰🇷 [vip①]韩国1
@@ -345,17 +345,17 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: '🇺🇸 [vip①]美国1', server: dx.miloli.me, port: 23615, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1', server: dx.miloli.me, port: 23616, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港', server: dx.miloli.me, port: 23612, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]②日本', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2', server: dx.miloli.me, port: 23613, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: dx.miloli.me, port: 23614, type: vmess, uuid: 26113291-e28c-3929-b488-c1f352982ae2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: dx.miloli.me, port: 23615, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1', server: dx.miloli.me, port: 23616, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: dx.miloli.me, port: 23612, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2', server: dx.miloli.me, port: 23613, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: dx.miloli.me, port: 23614, type: vmess, uuid: 32705657-ae2e-3059-9b6d-498934edab29, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
