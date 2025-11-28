@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: f753849c-a03a-30b7-a744-cd99ca66e339, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: 7e39c207-6277-37c9-a1b1-c73cb3b7ef0a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
