@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1', server: dx.miloli.me, port: 23615, type: vmess, uuid: c3220aa4-f1dd-3872-bc07-50c651123747, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: dx.miloli.me, port: 23615, type: vmess, uuid: 31223961-b44f-3c74-b3b2-53d8f8173dfb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}

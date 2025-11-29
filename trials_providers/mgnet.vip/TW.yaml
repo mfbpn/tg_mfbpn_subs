@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: c3220aa4-f1dd-3872-bc07-50c651123747, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: 31223961-b44f-3c74-b3b2-53d8f8173dfb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
