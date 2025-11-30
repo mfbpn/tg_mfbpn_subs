@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 6d9a97de-bcd8-3245-b8ec-cdf47ed1f59d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: 6d9a97de-bcd8-3245-b8ec-cdf47ed1f59d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2', server: dx.miloli.me, port: 23613, type: vmess, uuid: 6d9a97de-bcd8-3245-b8ec-cdf47ed1f59d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: dx.miloli.me, port: 23614, type: vmess, uuid: 6d9a97de-bcd8-3245-b8ec-cdf47ed1f59d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: a2900186-5d61-31bf-ae61-8cbf080a8f42, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: a2900186-5d61-31bf-ae61-8cbf080a8f42, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2', server: dx.miloli.me, port: 23613, type: vmess, uuid: a2900186-5d61-31bf-ae61-8cbf080a8f42, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: dx.miloli.me, port: 23614, type: vmess, uuid: a2900186-5d61-31bf-ae61-8cbf080a8f42, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
