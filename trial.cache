@@ -13,7 +13,7 @@ api_host  ww38.csyun.xyz
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uanhcexzd923@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f73a58f3fa0>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(yobbreb968@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f0c1367d810>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc  nespressopixie.com  mail.wvwvw.tech  bccto.cc  mxl001.win  lplso.tmmad.com  51788.top  tmpnator.live  uuf.me  yzm.de  linshiyou.com
@@ -36,7 +36,7 @@ email  nqlsenvfx714@gmail.com
 last_checkin  2025-12-14 15:48:08.833459+08:00
 name  MG Network
 node_n  11
-sub_info  45.43M  5.648G  2025-12-16 16:48:08+08:00  (剩余 5.604G 1 day, 17:59:36.601040)
+sub_info  46.13M  5.648G  2025-12-16 16:48:08+08:00  (剩余 5.603G 1 day, 16:59:53.008842)
 sub_url  https://aa.mgnet.sbs/link/QN1w1FZqEEdikdUl?sub=3
 time  2025-12-14 15:48:09.276288+08:00
 type  sspanel
