@@ -13,7 +13,7 @@ api_host  ww38.csyun.xyz
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rivxtxo555@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f73cbea18d0>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(jvnpsaw275@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7fdbc034cf70>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc  nespressopixie.com  mail.wvwvw.tech  bccto.cc  mxl001.win  lplso.tmmad.com  51788.top  tmpnator.live  uuf.me  yzm.de  linshiyou.com
@@ -27,7 +27,7 @@ sub_url  https://2.flybar20.cc/link/MpAd8Pgufs1bdxuR?sub=3
 time  2025-06-04 06:49:53.300309+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /link/MpAd8Pgufs1bdxuR?sub=3 (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [mgnet.vip]
 auto_invite  F
@@ -36,7 +36,7 @@ email  tslctqml546@gmail.com
 last_checkin  2025-12-20 18:49:43.864334+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.461G  2025-12-22 19:49:43+08:00  (剩余 5.461G 2 days, 0:59:54.807917)
+sub_info  0B  5.461G  2025-12-22 19:49:43+08:00  (剩余 5.461G 2 days, 0:01:29.578326)
 sub_url  https://aa.mgnet.sbs/link/AO2J4mGU3NuknmAh?sub=3
 time  2025-12-20 18:49:44.318185+08:00
 type  sspanel
