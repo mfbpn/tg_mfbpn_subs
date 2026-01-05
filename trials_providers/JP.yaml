@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 3bdac502-5864-3844-98f2-e96870b6a04a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 3bdac502-5864-3844-98f2-e96870b6a04a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 3bdac502-5864-3844-98f2-e96870b6a04a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 57132e0f-617c-3703-bad6-9515f809d8c4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 57132e0f-617c-3703-bad6-9515f809d8c4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 57132e0f-617c-3703-bad6-9515f809d8c4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速, server: gy.58n.net, port: 20298, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生, server: gy.58n.net, port: 20300, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速, server: gy.58n.net, port: 41767, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
