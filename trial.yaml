@@ -33,6 +33,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -52,10 +53,12 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速
   - 🇭🇰 广港•香港279•高速
   - 🇭🇰 广港•香港294•高速
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
   - 🇹🇼 中转•台湾100•高速
   - 🇹🇼 中转•台湾91•原生
   - 🇹🇼 广港•台湾261•高速
   - 🇹🇼 广港•台湾262•高速
+  - 🇸🇬 [vip①]新加坡1
   - 🇸🇬 新加坡 101
   - 🇸🇬 新加坡 102
   - 🇸🇬 新加坡 103
@@ -66,6 +69,9 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速
   - 🇸🇬 新加坡•高速129•高速
   - 🇸🇬 新加坡•高速130•铂金
+  - 🇯🇵 [vip①]日本1
+  - 🇯🇵 [vip①]日本2
+  - 🇯🇵 [vip①]日本3
   - 🇯🇵 中转•日本298•高速
   - 🇯🇵 中转•日本300•原生
   - 🇯🇵 日本•高速114•高速
@@ -77,6 +83,7 @@ proxy-groups:
   - 🇯🇵 日本•高速59•青铜
   - 🇯🇵 日本•高速71•高速
   - 🇯🇵 日本•高速76•高速
+  - 🇺🇸 [vip①]美国1
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
@@ -91,6 +98,10 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速
   - 🇺🇸 广港•美国266•高速
   - 🇺🇸 广港•美国288•高速
+  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - 🇬🇧 [vip①]英国1
+  - 🇬🇧 [vip①]英国2
+  - 🇰🇷 [vip①]韩国1
   - 🇩🇪 德国 法兰克福101
   - 🇩🇪 德国 法兰克福102
   - 🇩🇪 德国 法兰克福103
@@ -164,6 +175,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -189,6 +201,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
   - 🇹🇼 中转•台湾100•高速
   - 🇹🇼 中转•台湾91•原生
   - 🇹🇼 广港•台湾261•高速
@@ -199,6 +212,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -218,6 +232,7 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速
   - 🇭🇰 广港•香港279•高速
   - 🇭🇰 广港•香港294•高速
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率
   - 🇹🇼 中转•台湾100•高速
   - 🇹🇼 中转•台湾91•原生
   - 🇹🇼 广港•台湾261•高速
@@ -228,6 +243,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 🇸🇬 [vip①]新加坡1
   - 🇸🇬 新加坡 101
   - 🇸🇬 新加坡 102
   - 🇸🇬 新加坡 103
@@ -244,6 +260,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
+  - 🇯🇵 [vip①]日本1
+  - 🇯🇵 [vip①]日本2
+  - 🇯🇵 [vip①]日本3
   - 🇯🇵 中转•日本298•高速
   - 🇯🇵 中转•日本300•原生
   - 🇯🇵 日本•高速114•高速
@@ -261,6 +280,7 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
+  - 🇺🇸 [vip①]美国1
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
@@ -281,6 +301,10 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
+  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - 🇬🇧 [vip①]英国1
+  - 🇬🇧 [vip①]英国2
+  - 🇰🇷 [vip①]韩国1
   - 🇩🇪 德国 法兰克福101
   - 🇩🇪 德国 法兰克福102
   - 🇩🇪 德国 法兰克福103
@@ -321,6 +345,17 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: '🇺🇸 [vip①]美国1', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: bb9a683a-6b57-31ee-99da-0b8453682389, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
