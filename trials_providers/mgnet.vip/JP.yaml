@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: f386e9f6-2176-38cd-bf52-c31ba14dd902, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: f386e9f6-2176-38cd-bf52-c31ba14dd902, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: f386e9f6-2176-38cd-bf52-c31ba14dd902, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 2cce857e-491d-3fb0-87ec-c034a6b5ac9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 2cce857e-491d-3fb0-87ec-c034a6b5ac9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 2cce857e-491d-3fb0-87ec-c034a6b5ac9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
