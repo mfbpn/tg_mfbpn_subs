@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: 1ed4f8fb-44d2-3226-a7c4-53cfca085ed7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: 1ed4f8fb-44d2-3226-a7c4-53cfca085ed7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
