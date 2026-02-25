@@ -13,7 +13,7 @@ api_host  ww38.csyun.xyz
 email  hruksjc937@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xipzhpcbx45@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lzbdnaxm951@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.org  bareed.ws  moakt.co  disbox.net  tmpmail.net  mydefipet.live  moakt.ws  tmail.ws  disbox.org  tmails.net  456.witvc.shop  smartnator.com  psnator.com  xxxhi.cc  snapmail.cc  mynanaimohomes.com  muatoc.com  maxamba.com  222.wfytc.shop  miteon.com  femailtor.com  lista.cc  nespressopixie.com  mail.wvwvw.tech  bccto.cc  mxl001.win  lplso.tmmad.com  51788.top  tmpnator.live  uuf.me  yzm.de  linshiyou.com
@@ -32,13 +32,13 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  cwmewmn505@gmail.com
-last_checkin  2026-02-25 00:44:23.684257+08:00
+email  nuobgmfk713@gmail.com
+last_checkin  2026-02-25 19:26:29.071801+08:00
 name  MG Network
 node_n  11
-sub_info  900.6M  2.148G  2026-02-26 18:34:20+08:00  (剩余 1.269G 1 day, 0:00:28.336639)
-sub_url  https://aa.mgnet.sbs/link/uTcG8ucERD2q0qoK?sub=3
-time  2026-02-24 17:34:21.599859+08:00
+sub_info  0B  1.45G  2026-02-27 20:26:28+08:00  (剩余 1.45G 2 days, 0:59:56.448168)
+sub_url  https://aa.mgnet.sbs/link/tOxjB0FyUYwXBHH8?sub=3
+time  2026-02-25 19:26:29.466555+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -54,5 +54,5 @@ sub_info  363.7M  888G  2024-12-16 02:49:57+08:00  (剩余 887.7G 3:01:55.043104
 sub_url  https://ww38.qlgq.top/link/9f31648253831f72?clash=1#墙了个墙
 time  2024-12-15 02:49:58.189735+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7fbee84f8400>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
-更新旧订阅失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /link/9f31648253831f72?clash=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7fbee8435c30>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f0284c49f30>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /link/9f31648253831f72?clash=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f02845f0670>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
