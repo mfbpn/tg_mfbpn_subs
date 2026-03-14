@@ -15,4 +15,4 @@ proxies:
 - {name: 🇺🇸 美国 洛杉矶104, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶105, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶106, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
-- {name: '🇺🇸 [vip①]美国1', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 6583c9ec-9a4b-3da9-80c7-020533c3c95f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 0ac459ea-a06b-3ab4-a6b3-0b894c1e9ff9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
