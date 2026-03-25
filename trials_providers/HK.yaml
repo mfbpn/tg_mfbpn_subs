@@ -20,4 +20,4 @@ proxies:
 - {name: 🇭🇰 香港 108, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
 - {name: 🇭🇰 香港 109, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
 - {name: 🇭🇰 香港 110, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
-- {name: '🇭🇰 [vip①]①香港', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: dd537d8e-54b2-36cf-8035-0f42081ae0eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
