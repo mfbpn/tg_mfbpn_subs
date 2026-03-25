@@ -42,7 +42,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速
   - 🇭🇰 广港•香港279•高速
   - 🇭🇰 广港•香港294•高速
-  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -53,6 +52,7 @@ proxy-groups:
   - 🇭🇰 香港 108
   - 🇭🇰 香港 109
   - 🇭🇰 香港 110
+  - 🇭🇰 [vip①]①香港
   - 🇹🇼 中转•台湾100•高速
   - 🇹🇼 中转•台湾91•原生
   - 🇹🇼 广港•台湾261•高速
@@ -63,13 +63,13 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速
   - 🇸🇬 新加坡•高速129•高速
   - 🇸🇬 新加坡•高速130•铂金
-  - 🇸🇬 [vip①]新加坡1
-  - 🇸🇬 [vip①]新加坡2
   - 🇸🇬 新加坡 101
   - 🇸🇬 新加坡 102
   - 🇸🇬 新加坡 103
   - 🇸🇬 新加坡 104
   - 🇸🇬 新加坡 105
+  - 🇸🇬 [vip①]新加坡1
+  - 🇸🇬 [vip①]新加坡2
   - 🇯🇵 中转•日本298•高速
   - 🇯🇵 中转•日本300•原生
   - 🇯🇵 日本•高速114•高速
@@ -92,13 +92,13 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速
   - 🇺🇸 广港•美国266•高速
   - 🇺🇸 广港•美国288•高速
-  - 🇺🇸 [vip①]美国1
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
   - 🇺🇸 美国 洛杉矶104
   - 🇺🇸 美国 洛杉矶105
   - 🇺🇸 美国 洛杉矶106
+  - 🇺🇸 [vip①]美国1
   - 🇰🇷 广港•韩国263•高速
   - 🇰🇷 广港•韩国264•高速
   - 🇬🇧 中转•英国267•高速
@@ -108,9 +108,6 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT
   - 🇩🇪 中转•德国305•GPT
   - 🇩🇪 中转•德国306•GPT
-  - ℹ️ www.mgjs.site最新域名，更新订阅
-  - 🇬🇧 [vip①]英国1
-  - 🇰🇷 [vip①]韩国1
   - 🇩🇪 德国 法兰克福101
   - 🇩🇪 德国 法兰克福102
   - 🇩🇪 德国 法兰克福103
@@ -120,6 +117,9 @@ proxy-groups:
   - 🇲🇾 马来西亚 001
   - 🇲🇾 马来西亚 002
   - 🇲🇾 马来西亚 003
+  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - 🇬🇧 [vip①]英国1
+  - 🇰🇷 [vip①]韩国1
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -184,7 +184,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速
   - 🇭🇰 广港•香港279•高速
   - 🇭🇰 广港•香港294•高速
-  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -195,6 +194,7 @@ proxy-groups:
   - 🇭🇰 香港 108
   - 🇭🇰 香港 109
   - 🇭🇰 香港 110
+  - 🇭🇰 [vip①]①香港
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -221,7 +221,6 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速
   - 🇭🇰 广港•香港279•高速
   - 🇭🇰 广港•香港294•高速
-  - 🇭🇰 [vip①]①香港
   - 🇭🇰 香港 101
   - 🇭🇰 香港 102
   - 🇭🇰 香港 103
@@ -232,6 +231,7 @@ proxy-groups:
   - 🇭🇰 香港 108
   - 🇭🇰 香港 109
   - 🇭🇰 香港 110
+  - 🇭🇰 [vip①]①香港
   - 🇹🇼 中转•台湾100•高速
   - 🇹🇼 中转•台湾91•原生
   - 🇹🇼 广港•台湾261•高速
@@ -248,13 +248,13 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速
   - 🇸🇬 新加坡•高速129•高速
   - 🇸🇬 新加坡•高速130•铂金
-  - 🇸🇬 [vip①]新加坡1
-  - 🇸🇬 [vip①]新加坡2
   - 🇸🇬 新加坡 101
   - 🇸🇬 新加坡 102
   - 🇸🇬 新加坡 103
   - 🇸🇬 新加坡 104
   - 🇸🇬 新加坡 105
+  - 🇸🇬 [vip①]新加坡1
+  - 🇸🇬 [vip①]新加坡2
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -289,13 +289,13 @@ proxy-groups:
   - 🇺🇸 中转•美国61•高速
   - 🇺🇸 广港•美国266•高速
   - 🇺🇸 广港•美国288•高速
-  - 🇺🇸 [vip①]美国1
   - 🇺🇸 美国 洛杉矶101
   - 🇺🇸 美国 洛杉矶102
   - 🇺🇸 美国 洛杉矶103
   - 🇺🇸 美国 洛杉矶104
   - 🇺🇸 美国 洛杉矶105
   - 🇺🇸 美国 洛杉矶106
+  - 🇺🇸 [vip①]美国1
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -311,9 +311,6 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT
   - 🇩🇪 中转•德国305•GPT
   - 🇩🇪 中转•德国306•GPT
-  - ℹ️ www.mgjs.site最新域名，更新订阅
-  - 🇬🇧 [vip①]英国1
-  - 🇰🇷 [vip①]韩国1
   - 🇩🇪 德国 法兰克福101
   - 🇩🇪 德国 法兰克福102
   - 🇩🇪 德国 法兰克福103
@@ -323,6 +320,9 @@ proxy-groups:
   - 🇲🇾 马来西亚 001
   - 🇲🇾 马来西亚 002
   - 🇲🇾 马来西亚 003
+  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - 🇬🇧 [vip①]英国1
+  - 🇰🇷 [vip①]韩国1
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -345,6 +345,10 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速, server: gy.58n.net, port: 20298, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生, server: gy.58n.net, port: 20300, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速, server: gy.58n.net, port: 41767, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
@@ -356,6 +360,11 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜, server: gy.58n.net, port: 20059, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速, server: gy.58n.net, port: 20071, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速, server: gy.58n.net, port: 20076, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线, server: gyl.58n.net, port: 20309, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速, server: gy.58n.net, port: 43337, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速, server: gy.58n.net, port: 20307, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -365,23 +374,6 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速, server: gy.58n.net, port: 20278, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速, server: gy.58n.net, port: 20279, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速, server: gy.58n.net, port: 20294, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速, server: gy.58n.net, port: 20129, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金, server: gy.58n.net, port: 20130, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速, server: gy.58n.net, port: 59021, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生, server: gy.58n.net, port: 21247, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速, server: gy.58n.net, port: 33323, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速, server: gy.58n.net, port: 36821, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国295•高速, server: gy.58n.net, port: 20295, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速, server: gy.58n.net, port: 20296, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速, server: gy.58n.net, port: 20308, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速, server: gy.58n.net, port: 16895, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生, server: gy.58n.net, port: 21970, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速, server: gy.58n.net, port: 30767, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速, server: gy.58n.net, port: 56783, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速, server: gy.58n.net, port: 20288, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速, server: gy.58n.net, port: 45168, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速, server: gy.58n.net, port: 50355, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速, server: gy.58n.net, port: 25238, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -391,17 +383,19 @@ proxies:
 - {name: 🇩🇪 中转•德国304•GPT, server: gy.58n.net, port: 20304, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国305•GPT, server: gy.58n.net, port: 20305, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国306•GPT, server: gy.58n.net, port: 20306, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速, server: gy.58n.net, port: 20295, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速, server: gy.58n.net, port: 20296, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速, server: gy.58n.net, port: 20308, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速, server: gy.58n.net, port: 16895, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生, server: gy.58n.net, port: 21970, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速, server: gy.58n.net, port: 30767, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速, server: gy.58n.net, port: 56783, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速, server: gy.58n.net, port: 20288, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇭🇰 香港 101, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 102, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 103, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
@@ -412,17 +406,6 @@ proxies:
 - {name: 🇭🇰 香港 108, server: hkvip104.qlgq.fun, port: 46216, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
 - {name: 🇭🇰 香港 109, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
 - {name: 🇭🇰 香港 110, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
-- {name: 🇸🇬 新加坡 101, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶104, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶105, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶106, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福101, server: fkvip102.qlgq.fun, port: 11789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102, server: fkvip102.qlgq.fun, port: 21789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福103, server: fkvip102.qlgq.fun, port: 31789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
@@ -432,6 +415,23 @@ proxies:
 - {name: 🇲🇾 马来西亚 001, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 002, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 003, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶104, server: lavip102.qlgq.fun, port: 49643, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶105, server: lavip102.qlgq.fun, port: 20443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶106, server: lavip102.qlgq.fun, port: 30443, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: lavip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip102}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: d06e2e16-9290-32ee-bcd0-2dabab6322be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
