@@ -11,5 +11,5 @@ proxies:
 - {name: 🇸🇬 新加坡 103, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 104, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 105, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: b0ff9f71-e3f3-31d2-922d-df8a7a17e81c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: b0ff9f71-e3f3-31d2-922d-df8a7a17e81c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: dd537d8e-54b2-36cf-8035-0f42081ae0eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: dd537d8e-54b2-36cf-8035-0f42081ae0eb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
