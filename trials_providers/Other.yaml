@@ -10,9 +10,9 @@ proxies:
 - {name: 🇩🇪 中转•德国304•GPT, server: gy.58n.net, port: 20304, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国305•GPT, server: gy.58n.net, port: 20305, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国306•GPT, server: gy.58n.net, port: 20306, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: b673d086-9770-328b-aaed-f52faccd9185, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: b673d086-9770-328b-aaed-f52faccd9185, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: b673d086-9770-328b-aaed-f52faccd9185, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 9a0e7e23-2d4c-32f8-ab38-5fb5b55a1279, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 9a0e7e23-2d4c-32f8-ab38-5fb5b55a1279, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 9a0e7e23-2d4c-32f8-ab38-5fb5b55a1279, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 法兰克福101, server: fkvip102.qlgq.fun, port: 11789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102, server: fkvip102.qlgq.fun, port: 21789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
 - {name: 🇩🇪 德国 法兰克福103, server: fkvip102.qlgq.fun, port: 31789, type: trojan, password: 0ea7ce62-c9b1-3cbb-ab1b-6439a46c2e8a, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
