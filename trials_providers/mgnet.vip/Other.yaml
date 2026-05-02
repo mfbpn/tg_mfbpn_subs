@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 62fa8077-711f-3240-8686-b044185a8f16, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 62fa8077-711f-3240-8686-b044185a8f16, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 62fa8077-711f-3240-8686-b044185a8f16, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 87a8a2fb-212f-37ea-9b95-36a0538e8984, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 87a8a2fb-212f-37ea-9b95-36a0538e8984, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 87a8a2fb-212f-37ea-9b95-36a0538e8984, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
