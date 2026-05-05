@@ -3,4 +3,4 @@
 proxies:
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 89f3b9d4-21c4-3b67-9c87-3679af4a0f25, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国1', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 89f3b9d4-21c4-3b67-9c87-3679af4a0f25, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 89f3b9d4-21c4-3b67-9c87-3679af4a0f25, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 89f3b9d4-21c4-3b67-9c87-3679af4a0f25, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
