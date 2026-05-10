@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港|低倍率', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 674069a8-484e-3b6c-b6b9-b8cb7d31a32e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 674069a8-484e-3b6c-b6b9-b8cb7d31a32e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 8581b1c2-c395-3cee-b68a-65594cd12232, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 8581b1c2-c395-3cee-b68a-65594cd12232, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线, server: gyl.58n.net, port: 20309, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速, server: gy.58n.net, port: 43337, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速, server: gy.58n.net, port: 20307, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
