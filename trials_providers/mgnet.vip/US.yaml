@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: '🇺🇸 [vip①]美国1|低倍率', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: e38e693d-566b-32c8-a5a0-70130e311ce0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国2|低倍率', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: e38e693d-566b-32c8-a5a0-70130e311ce0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
