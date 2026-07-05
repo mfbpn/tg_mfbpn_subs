@@ -109,7 +109,7 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT
   - 🇩🇪 中转•德国305•GPT
   - 🇩🇪 中转•德国306•GPT
-  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - ℹ️ www.mgjs.online最新域名，更新订阅
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -300,7 +300,7 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT
   - 🇩🇪 中转•德国305•GPT
   - 🇩🇪 中转•德国306•GPT
-  - ℹ️ www.mgjs.site最新域名，更新订阅
+  - ℹ️ www.mgjs.online最新域名，更新订阅
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -399,7 +399,7 @@ proxies:
 - {name: 🇩🇪 中转•德国304•GPT, server: gy.58n.net, port: 20304, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国305•GPT, server: gy.58n.net, port: 20305, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国306•GPT, server: gy.58n.net, port: 20306, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: e38e693d-566b-32c8-a5a0-70130e311ce0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: e38e693d-566b-32c8-a5a0-70130e311ce0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
