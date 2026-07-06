@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: e38e693d-566b-32c8-a5a0-70130e311ce0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
