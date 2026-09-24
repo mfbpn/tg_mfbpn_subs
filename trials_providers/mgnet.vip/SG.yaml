@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1|低倍率', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: fae3418c-3abf-3e8f-8267-7aac63b3f3a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: a6d3daf2-302e-3a64-b081-6fb72898f4f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
