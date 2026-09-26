@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1|低倍率', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 1d4759a0-40ee-354f-a1bd-5aefcdb72424, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 7c717fba-330b-3e8e-9b11-0473ec8dec26, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速, server: gy.58n.net, port: 20299, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜, server: gy.58n.net, port: 17806, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速, server: gy.58n.net, port: 30712, type: trojan, password: af7be24e-0acb-3038-9df6-0f0f3e397a2f, sni: x83.flybar.work, skip-cert-verify: true, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: 1d4759a0-40ee-354f-a1bd-5aefcdb72424, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: 7c717fba-330b-3e8e-9b11-0473ec8dec26, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
