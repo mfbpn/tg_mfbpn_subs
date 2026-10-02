@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇸🇬 [vip①]新加坡1|低倍率', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 0ad9d5b3-ca03-3768-a3f8-d7450ed79cfd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
