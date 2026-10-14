@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 1d3bde3f-c2ea-351b-99b8-c2d24dddaf52, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: 1d3bde3f-c2ea-351b-99b8-c2d24dddaf52, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅, server: xx, port: 50003, type: vmess, uuid: 05d8acc9-abb6-345f-9016-e6332bdf5d83, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: 05d8acc9-abb6-345f-9016-e6332bdf5d83, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
