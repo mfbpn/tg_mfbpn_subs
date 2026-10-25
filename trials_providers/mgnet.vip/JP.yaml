@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1|低倍率', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: ea625ee0-2400-31b9-8d29-6e07281936c9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2|低倍率', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: ea625ee0-2400-31b9-8d29-6e07281936c9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3|低倍率', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: ea625ee0-2400-31b9-8d29-6e07281936c9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1|低倍率', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: ff8bfbfc-a392-3297-b5c4-7619ca5c5309, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2|低倍率', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: ff8bfbfc-a392-3297-b5c4-7619ca5c5309, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3|低倍率', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: ff8bfbfc-a392-3297-b5c4-7619ca5c5309, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
