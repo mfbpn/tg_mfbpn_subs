@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1|低倍率', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: 98fa1484-5d63-3f33-b50b-88299d46d5b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mgjiasuyunnet.26621689.xyz}}, udp: true}
-- {name: '🇯🇵 [vip①]日本2|低倍率', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: 98fa1484-5d63-3f33-b50b-88299d46d5b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mgjiasuyunnet.26621689.xyz}}, udp: true}
-- {name: '🇯🇵 [vip①]日本3|低倍率', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: 98fa1484-5d63-3f33-b50b-88299d46d5b7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mgjiasuyunnet.26621689.xyz}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1|低倍率', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: 6db303e7-8b36-30f5-bdf4-26ea3a0db6b3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mgjiasuyunnet.26621689.xyz}}, udp: true}
+- {name: '🇯🇵 [vip①]日本2|低倍率', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: 6db303e7-8b36-30f5-bdf4-26ea3a0db6b3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mgjiasuyunnet.26621689.xyz}}, udp: true}
+- {name: '🇯🇵 [vip①]日本3|低倍率', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: 6db303e7-8b36-30f5-bdf4-26ea3a0db6b3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mgjiasuyunnet.26621689.xyz}}, udp: true}
