@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港|低倍率', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: c038455d-111d-3032-bb43-afe931a5a211, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mgjiasuyunnet.26621689.xyz}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: 4ca4c9d8-8a94-35cc-a11b-881a9727c41b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mgjiasuyunnet.26621689.xyz}}, udp: true}
